@@ -1,24 +1,27 @@
 ---
-title: Manuscript Title
+title: Characterization of the USDA Cucurbita pepo, Cucurbita moschata, and Cucurbita maxima Collections
 keywords:
-- markdown
-- publishing
-- manubot
+- GRIN
+- Cucurbits
+- Diversity
+- Germplasm collection
+- Cucurbita pepo
+- Cucurbita moschata
+- Cucurbita maxima
 lang: en-US
 date-meta: '2021-08-20'
 author-meta:
-- John Doe
-- Jane Roe
+- Christopher Owen Hernandez
 header-includes: |-
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
   Suggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html
   -->
   <meta name="dc.format" content="text/html" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="Characterization of the USDA Cucurbita pepo, Cucurbita moschata, and Cucurbita maxima Collections" />
+  <meta name="citation_title" content="Characterization of the USDA Cucurbita pepo, Cucurbita moschata, and Cucurbita maxima Collections" />
+  <meta property="og:title" content="Characterization of the USDA Cucurbita pepo, Cucurbita moschata, and Cucurbita maxima Collections" />
+  <meta property="twitter:title" content="Characterization of the USDA Cucurbita pepo, Cucurbita moschata, and Cucurbita maxima Collections" />
   <meta name="dc.date" content="2021-08-20" />
   <meta name="citation_publication_date" content="2021-08-20" />
   <meta name="dc.language" content="en-US" />
@@ -27,23 +30,19 @@ header-includes: |-
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
+  <meta name="citation_author" content="Christopher Owen Hernandez" />
+  <meta name="citation_author_institution" content="Department of Plant Breeding and Genetics, Cornell University" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="twitter:creator" content="@None" />
   <link rel="canonical" href="https://ch728.github.io/cucurbit-usda/" />
   <meta property="og:url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta property="twitter:url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/defe787b0ad8a21a745cc82c3117770896caaf8b/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/defe787b0ad8a21a745cc82c3117770896caaf8b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/defe787b0ad8a21a745cc82c3117770896caaf8b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/3d5373de4166dd9b4a60491fe6dca6ff0c0142fb/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/3d5373de4166dd9b4a60491fe6dca6ff0c0142fb/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/3d5373de4166dd9b4a60491fe6dca6ff0c0142fb/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +64,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/defe787b0ad8a21a745cc82c3117770896caaf8b/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/3d5373de4166dd9b4a60491fe6dca6ff0c0142fb/))
 was automatically generated
-from [ch728/cucurbit-usda@defe787](https://github.com/ch728/cucurbit-usda/tree/defe787b0ad8a21a745cc82c3117770896caaf8b)
+from [ch728/cucurbit-usda@3d5373d](https://github.com/ch728/cucurbit-usda/tree/3d5373de4166dd9b4a60491fe6dca6ff0c0142fb)
 on August 20, 2021.
 </em></small>
 
@@ -75,25 +74,14 @@ on August 20, 2021.
 
 
 
-+ **John Doe**<br>
++ **Christopher Owen Hernandez**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [ch728](https://github.com/ch728)<br>
   <small>
-     Department of Something, University of Whatever
+     Department of Plant Breeding and Genetics, Cornell University
      · Funded by Grant XXXXXXXX
-  </small>
-
-+ **Jane Roe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
-  <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
   </small>
 
 
