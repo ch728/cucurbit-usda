@@ -1,26 +1,23 @@
 ---
-title: "Manuscript Title"
+title: "Characterization of the USDA Cucurbita pepo, Cucurbita moschata, and Cucurbita maxima Collections"
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - GRIN
+  - Cucurbits
+  - Diversity
+  - Germplasm collection
+  - Cucurbita pepo
+  - Cucurbita moschata
+  - Cucurbita maxima
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
+  - github: ch728
+    name: Christopher Owen Hernandez
+    initials: COH
     orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+    twitter: 
+    email: 
     affiliations:
-      - Department of Something, University of Whatever
+      - Department of Plant Breeding and Genetics, Cornell University
     funders:
       - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+ 
