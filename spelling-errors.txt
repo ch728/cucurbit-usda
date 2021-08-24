@@ -10,7 +10,7 @@ Cucurbitaceae
 Cucurbits
 Delicata
 Dickenson
-genomic
+Genomic
 genotyping
 germplasm
 GWAS
