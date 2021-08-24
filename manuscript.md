@@ -40,9 +40,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/063d243652389c013519d7d02e4cd5afa7c63b86/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/063d243652389c013519d7d02e4cd5afa7c63b86/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/063d243652389c013519d7d02e4cd5afa7c63b86/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/35f7d6efac4a38ba1b5af1018b72d97e5c95c8c8/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/35f7d6efac4a38ba1b5af1018b72d97e5c95c8c8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/35f7d6efac4a38ba1b5af1018b72d97e5c95c8c8/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/063d243652389c013519d7d02e4cd5afa7c63b86/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/35f7d6efac4a38ba1b5af1018b72d97e5c95c8c8/))
 was automatically generated
-from [ch728/cucurbit-usda@063d243](https://github.com/ch728/cucurbit-usda/tree/063d243652389c013519d7d02e4cd5afa7c63b86)
+from [ch728/cucurbit-usda@35f7d6e](https://github.com/ch728/cucurbit-usda/tree/35f7d6efac4a38ba1b5af1018b72d97e5c95c8c8)
 on August 24, 2021.
 </em></small>
 
@@ -313,7 +313,6 @@ Table: A table with merged cells using the `attributes` plugin.
 
 A LaTeX equation:
 
-$$\int_0^\infty e^{-x^2} dx=\frac{\sqrt{\pi}}{2}$$ {#eq:regular-equation}
 
 An equation too long to fit within page:
 
