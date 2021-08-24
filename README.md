@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/ch728/cucurbit-usda/tree/gh-pages) branch hosts the contents of this directory at <https://ch728.github.io/cucurbit-usda/>.
-The permalink for this webpage version is <https://ch728.github.io/cucurbit-usda/v/a81f195bd2b3d1b84b777b21b09ba475de350bc0/>.
+The permalink for this webpage version is <https://ch728.github.io/cucurbit-usda/v/48f58f1762c6a90affb53030e32016d62e845fd0/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://ch728.github.io/cucurbit-usda/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`a81f195bd2b3d1b84b777b21b09ba475de350bc0`](https://github.com/ch728/cucurbit-usda/commit/a81f195bd2b3d1b84b777b21b09ba475de350bc0).
+[`48f58f1762c6a90affb53030e32016d62e845fd0`](https://github.com/ch728/cucurbit-usda/commit/48f58f1762c6a90affb53030e32016d62e845fd0).
