@@ -12,7 +12,7 @@ Delicata
 Dickenson
 Genomic
 genotyping
-germplasm
+Germplasm
 GWAS
 Japonica
 Kobocha
