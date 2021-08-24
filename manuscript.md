@@ -40,9 +40,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/fa0bdd7a5c5812190351a18fc0e78c5ce7e348df/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/fa0bdd7a5c5812190351a18fc0e78c5ce7e348df/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/fa0bdd7a5c5812190351a18fc0e78c5ce7e348df/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/d8e8a445f483b119162ccd5ffc3fec581c411dde/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/d8e8a445f483b119162ccd5ffc3fec581c411dde/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/d8e8a445f483b119162ccd5ffc3fec581c411dde/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/fa0bdd7a5c5812190351a18fc0e78c5ce7e348df/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/d8e8a445f483b119162ccd5ffc3fec581c411dde/))
 was automatically generated
-from [ch728/cucurbit-usda@fa0bdd7](https://github.com/ch728/cucurbit-usda/tree/fa0bdd7a5c5812190351a18fc0e78c5ce7e348df)
+from [ch728/cucurbit-usda@d8e8a44](https://github.com/ch728/cucurbit-usda/tree/d8e8a445f483b119162ccd5ffc3fec581c411dde)
 on August 24, 2021.
 </em></small>
 
@@ -310,7 +310,7 @@ Table: A table with merged cells using the `attributes` plugin.
 {#tbl: merged-cells}
 
 ## Equations
-
+$$\int_0^\infty e^{-x^2} dx=\frac{\sqrt{\pi}}{2}$$ {#eq:regular-equation}
 
 ## Special
 
