@@ -40,9 +40,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/cddd15c9c8b268fe924d403165d92012120f0045/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/cddd15c9c8b268fe924d403165d92012120f0045/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/cddd15c9c8b268fe924d403165d92012120f0045/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/db4a073d8a440f4ed552a58d6964b73ece624b3b/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/db4a073d8a440f4ed552a58d6964b73ece624b3b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/db4a073d8a440f4ed552a58d6964b73ece624b3b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/cddd15c9c8b268fe924d403165d92012120f0045/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/db4a073d8a440f4ed552a58d6964b73ece624b3b/))
 was automatically generated
-from [ch728/cucurbit-usda@cddd15c](https://github.com/ch728/cucurbit-usda/tree/cddd15c9c8b268fe924d403165d92012120f0045)
+from [ch728/cucurbit-usda@db4a073](https://github.com/ch728/cucurbit-usda/tree/db4a073d8a440f4ed552a58d6964b73ece624b3b)
 on August 24, 2021.
 </em></small>
 
@@ -87,7 +87,7 @@ on August 24, 2021.
 
 
 ## Abstract {.page_break_before}
-
+The *Cucurbita* genus is home to a number of economically and culturally important species. We present the analysis of genotyping-by-sequencing data generated from sequencing the USDA germplasm collections of *Cucurbita pepo*, *Cucurbita moschata*, and *Cucurbita maxima*. These collections include a mixture of wild, landrace, and cultivated specimens from all over the world. Roughly 4,000 - 40,000 quality SNPs were called in each of the collections, which ranged in size from 314 to 829 accessions. Genomic analyses were conducted to characterize the diversity in each of the species and revealed extensive structure corresponding to a combination of geographical origin and morphotype/market class. GWAS was conducted for each data set using both historical and contemporary data, and signals were detected for several traits, including the bush gene (*Bu*) in *C. pepo*. These data represent the largest collection of sequence *Cucurbita* and can be used to direct the maintenance of genetic diversity, develop breeding resources, and to help prioritize  whole-genome re-sequencing for further GWAS and other genomics studies aimed at understanding the phenotypic and genetic diversity present *Cucurbita*.
 
 
 
