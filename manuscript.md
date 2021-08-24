@@ -40,9 +40,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/a81f195bd2b3d1b84b777b21b09ba475de350bc0/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/a81f195bd2b3d1b84b777b21b09ba475de350bc0/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/a81f195bd2b3d1b84b777b21b09ba475de350bc0/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/48f58f1762c6a90affb53030e32016d62e845fd0/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/48f58f1762c6a90affb53030e32016d62e845fd0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/48f58f1762c6a90affb53030e32016d62e845fd0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/a81f195bd2b3d1b84b777b21b09ba475de350bc0/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/48f58f1762c6a90affb53030e32016d62e845fd0/))
 was automatically generated
-from [ch728/cucurbit-usda@a81f195](https://github.com/ch728/cucurbit-usda/tree/a81f195bd2b3d1b84b777b21b09ba475de350bc0)
+from [ch728/cucurbit-usda@48f58f1](https://github.com/ch728/cucurbit-usda/tree/48f58f1762c6a90affb53030e32016d62e845fd0)
 on August 24, 2021.
 </em></small>
 
@@ -310,7 +310,7 @@ Table: A table with merged cells using the `attributes` plugin.
 {#tbl: merged-cells}
 
 ## Equations
-$$\mathbf{X}$$
+$$\mathbf{X}$$ {#eq:long-equation}
 
 ## Special
 
