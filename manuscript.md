@@ -40,9 +40,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/93ada66ca19df6ce46649519b67042b87423fa9b/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/93ada66ca19df6ce46649519b67042b87423fa9b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/93ada66ca19df6ce46649519b67042b87423fa9b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/47175734cc8efba72a8262da6b386045e7534272/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/47175734cc8efba72a8262da6b386045e7534272/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/47175734cc8efba72a8262da6b386045e7534272/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/93ada66ca19df6ce46649519b67042b87423fa9b/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/47175734cc8efba72a8262da6b386045e7534272/))
 was automatically generated
-from [ch728/cucurbit-usda@93ada66](https://github.com/ch728/cucurbit-usda/tree/93ada66ca19df6ce46649519b67042b87423fa9b)
+from [ch728/cucurbit-usda@4717573](https://github.com/ch728/cucurbit-usda/tree/47175734cc8efba72a8262da6b386045e7534272)
 on August 24, 2021.
 </em></small>
 
@@ -159,6 +159,9 @@ domestication in Japan/China\cite{nee_domestication_1990, sun_karyotype_2017}.
  for *C. pepo*, *C. moschata*, and *C. maxima*. We present genotyping-by-sequencing data from each of these 
  collections, population genomics analysis, results from genome-wide association using historical and contemporary phenotypes, and 
  develop a core panel for re-sequencing.
+
+
+# Material and Methods
 
 
 ## References {.page_break_before}
