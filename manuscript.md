@@ -40,9 +40,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/5d8519a29b85803b527fca741406adf19b26711f/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/5d8519a29b85803b527fca741406adf19b26711f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/5d8519a29b85803b527fca741406adf19b26711f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/325e5ae8cbd4cc43983e5e6acce64e189a25847b/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/325e5ae8cbd4cc43983e5e6acce64e189a25847b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/325e5ae8cbd4cc43983e5e6acce64e189a25847b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/5d8519a29b85803b527fca741406adf19b26711f/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/325e5ae8cbd4cc43983e5e6acce64e189a25847b/))
 was automatically generated
-from [ch728/cucurbit-usda@5d8519a](https://github.com/ch728/cucurbit-usda/tree/5d8519a29b85803b527fca741406adf19b26711f)
+from [ch728/cucurbit-usda@325e5ae](https://github.com/ch728/cucurbit-usda/tree/325e5ae8cbd4cc43983e5e6acce64e189a25847b)
 on August 24, 2021.
 </em></small>
 
@@ -95,7 +95,7 @@ The *Cucurbita* genus is home to a number of economically and culturally importa
 
 The *Cucurbitaceae* (Cucurbit) family is home to a number of vining species mostly cultivated for their fruits. 
 This diverse and economically important family includes cucumber (*Cucumis sativa*), melon (*Cucumis melo*), 
-watermelon (*Citrullus lanatus*), and squash (*Cucurbita ssp.*) \cite{ferriol_pumpkin_2008}. Like other 
+watermelon (*Citrullus lanatus*), and squash (*Cucurbita ssp.*) [@doi:10.1007/978-0-387-30443-4_10]. Like other 
 cucurbits, squash exhibit diversity in growth habit, fruit morphology, metabolite content, disease resistance, and have 
 a nuanced domestication story \cite{paris_genes_2005, chomicki_origin_2019}. The genomes of *Cucurbita ssp.* are 
 small (roughly 500 Mb), but result from complex interactions between ancient genomes brought together through an allopolyploidization 
