@@ -40,9 +40,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/7dda7a10718c53d339069fafe74d6bd3ba1f6361/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/7dda7a10718c53d339069fafe74d6bd3ba1f6361/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/7dda7a10718c53d339069fafe74d6bd3ba1f6361/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/5d8519a29b85803b527fca741406adf19b26711f/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/5d8519a29b85803b527fca741406adf19b26711f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/5d8519a29b85803b527fca741406adf19b26711f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/7dda7a10718c53d339069fafe74d6bd3ba1f6361/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/5d8519a29b85803b527fca741406adf19b26711f/))
 was automatically generated
-from [ch728/cucurbit-usda@7dda7a1](https://github.com/ch728/cucurbit-usda/tree/7dda7a10718c53d339069fafe74d6bd3ba1f6361)
+from [ch728/cucurbit-usda@5d8519a](https://github.com/ch728/cucurbit-usda/tree/5d8519a29b85803b527fca741406adf19b26711f)
 on August 24, 2021.
 </em></small>
 
@@ -161,7 +161,7 @@ domestication in Japan/China\cite{nee_domestication_1990, sun_karyotype_2017}.
  develop a core panel for re-sequencing.
 
 
-# Material and Methods
+## Material and Methods
 
 
 ## References {.page_break_before}

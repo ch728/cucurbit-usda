@@ -7,12 +7,12 @@ Cucumis
 Cucurbit
 Cucurbita
 Cucurbitaceae
-Cucurbits
+cucurbits
 Delicata
 Dickenson
 Genomic
 genotyping
-Germplasm
+germplasm
 GWAS
 Japonica
 Kobocha
