@@ -11,7 +11,7 @@ keywords:
 lang: en-US
 date-meta: '2021-08-25'
 author-meta:
-- Christopher Owen Hernandez
+- Michael Mazourek
 header-includes: |-
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -30,9 +30,9 @@ header-includes: |-
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="Christopher Owen Hernandez" />
-  <meta name="citation_author_institution" content="Department of Plant Breeding and Genetics, Cornell University" />
-  <meta name="citation_author_orcid" content="None" />
+  <meta name="citation_author" content="Michael Mazourek" />
+  <meta name="citation_author_institution" content="Department of Plant Breeding and Genetics, Cornell University, Ithaca,NY" />
+  <meta name="citation_author_orcid" content="0000-0002-2285-7692" />
   <meta name="twitter:creator" content="@None" />
   <link rel="canonical" href="https://ch728.github.io/cucurbit-usda/" />
   <meta property="og:url" content="https://ch728.github.io/cucurbit-usda/" />
@@ -40,9 +40,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/1aa490f03764d59a6c858dbc5f44cd5f79e49548/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/1aa490f03764d59a6c858dbc5f44cd5f79e49548/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/1aa490f03764d59a6c858dbc5f44cd5f79e49548/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/85aac850e8e01d0aeeca80801269159236c3be2b/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/85aac850e8e01d0aeeca80801269159236c3be2b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/85aac850e8e01d0aeeca80801269159236c3be2b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/1aa490f03764d59a6c858dbc5f44cd5f79e49548/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/85aac850e8e01d0aeeca80801269159236c3be2b/))
 was automatically generated
-from [ch728/cucurbit-usda@1aa490f](https://github.com/ch728/cucurbit-usda/tree/1aa490f03764d59a6c858dbc5f44cd5f79e49548)
+from [ch728/cucurbit-usda@85aac85](https://github.com/ch728/cucurbit-usda/tree/85aac850e8e01d0aeeca80801269159236c3be2b)
 on August 25, 2021.
 </em></small>
 
@@ -74,10 +74,11 @@ on August 25, 2021.
 
 
 
-+ **Christopher Owen Hernandez**<br><br>
++ **Michael Mazourek**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [0000-0002-2285-7692](https://orcid.org/0000-0002-2285-7692)<br>
   <small>
-     Department of Plant Breeding and Genetics, Cornell University
-     · Funded by Grant XXXXXXXX
+     Department of Plant Breeding and Genetics, Cornell University, Ithaca,NY
   </small>
 
 

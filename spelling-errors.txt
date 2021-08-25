@@ -9,10 +9,10 @@ Citrullus
 Cocozelle
 CucCap
 Cucumis
-cucurbit
+Cucurbit
 Cucurbita
 Cucurbitaceae
-Cucurbits
+cucurbits
 dataset
 Delicata
 Dickenson
@@ -21,10 +21,10 @@ dsDNA
 fraterna
 GBS
 GenoCore
-genomic
+Genomic
 genotype
 genotypes
-Genotyping
+genotyping
 germplasm
 glm
 gsg
@@ -46,6 +46,7 @@ LinkImpute
 lm
 Logit
 MAF
+Mazourek
 melo
 missingness
 morophotypes
@@ -84,4 +85,3 @@ unrooted
 VCFtool’s
 VCFtools
 vining
-XXXXXXXX
