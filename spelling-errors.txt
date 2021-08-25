@@ -12,10 +12,10 @@ Citrullus
 Cocozelle
 CucCap
 Cucumis
-cucurbit
+Cucurbit
 Cucurbita
 Cucurbitaceae
-cucurbits
+Cucurbits
 dataset
 Delicata
 Dickenson
@@ -26,10 +26,10 @@ fraterna
 GBS
 GenoCore
 genomic
-genotype
+Genotype
 genotyped
 genotypes
-genotyping
+Genotyping
 Germplasm
 glm
 gsg
@@ -71,7 +71,7 @@ phenotyped
 phenotypes
 phenotypic
 phylo
-phylogenetic
+Phylogenetic
 PicoGreen
 plex
 PLINK
@@ -94,7 +94,7 @@ sturcture
 subsp
 Tek
 texana
-Unrooted
+unrooted
 VCFtool’s
 VCFtools
 vining

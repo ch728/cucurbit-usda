@@ -55,9 +55,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/f9cdc7b33db74d4da3da1119c42be84c0e0a6d8e/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/f9cdc7b33db74d4da3da1119c42be84c0e0a6d8e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/f9cdc7b33db74d4da3da1119c42be84c0e0a6d8e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/ddc02f7f5ecad5579610b8529c04908d4a3efb6a/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/ddc02f7f5ecad5579610b8529c04908d4a3efb6a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/ddc02f7f5ecad5579610b8529c04908d4a3efb6a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -79,9 +79,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/f9cdc7b33db74d4da3da1119c42be84c0e0a6d8e/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/ddc02f7f5ecad5579610b8529c04908d4a3efb6a/))
 was automatically generated
-from [ch728/cucurbit-usda@f9cdc7b](https://github.com/ch728/cucurbit-usda/tree/f9cdc7b33db74d4da3da1119c42be84c0e0a6d8e)
+from [ch728/cucurbit-usda@ddc02f7](https://github.com/ch728/cucurbit-usda/tree/ddc02f7f5ecad5579610b8529c04908d4a3efb6a)
 on August 25, 2021.
 </em></small>
 
@@ -302,6 +302,9 @@ A core set of accessions that covered over 99\% of total genetic diversity was i
 
 
 ## Discussion
+
+
+## Supplemental
 
 
 ## References {.page_break_before}
