@@ -32,7 +32,7 @@ header-includes: |-
   <meta name="citation_technical_report_institution" content="Manubot" />
   <meta name="citation_author" content="Christopher Owen Hernandez" />
   <meta name="citation_author_institution" content="Department of Plant Breeding and Genetics, Cornell University" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author_orcid" content="None" />
   <meta name="twitter:creator" content="@None" />
   <link rel="canonical" href="https://ch728.github.io/cucurbit-usda/" />
   <meta property="og:url" content="https://ch728.github.io/cucurbit-usda/" />
@@ -40,9 +40,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/64093e33c5eb113f7650268936df5b778884e42a/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/64093e33c5eb113f7650268936df5b778884e42a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/64093e33c5eb113f7650268936df5b778884e42a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/1aa490f03764d59a6c858dbc5f44cd5f79e49548/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/1aa490f03764d59a6c858dbc5f44cd5f79e49548/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/1aa490f03764d59a6c858dbc5f44cd5f79e49548/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/64093e33c5eb113f7650268936df5b778884e42a/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/1aa490f03764d59a6c858dbc5f44cd5f79e49548/))
 was automatically generated
-from [ch728/cucurbit-usda@64093e3](https://github.com/ch728/cucurbit-usda/tree/64093e33c5eb113f7650268936df5b778884e42a)
+from [ch728/cucurbit-usda@1aa490f](https://github.com/ch728/cucurbit-usda/tree/1aa490f03764d59a6c858dbc5f44cd5f79e49548)
 on August 25, 2021.
 </em></small>
 
@@ -74,11 +74,7 @@ on August 25, 2021.
 
 
 
-+ **Christopher Owen Hernandez**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [ch728](https://github.com/ch728)<br>
++ **Christopher Owen Hernandez**<br><br>
   <small>
      Department of Plant Breeding and Genetics, Cornell University
      · Funded by Grant XXXXXXXX

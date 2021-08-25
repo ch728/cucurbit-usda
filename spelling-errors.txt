@@ -9,7 +9,7 @@ Citrullus
 Cocozelle
 CucCap
 Cucumis
-Cucurbit
+cucurbit
 Cucurbita
 Cucurbitaceae
 Cucurbits
@@ -21,11 +21,11 @@ dsDNA
 fraterna
 GBS
 GenoCore
-Genomic
+genomic
 genotype
 genotypes
 Genotyping
-Germplasm
+germplasm
 glm
 gsg
 GWAS
@@ -84,5 +84,4 @@ unrooted
 VCFtool’s
 VCFtools
 vining
-XXXX
 XXXXXXXX
