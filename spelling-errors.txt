@@ -2,6 +2,7 @@ aculture
 allopolyploidization
 ASReml
 biallelic
+Boyce
 broadlycultivated
 BWA
 Calabaza
@@ -12,19 +13,20 @@ Cucumis
 cucurbit
 Cucurbita
 Cucurbitaceae
-Cucurbits
+cucurbits
 dataset
 Delicata
 Dickenson
 DS
 dsDNA
+Fei
 fraterna
 GBS
 GenoCore
 genomic
 genotype
 genotypes
-Genotyping
+genotyping
 Germplasm
 glm
 gsg
@@ -37,6 +39,7 @@ Invitrogen
 Japonica
 Kobocha
 Kuri
+Labate
 Lagenaria
 lanatus
 landrace
@@ -85,3 +88,4 @@ unrooted
 VCFtool’s
 VCFtools
 vining
+Zhangjun
