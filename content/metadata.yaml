@@ -18,7 +18,6 @@ authors:
     email: ch728@cornell.edu
     affiliations:
       - Department of Plant Breeding and Genetics, Cornell University, Ithaca, NY
-authors:
   - github: 
     name: Joanne Labate
     initials: JL
@@ -26,7 +25,6 @@ authors:
     twitter: 
     email: joanne.labate@usda.gov
     affiliations:
-authors:
   - github: 
     name: Zhangjun Fei
     initials: ZF
@@ -35,8 +33,6 @@ authors:
     email: zf25@cornell.edu
     affiliations:
       - Boyce Thompson Institute for Plant Research, Ithaca, NY
-      
-authors:
   - github: 
     name: Michael Mazourek
     initials: MM
