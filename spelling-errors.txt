@@ -10,10 +10,10 @@ Citrullus
 Cocozelle
 CucCap
 Cucumis
-cucurbit
+Cucurbit
 Cucurbita
 Cucurbitaceae
-cucurbits
+Cucurbits
 dataset
 Delicata
 Dickenson
@@ -23,10 +23,10 @@ Fei
 fraterna
 GBS
 GenoCore
-genomic
+Genomic
 genotype
 genotypes
-genotyping
+Genotyping
 Germplasm
 glm
 gsg
@@ -62,7 +62,7 @@ PCA
 pepo
 phenotyped
 phenotypes
-phenotypic
+Phenotypic
 Phylogenetic
 PicoGreen
 plex
