@@ -55,9 +55,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/58e2932eb69162f9d4b0afaee8b331aaa78f2b87/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/58e2932eb69162f9d4b0afaee8b331aaa78f2b87/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/58e2932eb69162f9d4b0afaee8b331aaa78f2b87/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/d8c0af41a3994f452f011dc713f5e5f55e0bc4dc/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/d8c0af41a3994f452f011dc713f5e5f55e0bc4dc/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/d8c0af41a3994f452f011dc713f5e5f55e0bc4dc/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -79,9 +79,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/58e2932eb69162f9d4b0afaee8b331aaa78f2b87/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/d8c0af41a3994f452f011dc713f5e5f55e0bc4dc/))
 was automatically generated
-from [ch728/cucurbit-usda@58e2932](https://github.com/ch728/cucurbit-usda/tree/58e2932eb69162f9d4b0afaee8b331aaa78f2b87)
+from [ch728/cucurbit-usda@d8c0af4](https://github.com/ch728/cucurbit-usda/tree/d8c0af41a3994f452f011dc713f5e5f55e0bc4dc)
 on August 25, 2021.
 </em></small>
 
@@ -253,7 +253,88 @@ Data were imputed prior to association analysis. LinkImpute [@doi:10.1534/g3.115
 Subsets representative of each panel's genetic diversity were identified through running GenoCore [@doi:10.1371/journal.pone.0181420] on each of the filtered SNP sets. A subset of the *C. pepo* panel and key genotypes from the other two species were combined to form a core collection for the cucurbit community. Key genotypes were chosen to represent important market classes and for variation based on variation in traits. These genotypes will be further purified through two additional rounds of selfing and then resequenced using skim-sequecing to produce whole-genome data.
 
 
-# Results
+## Results
+
+### Genotyping
+
+Each *Cucurbita ssp.* collection was genotyped using the Cornell Genotype by Sequencing (GBS) protocol. This resulted in 534 accessions for *C. maxima*, 314 for *C. moschata*, and 829 for *C. pepo*. Figure \ref{world} shows the regional distribution of accessions broken down by species. *C. maxima* and *C. moschata* constitute the majority of accessions collected from Central and South America, whereas *C. pepo* accessions are more prevalent in North America and Europe. *C. pepo* had the highest number of raw SNPs (108,279) followed by *C. moschata* (85,345) and *C. maxima* (56,598). After filtering, *C. pepo* and *C. moschata* had a similar number of SNPs, around 40,000, whereas *C. maxima* had an order of magnitude fewer filtered SNPs (4787). This discrepancy may be an artifact of using Pst1, a rarer base-cutter previously optimized for use in *C. maxima* [@doi:10.1186/s12864-015-2312-8 ], rather than ApeK1 which was used for *C.pepo* and *C. moschata*. The number and distribution of SNPs across each chromosomes is shown in Table \ref{snp_info}. 
+
+\begin{figure}
+	\begin{center}
+		\includegraphics[width=\textwidth]{figures/pi_map}
+		
+	\end{center}
+	\caption{Geographical distribution of the USDA Cucurbita ssp. collection. The size of the pie chart is scaled according to the number of accessions and sector areas correspond to the proportion of the three species.}
+	\label{world}
+\end{figure}
+
+\subsection*{Population Structure and Genetic Diversity}
+
+\begin{figure}
+	\begin{center}
+		\includegraphics[width=\textwidth]{figures/pop_structure}
+	\end{center}
+	\caption{ Population structure results aligned vertically by species. (A) Admixture plots: each stacked barplot represents an accession colored by proportion of inferred ancestral population. Groups based on hierarchical clustering are delimited by vertical bars and labeled with numbers along the bottom. (B) Plots of the first two principle components (PC) of accessions colored by region, variation explained by PCs is labeled on each axis. }
+	\label{struc}
+\end{figure}
+
+\begin{table}
+	\begin{center}
+		\input{tables/struct_info.tex}
+	\end{center}
+	\caption{Commonalities among accessions in each group, most groupings are dictated by geography.}
+	\label{struc_info}
+\end{table}
+
+\begin{figure}
+	\begin{center}
+		\includegraphics[width=.75\textwidth]{figures/cult_str}
+	\end{center}
+	\caption{Ancestry coefficients projected on cultivars from each species. Results are shown grouped by market/varietal class.}
+	\label{cult}
+\end{figure}
+
+
+
+Filtered SNPs were used for population structure analysis. Available geographical, phenotypic, and other metadata were retrieved from GRIN and were used to help interpret structure results. Results from model-based admixture analysis are shown in Figure \ref{struc} panel A. These data support five ancestral groups (K=5) in each of the species. Population structure was driven mostly by geography, except in *C. pepo* where the presence of different subspecies was responsible for some of the structure. Commonalities among structure groups are described in Table \ref{struc_info}. The first two principal components (PCs) derived from principal components analysis (PCA) of the marker data are shown in Figure \ref{struc} panel B. As with the model-based analysis, PCA  showed geography as a main driver of population structure with accessions being derived from Africa, the Arab States, Asia, Europe, North America, and South/Latin America. PC1 in *C. pepo* separates *C. pepo* subsp.*ovifera*, which have a North American Origin, from subsp. *pepo*. 
+
+\begin{figure}
+	\begin{center}
+		\includegraphics[width=\textwidth]{figures/pepo_phylo}
+	\end{center}
+	\caption{Unrooted maximum likelihood tree of \textit{C. pepo} subspecies inferred using wild and cultivated germplasm in the \textit{C. pepo} collection.}
+	\label{phylo}
+\end{figure}
+
+Ancestry proportions from admixture analysis were projected onto cultivars/market types identified in the accessions, which were excluded from the initial analysis used to infer ancestral groups. Cultivars were grouped according to known market class within species to help identify patterns in ancestry among and between market classes. Key market types identified in accessions from *C. pepo* including Acorn, Scallop, Crook, Pumpkin (jacko' lantern), Zuchinni, Marrow, Gem, and Spaghetti; Neck, Cheese, Japonica, and Calabaza in *C. moschata*; and Buttercup, Kobocha, Kuri, Hubbard, and Mammoth (show squash) in *C. maxima*. These groupings are shown in Figure \ref{cult}. In general, members of each market class exhibit similar ancestry proportions. In *C. pepo* market classes from the two different subspecies had distinct ancestry patterns. For example, Acorn, Scallop and Crook market classes are all from subsp. *ovifera* and all of these classes had similar ancestry proportions with roughly 50% of ancestry from the wild *ovifera*. In contrast, market classes within *pepo* had a small percentage of ancestry from wild *ovifera* and more ancestry in common with European and Asian accessions. With *C. moschata*, Neck and Cheese type market classes showed very similar ancestry patterns, whereas the Japonica and Calabaza types were more distinct. Relative to the *C. pepo* and *C. moschata*, the *C. maxima* cultivars were less distinct from one another.
+
+Unlike *C. moschata* and *C. maxima*, several different subspecies were present in the *C. pepo* collection, including some wild specimens. A group of 82 accessions with 11,065 high-quality SNPs was used for constructing an unrooted phylogenetic tree. The tree is shown in Figure \ref{phylo} and recapitulates the relationships among *pepo* subspecies shown in previous work [@doi:10.1016/j.ympev.2017.03.002].
+
+### Analysis of Phenotypic Data
+
+All available historical data  from GRIN were compiled. Only traits with $\geq$ 100 entries were considered for further analysis. Filtering resulted in 21 traits for *C. pepo*, 5 for *C. moscahta* and 16 for *C. maxima*. Traits spanned fruit and agronomic-related characteristics, as well as pest resistances. The number of records for a given trait ranged from 108 to 822, with an average of  $\sim$ 270. Fruit traits included fruit width, length, surface color and texture, and flesh color and thickness. Agronomic data included plant vigor and vining habit, and several phenotypes related to maturity. Pest-related traits included susceptibility to cucumber beetle and squash bug in *C. pepo* and watermelon mosaic virus (WMV)  and powdery mildew (PM) in *C. maxima*. 
+
+of traits measured on a quantitative scale were normally distributed. Marker-based narrow-sense heritability ($h_{G}^2$) was calculated for each trait. Values for $h_{G}^2$ ranged from 0.12 to close to 1. Most traits had moderate to high heritabilities ($\geq$ 0.4). Regression of trait data on the $\mathbf{Q}$ matrix obtained from structure analysis was used to determine the amount of phenotypic variation explained by population structure. In *C. pepo*, traits related to fruit morphology tended to have high correlations with population structure ($R_{pop}^2$). Seed weight had the highest correlation with an $R_{pop}^2$ of 0.6. In *C. moschata*, maturity showed the highest correlation with population structure ($R_{pop}^2$ of 0.52). None of the 16 traits in *C. maxima* had a high correlation with population structure. The only exception was plant growth habit.Traits related to pest resistance were measure in *C. maxima* and *C. pepo* and had among the lowest correlations with population structure.
+
+
+\subsection*{Genome-wide Association}
+
+\begin{figure}
+	\begin{center}
+		\includegraphics[width=.75\textwidth]{figures/bush_gene_assoc}
+	\end{center}
+	\caption{GWAS result for the Bush gene (\textit{Bu}) in \textit{C. pepo}.}
+	\label{gwas}
+\end{figure}
+
+Genome-wide association was conducted for all traits using standard mixed-model analysis. No significant signals were detected in *C. moschata*. A weak signal was detected in *C. maxima* for fruit set on chromosome 12 and fruit ribbing on chromosome 17. Three phenotypes were significantly associated with SNPs in *C. pepo*: bush/vine plant architecture on chromosome 10, fruit flesh color on chromosome 5, and fruit width on chromosome 3. The bush/vine phenotype exhibited the strongest signal, and the Manhatten plot and p-value quantile-quantile plot is shown in Figure \ref{gwas}.
+
+### Development of a Core Collection
+
+A core set of accessions that covered over 99\% of total genetic diversity was identified in each of the panels. Roughly 10 to 20\% of the accessions were required to capture the genetic diversity in the panels (See Supplemental Figures \ref{core}). This amounted to 245 accessions in *C. pepo*, 154 in  *C. moschata*, and in 248 *C.maxima*. The core subset identified in *C. pepo* was augmented with accessions that represented key market classes or that had traits of interest to breeding programs. Additionally, key accessions were selected from *C. maxima*, *C. moschata* and some wild species. Together these genotypes were purified through two additional rounds of selfing and seed will serve as the basis for a *Cucurbita ssp.* core to be used by breeding programs and researchers for further studies.
+
+
+## Discussion
 
 
 ## References {.page_break_before}

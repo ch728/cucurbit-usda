@@ -1,5 +1,6 @@
 aculture
 allopolyploidization
+ApeK
 ASReml
 biallelic
 Boyce
@@ -13,7 +14,7 @@ Cucumis
 cucurbit
 Cucurbita
 Cucurbitaceae
-cucurbits
+Cucurbits
 dataset
 Delicata
 Dickenson
@@ -24,18 +25,21 @@ fraterna
 GBS
 GenoCore
 genomic
-genotype
+Genotype
+genotyped
 genotypes
 Genotyping
 germplasm
 glm
 gsg
 GWAS
+heritabilities
 heritability
 HiSeq
 Illumina
 indep
 Invitrogen
+jacko
 Japonica
 Kobocha
 Kuri
@@ -49,12 +53,14 @@ LinkImpute
 lm
 Logit
 MAF
+Manhatten
 Mazourek
 melo
 missingness
 morophotypes
 morphoptypes
 morphotype
+moscahta
 moschata
 Norcross
 ovifera
@@ -62,7 +68,7 @@ PCA
 pepo
 phenotyped
 phenotypes
-Phenotypic
+phenotypic
 Phylogenetic
 PicoGreen
 plex
@@ -70,6 +76,7 @@ PLINK
 princomp
 psuedo
 Quant
+quantile
 resequenced
 sativa
 selfing
@@ -88,4 +95,6 @@ unrooted
 VCFtool’s
 VCFtools
 vining
+WMV
 Zhangjun
+Zuchinni
