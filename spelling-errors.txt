@@ -13,7 +13,7 @@ cucurbits
 Delicata
 Dickenson
 fraterna
-genomic
+Genomic
 genotyping
 Germplasm
 gsg
