@@ -40,9 +40,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/dd7da91904669083229dce48a16e654a72b39988/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/dd7da91904669083229dce48a16e654a72b39988/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/dd7da91904669083229dce48a16e654a72b39988/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/ed5584cb322126ba186179eb14f3dfc6a28a3e52/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/ed5584cb322126ba186179eb14f3dfc6a28a3e52/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/ed5584cb322126ba186179eb14f3dfc6a28a3e52/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/dd7da91904669083229dce48a16e654a72b39988/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/ed5584cb322126ba186179eb14f3dfc6a28a3e52/))
 was automatically generated
-from [ch728/cucurbit-usda@dd7da91](https://github.com/ch728/cucurbit-usda/tree/dd7da91904669083229dce48a16e654a72b39988)
+from [ch728/cucurbit-usda@ed5584c](https://github.com/ch728/cucurbit-usda/tree/ed5584cb322126ba186179eb14f3dfc6a28a3e52)
 on August 25, 2021.
 </em></small>
 
@@ -115,9 +115,9 @@ annotations, along with  web-based tools and other genomics data are
 emerging [@doi:10.1093/nar/gky944]. Already, these resources have been used to 
 elucidate the genetics of fruit quality, growth habit, disease resistance, and 
 to increase the efficiency of cucurbit improvement 
-[doi:10.1186/s12864-016-3439-y; @doi:10.1038/s41598-017-13216-3; 
-doi:10.1007/s11032-018-0869-z; doi:10.3835/plantgenome2018.10.0082; 
-doi:10.1038/s41438-019-0176-9]; however, there has yet to be a 
+[@doi:10.1186/s12864-016-3439-y; @doi:10.1038/s41598-017-13216-3; 
+@doi:10.1007/s11032-018-0869-z; @doi:10.3835/plantgenome2018.10.0082; 
+@doi:10.1038/s41438-019-0176-9]; however, there has yet to be a 
 comprehensive survey of the genetic diversity in large diverse *Cucurbita* 
 germplasm panels, such as those maintained by the USDA within the Germplasm 
 Resources Information Network (GRIN) system.
@@ -131,7 +131,7 @@ provide genomics resources and tools that can aid in both applied breeding and b
 research. The genetic and phenotypic diversity present in the USDA watermelon and cucumber 
 collections has already been explored as part of the CucCap project, partially
 through the sequencing of USDA germplasm collections and development of core collections for 
-whole-genome sequencing [doi:10.1038/s41438-018-0080-8; @doi:10.1111/pbi.13136].
+whole-genome sequencing [@doi:10.1038/s41438-018-0080-8; @doi:10.1111/pbi.13136].
 	
 The classification system used in squash is complex. Squash from each species can be 
 classed as winter or summer squash depending on whether the fruit is consumed at an 

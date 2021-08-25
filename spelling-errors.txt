@@ -9,7 +9,7 @@ Cucumis
 Cucurbit
 Cucurbita
 Cucurbitaceae
-Cucurbits
+cucurbits
 Delicata
 Dickenson
 fraterna
