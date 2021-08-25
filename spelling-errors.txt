@@ -10,7 +10,7 @@ Citrullus
 Cocozelle
 CucCap
 Cucumis
-Cucurbit
+cucurbit
 Cucurbita
 Cucurbitaceae
 cucurbits
@@ -23,11 +23,11 @@ Fei
 fraterna
 GBS
 GenoCore
-Genomic
+genomic
 genotype
 genotypes
 Genotyping
-Germplasm
+germplasm
 glm
 gsg
 GWAS
@@ -62,7 +62,7 @@ PCA
 pepo
 phenotyped
 phenotypes
-phenotypic
+Phenotypic
 Phylogenetic
 PicoGreen
 plex

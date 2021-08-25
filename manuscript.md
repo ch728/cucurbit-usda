@@ -55,9 +55,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/0e8500cbbf1df77485e976718bb1a082339b9fd1/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/0e8500cbbf1df77485e976718bb1a082339b9fd1/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/0e8500cbbf1df77485e976718bb1a082339b9fd1/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/58e2932eb69162f9d4b0afaee8b331aaa78f2b87/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/58e2932eb69162f9d4b0afaee8b331aaa78f2b87/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/58e2932eb69162f9d4b0afaee8b331aaa78f2b87/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -79,9 +79,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/0e8500cbbf1df77485e976718bb1a082339b9fd1/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/58e2932eb69162f9d4b0afaee8b331aaa78f2b87/))
 was automatically generated
-from [ch728/cucurbit-usda@0e8500c](https://github.com/ch728/cucurbit-usda/tree/0e8500cbbf1df77485e976718bb1a082339b9fd1)
+from [ch728/cucurbit-usda@58e2932](https://github.com/ch728/cucurbit-usda/tree/58e2932eb69162f9d4b0afaee8b331aaa78f2b87)
 on August 25, 2021.
 </em></small>
 
@@ -243,7 +243,7 @@ Phylogenetic analysis was conducted in a subset of the *C. pepo* panel with clea
 ### Analysis of Phenotypic Data
 Historical data were obtained from the USDA Germplasm Resources Information Network (GRIN; http://www.ars-grin.gov) for *C. maxima*, *C. pepo*, and *C. moschata*. All duplicated entries were removed for qualitative traits, where categories are mutually exclusive, leaving only samples with unique entries for analysis. Contemporary phenotypic data were collected from a subset of the *C. pepo* collection grown in the summer of 2018 in Ithaca, NY. Field-grown plants were phenotyped for vining bush habit at three different stages during the growing seasons to confirm bush, semi-bush or vining growth habit. Plants that had a bush habit early in the season but started to vine at the end of the season were considered semi-bush.
 
-Genomic heritability [@doi:10.1371/journal.pgen.1005048] ($h_{g}^2$)  was calculated for all phenotypes. The parameter $h_{g}^2$ was calculated for continuous traits using the formula $h_{g}^2 = \frac{\sigma_{g}^2}{\sigma_{g}^2 + \sigma_{e}^2}$, where $\sigma_{g}^2$ and $\sigma_{e}^2$ are genetic and error variances estimated from a whole-genome regression of phenotype on marker data using ASReml-R \cite{butler_asreml-r_2009}. Multi-class categorical traits were converted to one or several different binary traits depending on the number of entries in each category. For binary traits, a Logit model was fit for the binary response and the heritability was estimated as $h_{g}^2 = \frac{\sigma_{g}^2}{\sigma_{g}^2 + \frac{\pi^2}{3}}$ [doi:10.1186/1471-2156-15-87]. In addition to heritability, the amount of phenotypic variance explained by population structure ($R_{pop}^2$) was calculated from a multiple linear regression of phenotype on sturcture inferred by ADMIXTURE. The R function lm was used to regress continuous phenotypes on the $\mathbf{Q}$ matrix obtained from ADMIXTURE. The R glm function was used with "family=binomial" to regress binary traits on population structure. As there is no $R^2$ defined for logistic models, McFadden’s psuedo $R^2$ was used to assess the correlation between binary traits and population structure [@doi:10.1177/0049124116638107].
+Genomic heritability [@doi:10.1371/journal.pgen.1005048] ($h_{g}^2$)  was calculated for all phenotypes. The parameter $h_{g}^2$ was calculated for continuous traits using the formula $h_{g}^2 = \frac{\sigma_{g}^2}{\sigma_{g}^2 + \sigma_{e}^2}$, where $\sigma_{g}^2$ and $\sigma_{e}^2$ are genetic and error variances estimated from a whole-genome regression of phenotype on marker data using ASReml-R \cite{butler_asreml-r_2009}. Multi-class categorical traits were converted to one or several different binary traits depending on the number of entries in each category. For binary traits, a Logit model was fit for the binary response and the heritability was estimated as $h_{g}^2 = \frac{\sigma_{g}^2}{\sigma_{g}^2 + \frac{\pi^2}{3}}$ [@doi:10.1186/1471-2156-15-87]. In addition to heritability, the amount of phenotypic variance explained by population structure ($R_{pop}^2$) was calculated from a multiple linear regression of phenotype on sturcture inferred by ADMIXTURE. The R function lm was used to regress continuous phenotypes on the $\mathbf{Q}$ matrix obtained from ADMIXTURE. The R glm function was used with "family=binomial" to regress binary traits on population structure. As there is no $R^2$ defined for logistic models, McFadden’s psuedo $R^2$ was used to assess the correlation between binary traits and population structure [@doi:10.1177/0049124116638107].
 
 ### GWAS
 Data were imputed prior to association analysis. LinkImpute [@doi:10.1534/g3.115.021667], as implemented by the TASSEL [@doi:10.1093/bioinformatics/btm308]  "LDKNNiImputatioHetV2Plugin" plugin was used for imputation with default settings. Any data still missing after this process were mean imputed. The GENESIS [@doi: 10.1093/bioinformatics/btz567] R package, which can model both binary and continuous traits, was used for association. All models included the first two PCs of the marker matrix as fixed effects and modeled genotype effect ($u$) as a random effect distributed according to the kinship ($\mathbf{K}$) matrix ($u \sim N(0, \sigma_{u}^2\mathbf{K})$). Binary traits were modeled using the logistic regression feature in GENESIS. 
