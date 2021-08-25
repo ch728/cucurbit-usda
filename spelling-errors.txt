@@ -6,7 +6,7 @@ Citrullus
 Cocozelle
 CucCap
 Cucumis
-Cucurbit
+cucurbit
 Cucurbita
 Cucurbitaceae
 cucurbits
@@ -15,7 +15,7 @@ Dickenson
 fraterna
 Genomic
 genotyping
-Germplasm
+germplasm
 gsg
 GWAS
 Japonica

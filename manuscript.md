@@ -40,9 +40,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/5f2c94bd8a4e47eb2a7f5bb66c8042a5d3833f0c/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/5f2c94bd8a4e47eb2a7f5bb66c8042a5d3833f0c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/5f2c94bd8a4e47eb2a7f5bb66c8042a5d3833f0c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/d69017594779fce495a8b81f1a09f7d58bb8fefb/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/d69017594779fce495a8b81f1a09f7d58bb8fefb/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/d69017594779fce495a8b81f1a09f7d58bb8fefb/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/5f2c94bd8a4e47eb2a7f5bb66c8042a5d3833f0c/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/d69017594779fce495a8b81f1a09f7d58bb8fefb/))
 was automatically generated
-from [ch728/cucurbit-usda@5f2c94b](https://github.com/ch728/cucurbit-usda/tree/5f2c94bd8a4e47eb2a7f5bb66c8042a5d3833f0c)
+from [ch728/cucurbit-usda@d690175](https://github.com/ch728/cucurbit-usda/tree/d69017594779fce495a8b81f1a09f7d58bb8fefb)
 on August 25, 2021.
 </em></small>
 
@@ -193,6 +193,9 @@ domestication in Japan/China [nee_domestication_1990; @doi:10.1016/j.molp.2017.0
 
 
 ## Material and Methods
+
+
+# Results
 
 
 ## References {.page_break_before}
