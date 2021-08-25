@@ -40,9 +40,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/d69017594779fce495a8b81f1a09f7d58bb8fefb/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/d69017594779fce495a8b81f1a09f7d58bb8fefb/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/d69017594779fce495a8b81f1a09f7d58bb8fefb/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/64093e33c5eb113f7650268936df5b778884e42a/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/64093e33c5eb113f7650268936df5b778884e42a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/64093e33c5eb113f7650268936df5b778884e42a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/d69017594779fce495a8b81f1a09f7d58bb8fefb/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/64093e33c5eb113f7650268936df5b778884e42a/))
 was automatically generated
-from [ch728/cucurbit-usda@d690175](https://github.com/ch728/cucurbit-usda/tree/d69017594779fce495a8b81f1a09f7d58bb8fefb)
+from [ch728/cucurbit-usda@64093e3](https://github.com/ch728/cucurbit-usda/tree/64093e33c5eb113f7650268936df5b778884e42a)
 on August 25, 2021.
 </em></small>
 
@@ -193,6 +193,33 @@ domestication in Japan/China [nee_domestication_1990; @doi:10.1016/j.molp.2017.0
 
 
 ## Material and Methods
+
+### Plant Materials and Genotyping
+All available germplasm were requested from USDA cooperators for *C. maxima* (534), *C. moschata* (314), and *C. pepo* (829) respectively. Seeds were planted in 50-cell trays and two 3/4 inch punches of tissue (approximately 80-150 mg) was sampled from the first true leaf of each seedling. DNA was extracted using Omega Mag-Bind Plant DNA DS kits (M1130, Omega Bio-Tek, Norcross, GA) and quantified using Quant-iT PicoGreen dsDNA Kit (Invitrogen, Carlsbad, CA). Purified DNA was shipped to Cornell's Genomic Diversity Facility for GBS library preparation using protocols optimized for each species. Libraries were sequenced at either 96, 192, or 384-plex on the HiSeq 2500 (Illumina Inc., USA) with single-end mode and a read length of 101 bp.
+
+### Variant Calling and Filtering
+
+SNP calling was conducted using the TASSEL-GBS V5 pipeline [@doi:10.1371/journal.pone.0090346]. Tags produced by this pipeline were aligned using the default settings of the BWA aligner [@doi:10.1093/bioinformatics/btp324]. Raw variants were filtered using VCFtools [@doi:10.1093/bioinformatics/btr330]. Before filtering SNPs, samples with a total read depth of $$\geq 2$$ standard deviations below the mean of all samples were removed before further analysis. Settings for filtering SNPs were as follows, minor allele frequency (MAF) $$\geq 0.01$$, missingness $$\leq 0.5$$, and biallelic. Three outlier genotypes were found in an initial PCA analysis of the  *C. maxima* data and were removed, as they were likely not *C. maxima*. Variants were further filtered for specific uses as described below.
+
+### Population Genomics Analysis
+
+ADMIXTURE [@doi:10.1186/1471-2105-12-246], which uses a model-based approach to infer ancestral populations ($$k$$) and admixture proportions in a given sample, was used to explore population structure in each dataset. ADMIXTURE does not model linkage disequilibrium; thus, marker sets were further filtered to obtain SNPs in approximate linkage equilibrium using the "--indep-pairwise" option in PLINK \cite{purcell_plink:_2007} with $$r^2$$ set to 0.1, a window size of 50 SNPs, and a 10 SNP step size . All samples labeled as cultivars were removed from the data prior to running ADMIXTURE. Cross-validation was used to determine the best $k$ value for each species. Briefly, ADMIXTURE was run with different $k$ values (1-20) and the cross-validation error was reported for each $$k$$. The $$k$$ value with minimal cross-validation error was chosen for each species (Supplemental Figures \ref{error}). Ancestral populations were then assigned to cultivars using the program's projection feature.
+
+Principal components analysis (PCA) was used as a model-free way of determining population structure. The original filtered marker data, not the LD-pruned data used for ADMIXTURE, were converted to a dosage matrix using VCFtool's "--012" argument. A kinship matrix $$\mathbf{K}$$ was created using the dosage matrix as input to the "A.mat()" function in Sommer \cite{covarrubias-pazaran_genome-assisted_2016}. PCA was conducted using the R function "princomp()" with $$\mathbf{K}$$ supplied as the covariance matrix.
+
+Phylogenetic analysis was conducted in a subset of the *C. pepo* panel with clearly labeled subspecies information or where enough information to unambiguously assign the accession to a subspecies was present. The SNPhylo \cite{lee_snphylo_2014} pipeline was used to infer an unrooted tree using the maximum likelihood method. Default settings were used, except the minimum coverage parameter was decreased to 3 instead of 5 to account for the lower average coverage of GBS data.
+
+### Analysis of Phenotypic Data
+Historical data were obtained from the USDA Germplasm Resources Information Network (GRIN; http://www.ars-grin.gov) for \textit{C. maxima}, \textit{C. pepo}, and \textit{C. moschata}. Data included phenotype data as well as narratives/descriptions associated with accessions. Narrative data were parsed into a list of informative words, using a custom Python script, to produce a qualitative snapshot of the diversity present in each collection. All duplicated entries were removed for qualitative traits, where categories are mutually exclusive, leaving only samples with unique entries for analysis. Contemporary phenotypic data were collected from a subset of the \textit{C. pepo} collection grown in the summer of 2018 in Ithaca, NY. Field-grown plants were phenotyped for vining bush habit at three different stages during the growing seasons to confirm bush, semi-bush or vining growth habit. Plants that had a bush habit early in the season but started to vine at the end of the season were considered semi-bush.
+
+Genomic heritability \cite{campos_genomic_2015} ($h_{g}^2$)  was calculated for all phenotypes. The parameter $h_{g}^2$ was calculated for continuous traits using the formula $h_{g}^2 = \frac{\sigma_{g}^2}{\sigma_{g}^2 + \sigma_{e}^2}$, where $\sigma_{g}^2$ and $\sigma_{e}^2$ are genetic and error variances estimated from a whole-genome regression of phenotype on marker data using ASReml-R \cite{butler_asreml-r_2009}. Multi-class categorical traits were converted to one or several different binary traits depending on the number of entries in each category. For binary traits, a Logit model was fit for the binary response and the heritability was estimated as $h_{g}^2 = \frac{\sigma_{g}^2}{\sigma_{g}^2 + \frac{\pi^2}{3}}$ \cite{biscarini_genome-enabled_2014}. In addition to heritability, the amount of phenotypic variance explained by population structure ($R_{pop}^2$) was calculated from a multiple linear regression of phenotype on sturcture inferred by ADMIXTURE. The R function lm was used to regress continuous phenotypes on the $\mathbf{Q}$ matrix obtained from ADMIXTURE. The R glm function was used with "family=binomial" to regress binary traits on population structure. As there is no $R^2$ defined for logistic models, McFadden’s psuedo $R^2$ was used to assess the correlation between binary traits and population structure \cite{hemmert_log-likelihood-based_2018}.
+
+### GWAS
+Data were imputed prior to association analysis. LinkImpute \cite{money_linkimpute:_2015}, as implemented by the TASSEL \cite{bradbury_tassel:_2007} "LDKNNiImputatioHetV2Plugin" plugin was used for imputation with default settings. Any data still missing after this process were mean imputed. The GENESIS \cite{gogarten_genetic_2019} R package, which can model both binary and continuous traits, was used for association. All models included the first two PCs of the marker matrix as fixed effects and modeled genotype effect ($u$) as a random effect distributed according to the kinship ($\mathbf{K}$) matrix ($u \sim N(0, \sigma_{u}^2\mathbf{K})$). Binary traits were modeled using the logistic regression feature in GENESIS. 
+
+### Creation of a Core Collection
+
+Subsets representative of each panel's genetic diversity were identified through running GenoCore \cite{jeong_genocore:_2017} on each of the filtered SNP sets. A subset of the \textit{C. pepo} panel and key genotypes from the other two species were combined to form a core collection for the cucurbit community. (Insert criteria here) . These genotypes will be further purified through two additional rounds of selfing and then resequenced using skim-sequecing to produce whole-genome data.
 
 
 # Results
