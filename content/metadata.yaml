@@ -13,11 +13,37 @@ authors:
   - github: 
     name: Christopher Owen Hernandez
     initials: COH
-    orcid: 
+    orcid: 0000-0002-1668-7121 
     twitter: 
-    email: 
+    email: ch728@cornell.edu
     affiliations:
-      - Department of Plant Breeding and Genetics, Cornell University
-    funders:
-      - Grant XXXXXXXX
+      - Department of Plant Breeding and Genetics, Cornell University, Ithaca, NY
+authors:
+  - github: 
+    name: Joanne Labate
+    initials: JL
+    orcid:  
+    twitter: 
+    email: joanne.labate@usda.gov
+    affiliations:
+authors:
+  - github: 
+    name: Zhangjun Fei
+    initials: ZF
+    orcid: 0000-0001-9684-1450 
+    twitter: 
+    email: zf25@cornell.edu
+    affiliations:
+      - Boyce Thompson Institute for Plant Research, Ithaca, NY
+      
+authors:
+  - github: 
+    name: Michael Mazourek
+    initials: MM
+    orcid: 0000-0002-2285-7692
+    twitter: 
+    email: mm284@cornell.edu
+    affiliations:
+      - Department of Plant Breeding and Genetics, Cornell University, Ithaca,NY
+
  
