@@ -40,9 +40,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/aafa7705a4c2c47315d8e402248e869fd58f9b5a/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/aafa7705a4c2c47315d8e402248e869fd58f9b5a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/aafa7705a4c2c47315d8e402248e869fd58f9b5a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/e4bde9c3f4fe1e75de588967d3c8e4b6789dd3a0/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/e4bde9c3f4fe1e75de588967d3c8e4b6789dd3a0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/e4bde9c3f4fe1e75de588967d3c8e4b6789dd3a0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/aafa7705a4c2c47315d8e402248e869fd58f9b5a/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/e4bde9c3f4fe1e75de588967d3c8e4b6789dd3a0/))
 was automatically generated
-from [ch728/cucurbit-usda@aafa770](https://github.com/ch728/cucurbit-usda/tree/aafa7705a4c2c47315d8e402248e869fd58f9b5a)
+from [ch728/cucurbit-usda@e4bde9c](https://github.com/ch728/cucurbit-usda/tree/e4bde9c3f4fe1e75de588967d3c8e4b6789dd3a0)
 on August 25, 2021.
 </em></small>
 
@@ -96,19 +96,26 @@ The *Cucurbita* genus is home to a number of economically and culturally importa
 The *Cucurbitaceae* (Cucurbit) family is home to a number of vining species 
 mostly cultivated for their fruits. This diverse and economically important 
 family includes cucumber (*Cucumis sativa*), melon (*Cucumis melo*), 
-watermelon (*Citrullus lanatus*), and squash (*Cucurbita ssp.*) [@doi:10.1007/978-0-387-30443-4_10]. Like other cucurbits, squash exhibit 
+watermelon (*Citrullus lanatus*), and squash (*Cucurbita ssp.*) 
+[@doi:10.1007/978-0-387-30443-4_10]. Like other cucurbits, squash exhibit 
 diversity in growth habit, fruit morphology, metabolite content, disease 
-resistance, and have a nuanced domestication story {@doi:10.21273/HORTSCI.40.6.1620; doi:10.1111/nph.16015}. The genomes of *Cucurbita ssp.* are 
+resistance, and have a nuanced domestication story 
+[@doi:10.21273/HORTSCI.40.6.1620; @doi:10/gsg7]. 
+The genomes of *Cucurbita ssp.* are 
 small (roughly 500 Mb), but result from complex interactions between ancient
 genomes brought together through an allopolyploidization event
-[doi:10.1016/j.molp.2017.09.003]. These factors make squash an excellent model for 
+[@doi:10.1016/j.molp.2017.09.003]. These factors make squash an excellent model for 
 understanding the biology of genomes, fruit development, and domestication.
 Within *Cucurbita*, five species are recognized as domesticated. 
-Three of these are broadly cultivated: *Cucurbita maxima*, *Cucurbita moschata*, and *Cucurbita pepo* [@doi:10.1007/978-0-387-30443-4_10]. Few genomic resources have been 
+Three of these are broadlycultivated: *Cucurbita maxima*, *Cucurbita moschata*, 
+and *Cucurbita pepo* [@doi:10.1007/978-0-387-30443-4_10]. 
+Few genomic resources have been 
 available for working with these species; although, draft genomes and 
-annotations, along with  web-based tools and other genomics data are emerging \cite{zheng_cucurbit_2019}. Already, these resources have been used to elucidate 
-the genetics of fruit quality, growth habit, disease resistance, and to increase 
-the efficiency of cucurbit improvement \cite{montero-pau_snp-based_2017, zhong_high-density_2017, kazminska_genetic_2018, wu_genomic_2019,xanthopoulou_whole-genome_2019}; however, there has yet to be a 
+annotations, along with  web-based tools and other genomics data are 
+emerging \cite{zheng_cucurbit_2019}. Already, these resources have been used to 
+elucidate the genetics of fruit quality, growth habit, disease resistance, and 
+to increase the efficiency of cucurbi
+t improvement \cite{montero-pau_snp-based_2017, zhong_high-density_2017, kazminska_genetic_2018, wu_genomic_2019,xanthopoulou_whole-genome_2019}; however, there has yet to be a 
 comprehensive survey of the genetic diversity in large diverse *Cucurbita* 
 germplasm panels, such as those maintained by the USDA within the Germplasm 
 Resources Information Network (GRIN) system.
@@ -133,10 +140,10 @@ For example, a Zucchini is reliably a member of *C. pepo* and a Buttercups are f
 of their classification, the *Cucurbita* species are believed to have arisen from independent domestication events and the 
 relationships between cultivated and wild species remains poorly understood \cite{kates_evolutionary_2017}.
 	
-\textit{C. pepo} is the most economically important of the \textit{Cucurbita} species and is split into two different 
-subspecies: \textit{C. pepo} subsp. \textit{pepo} and \textit{C. pepo} subsp. \textit{ovifera} \cite{xanthopoulou_whole-genome_2019}.
-Evidence points to Mexico as the center of origin for \textit{pepo} and southwest/central United States as the origin of \textit{ovifera}. 
-The progenitor of \textit{ovifera} is considered by some to be subsp. \textit{ovifera} var. \textit{ texana}, 
+*C. pepo* is the most economically important of the *Cucurbita* species and is split into two different 
+subspecies: *C. pepo* subsp. *pepo* and *C. pepo* subsp. *ovifera* \cite{xanthopoulou_whole-genome_2019}.
+Evidence points to Mexico as the center of origin for *pepo* and southwest/central United States as the origin of *ovifera*. 
+The progenitor of *ovifera* is considered by some to be subsp. \textit{ovifera} var. \textit{ texana}, 
 whereas subsp. \textit{fraterna} is a candidate progenitor for \textit{pepo} \cite{kates_evolutionary_2017}. Europe played a 
 crucial role as a secondary center of diversification for \textit{pepo}, but not \textit{ovifera} \cite{lust_italian_2016}. 
 Important morphoptypes of \textit{pepo} include  Zucchini, Spaghetti squash, Cocozelle, Vegetable marrow, and some ornamental pumpkins. 

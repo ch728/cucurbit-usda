@@ -1,10 +1,12 @@
 allopolyploidization
+broadlycultivated
 Calabaza
 Citrullus
 Cocozelle
 CucCap
 Cucumis
-cucurbit
+cucurbi
+Cucurbit
 Cucurbita
 Cucurbitaceae
 cucurbits
@@ -12,7 +14,8 @@ Delicata
 Dickenson
 genomic
 genotyping
-Germplasm
+germplasm
+gsg
 GWAS
 Japonica
 Kobocha
@@ -25,6 +28,7 @@ morophotypes
 morphoptypes
 morphotype
 moschata
+ovifera
 pepo
 phenotypes
 phenotypic
