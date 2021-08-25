@@ -13,7 +13,7 @@ Cucumis
 Cucurbit
 Cucurbita
 Cucurbitaceae
-Cucurbits
+cucurbits
 dataset
 Delicata
 Dickenson
@@ -62,7 +62,7 @@ PCA
 pepo
 phenotyped
 phenotypes
-Phenotypic
+phenotypic
 Phylogenetic
 PicoGreen
 plex
