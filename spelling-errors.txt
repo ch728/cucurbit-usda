@@ -4,13 +4,13 @@ Citrullus
 Cocozelle
 CucCap
 Cucumis
-Cucurbit
+cucurbit
 Cucurbita
 Cucurbitaceae
-Cucurbits
+cucurbits
 Delicata
 Dickenson
-Genomic
+genomic
 genotyping
 Germplasm
 GWAS

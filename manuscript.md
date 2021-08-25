@@ -9,7 +9,7 @@ keywords:
 - Cucurbita moschata
 - Cucurbita maxima
 lang: en-US
-date-meta: '2021-08-24'
+date-meta: '2021-08-25'
 author-meta:
 - Christopher Owen Hernandez
 header-includes: |-
@@ -22,8 +22,8 @@ header-includes: |-
   <meta name="citation_title" content="Characterization of the USDA Cucurbita pepo, Cucurbita moschata, and Cucurbita maxima Collections" />
   <meta property="og:title" content="Characterization of the USDA Cucurbita pepo, Cucurbita moschata, and Cucurbita maxima Collections" />
   <meta property="twitter:title" content="Characterization of the USDA Cucurbita pepo, Cucurbita moschata, and Cucurbita maxima Collections" />
-  <meta name="dc.date" content="2021-08-24" />
-  <meta name="citation_publication_date" content="2021-08-24" />
+  <meta name="dc.date" content="2021-08-25" />
+  <meta name="citation_publication_date" content="2021-08-25" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -40,9 +40,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/325e5ae8cbd4cc43983e5e6acce64e189a25847b/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/325e5ae8cbd4cc43983e5e6acce64e189a25847b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/325e5ae8cbd4cc43983e5e6acce64e189a25847b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/aafa7705a4c2c47315d8e402248e869fd58f9b5a/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/aafa7705a4c2c47315d8e402248e869fd58f9b5a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/aafa7705a4c2c47315d8e402248e869fd58f9b5a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,10 +64,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/325e5ae8cbd4cc43983e5e6acce64e189a25847b/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/aafa7705a4c2c47315d8e402248e869fd58f9b5a/))
 was automatically generated
-from [ch728/cucurbit-usda@325e5ae](https://github.com/ch728/cucurbit-usda/tree/325e5ae8cbd4cc43983e5e6acce64e189a25847b)
-on August 24, 2021.
+from [ch728/cucurbit-usda@aafa770](https://github.com/ch728/cucurbit-usda/tree/aafa7705a4c2c47315d8e402248e869fd58f9b5a)
+on August 25, 2021.
 </em></small>
 
 ## Authors
@@ -93,22 +93,25 @@ The *Cucurbita* genus is home to a number of economically and culturally importa
 
 ## Introduction
 
-The *Cucurbitaceae* (Cucurbit) family is home to a number of vining species mostly cultivated for their fruits. 
-This diverse and economically important family includes cucumber (*Cucumis sativa*), melon (*Cucumis melo*), 
-watermelon (*Citrullus lanatus*), and squash (*Cucurbita ssp.*) [@doi:10.1007/978-0-387-30443-4_10]. Like other 
-cucurbits, squash exhibit diversity in growth habit, fruit morphology, metabolite content, disease resistance, and have 
-a nuanced domestication story \cite{paris_genes_2005, chomicki_origin_2019}. The genomes of *Cucurbita ssp.* are 
-small (roughly 500 Mb), but result from complex interactions between ancient genomes brought together through an allopolyploidization 
-event \cite{sun_karyotype_2017}. These factors make squash an excellent model for understanding the biology of genomes, 
-fruit development, and domestication. Within *Cucurbita*, five species are recognized as domesticated. 
-Three of these are broadly cultivated: *Cucurbita maxima*, *Cucurbita moschata*, and *Cucurbita pepo* 
-\cite{ferriol_pumpkin_2008}. Few genomic resources have been available for working with these species; although, 
-draft genomes and annotations, along with  web-based tools and other genomics data are emerging \cite{zheng_cucurbit_2019}. 
-Already, these resources have been used to elucidate the genetics of fruit quality, growth habit, disease resistance, 
-and to increase the efficiency of cucurbit improvement 
-\cite{montero-pau_snp-based_2017, zhong_high-density_2017, kazminska_genetic_2018, wu_genomic_2019,xanthopoulou_whole-genome_2019}; 
-however, there has yet to be a comprehensive survey of the genetic diversity in large diverse *Cucurbita* germplasm panels, 
-such as those maintained by the USDA within the Germplasm Resources Information Network (GRIN) system.
+The *Cucurbitaceae* (Cucurbit) family is home to a number of vining species 
+mostly cultivated for their fruits. This diverse and economically important 
+family includes cucumber (*Cucumis sativa*), melon (*Cucumis melo*), 
+watermelon (*Citrullus lanatus*), and squash (*Cucurbita ssp.*) [@doi:10.1007/978-0-387-30443-4_10]. Like other cucurbits, squash exhibit 
+diversity in growth habit, fruit morphology, metabolite content, disease 
+resistance, and have a nuanced domestication story {@doi:10.21273/HORTSCI.40.6.1620; doi:10.1111/nph.16015}. The genomes of *Cucurbita ssp.* are 
+small (roughly 500 Mb), but result from complex interactions between ancient
+genomes brought together through an allopolyploidization event
+[doi:10.1016/j.molp.2017.09.003]. These factors make squash an excellent model for 
+understanding the biology of genomes, fruit development, and domestication.
+Within *Cucurbita*, five species are recognized as domesticated. 
+Three of these are broadly cultivated: *Cucurbita maxima*, *Cucurbita moschata*, and *Cucurbita pepo* [@doi:10.1007/978-0-387-30443-4_10]. Few genomic resources have been 
+available for working with these species; although, draft genomes and 
+annotations, along with  web-based tools and other genomics data are emerging \cite{zheng_cucurbit_2019}. Already, these resources have been used to elucidate 
+the genetics of fruit quality, growth habit, disease resistance, and to increase 
+the efficiency of cucurbit improvement \cite{montero-pau_snp-based_2017, zhong_high-density_2017, kazminska_genetic_2018, wu_genomic_2019,xanthopoulou_whole-genome_2019}; however, there has yet to be a 
+comprehensive survey of the genetic diversity in large diverse *Cucurbita* 
+germplasm panels, such as those maintained by the USDA within the Germplasm 
+Resources Information Network (GRIN) system.
 
 Germplasm collections play a vital role in maintaining and preserving genetic variation. These collections can be 
 mined by breeders for valuable alleles and can by geneticists for mapping studies. Many s. The collections of 
