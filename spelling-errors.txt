@@ -1,3 +1,4 @@
+aculture
 allopolyploidization
 broadlycultivated
 Calabaza
@@ -5,12 +6,13 @@ Citrullus
 Cocozelle
 CucCap
 Cucumis
-cucurbit
+Cucurbit
 Cucurbita
 Cucurbitaceae
 Cucurbits
 Delicata
 Dickenson
+fraterna
 genomic
 genotyping
 Germplasm
@@ -36,6 +38,7 @@ SNPs
 ssp
 Straightneck
 subsp
+texana
 vining
 XXXX
 XXXXXXXX
