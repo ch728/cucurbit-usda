@@ -55,9 +55,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/2b388e07a8f6aa41752b3dbd1a6aad37749578a5/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/2b388e07a8f6aa41752b3dbd1a6aad37749578a5/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/2b388e07a8f6aa41752b3dbd1a6aad37749578a5/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/f0cf419ef09e1609680ffff93d3ef2524455e3fc/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/f0cf419ef09e1609680ffff93d3ef2524455e3fc/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/f0cf419ef09e1609680ffff93d3ef2524455e3fc/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -79,9 +79,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/2b388e07a8f6aa41752b3dbd1a6aad37749578a5/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/f0cf419ef09e1609680ffff93d3ef2524455e3fc/))
 was automatically generated
-from [ch728/cucurbit-usda@2b388e0](https://github.com/ch728/cucurbit-usda/tree/2b388e07a8f6aa41752b3dbd1a6aad37749578a5)
+from [ch728/cucurbit-usda@f0cf419](https://github.com/ch728/cucurbit-usda/tree/f0cf419ef09e1609680ffff93d3ef2524455e3fc)
 on August 25, 2021.
 </em></small>
 
@@ -257,18 +257,11 @@ Subsets representative of each panel's genetic diversity were identified through
 
 ### Genotyping
 
-Each *Cucurbita ssp.* collection was genotyped using the Cornell Genotype by Sequencing (GBS) protocol. This resulted in 534 accessions for *C. maxima*, 314 for *C. moschata*, and 829 for *C. pepo*. Figure \ref{world} shows the regional distribution of accessions broken down by species. *C. maxima* and *C. moschata* constitute the majority of accessions collected from Central and South America, whereas *C. pepo* accessions are more prevalent in North America and Europe. *C. pepo* had the highest number of raw SNPs (108,279) followed by *C. moschata* (85,345) and *C. maxima* (56,598). After filtering, *C. pepo* and *C. moschata* had a similar number of SNPs, around 40,000, whereas *C. maxima* had an order of magnitude fewer filtered SNPs (4787). This discrepancy may be an artifact of using Pst1, a rarer base-cutter previously optimized for use in *C. maxima* [@doi:10.1186/s12864-015-2312-8 ], rather than ApeK1 which was used for *C.pepo* and *C. moschata*. The number and distribution of SNPs across each chromosomes is shown in Table \ref{snp_info}. 
+Each *Cucurbita ssp.* collection was genotyped using the Cornell Genotype by Sequencing (GBS) protocol. This resulted in 534 accessions for *C. maxima*, 314 for *C. moschata*, and 829 for *C. pepo*. Figure {@fig:world} shows the regional distribution of accessions broken down by species. *C. maxima* and *C. moschata* constitute the majority of accessions collected from Central and South America, whereas *C. pepo* accessions are more prevalent in North America and Europe. *C. pepo* had the highest number of raw SNPs (108,279) followed by *C. moschata* (85,345) and *C. maxima* (56,598). After filtering, *C. pepo* and *C. moschata* had a similar number of SNPs, around 40,000, whereas *C. maxima* had an order of magnitude fewer filtered SNPs (4787). This discrepancy may be an artifact of using Pst1, a rarer base-cutter previously optimized for use in *C. maxima* [@doi:10.1186/s12864-015-2312-8 ], rather than ApeK1 which was used for *C.pepo* and *C. moschata*. The number and distribution of SNPs across each chromosomes is shown in Table \ref{snp_info}. 
 
-\begin{figure}
-	\begin{center}
-		\includegraphics[width=\textwidth]{figures/pi_map}
-		
-	\end{center}
-	\caption{Geographical distribution of the USDA Cucurbita ssp. collection. The size of the pie chart is scaled according to the number of accessions and sector areas correspond to the proportion of the three species.}
-	\label{world}
-\end{figure}
+![Geographical distribution of the USDA Cucurbita ssp. collection. The size of the pie chart is scaled according to the number of accessions and sector areas correspond to the proportion of the three species.](images/pi_map){#fig:world} 
 
-\subsection*{Population Structure and Genetic Diversity}
+### Population Structure and Genetic Diversity
 
 \begin{figure}
 	\begin{center}
