@@ -39,7 +39,7 @@ content/02.introduction.md:17:moschata
 content/02.introduction.md:18:Cucurbita
 content/02.introduction.md:18:pepo
 content/02.introduction.md:19:genomic
-content/02.introduction.md:24:cucurbi
+content/02.introduction.md:24:cucurbit
 content/02.introduction.md:26:Cucurbita
 content/02.introduction.md:27:germplasm
 content/02.introduction.md:27:Germplasm

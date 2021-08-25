@@ -40,9 +40,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/e4bde9c3f4fe1e75de588967d3c8e4b6789dd3a0/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/e4bde9c3f4fe1e75de588967d3c8e4b6789dd3a0/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/e4bde9c3f4fe1e75de588967d3c8e4b6789dd3a0/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/8a381df75e5744ae6a2f2f2d0d06556e8a396c7a/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/8a381df75e5744ae6a2f2f2d0d06556e8a396c7a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/8a381df75e5744ae6a2f2f2d0d06556e8a396c7a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/e4bde9c3f4fe1e75de588967d3c8e4b6789dd3a0/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/8a381df75e5744ae6a2f2f2d0d06556e8a396c7a/))
 was automatically generated
-from [ch728/cucurbit-usda@e4bde9c](https://github.com/ch728/cucurbit-usda/tree/e4bde9c3f4fe1e75de588967d3c8e4b6789dd3a0)
+from [ch728/cucurbit-usda@8a381df](https://github.com/ch728/cucurbit-usda/tree/8a381df75e5744ae6a2f2f2d0d06556e8a396c7a)
 on August 25, 2021.
 </em></small>
 
@@ -112,10 +112,10 @@ and *Cucurbita pepo* [@doi:10.1007/978-0-387-30443-4_10].
 Few genomic resources have been 
 available for working with these species; although, draft genomes and 
 annotations, along with  web-based tools and other genomics data are 
-emerging \cite{zheng_cucurbit_2019}. Already, these resources have been used to 
+emerging [@doi:10.1093/nar/gky944]. Already, these resources have been used to 
 elucidate the genetics of fruit quality, growth habit, disease resistance, and 
-to increase the efficiency of cucurbi
-t improvement \cite{montero-pau_snp-based_2017, zhong_high-density_2017, kazminska_genetic_2018, wu_genomic_2019,xanthopoulou_whole-genome_2019}; however, there has yet to be a 
+to increase the efficiency of cucurbit improvement []
+\cite{montero-pau_snp-based_2017, zhong_high-density_2017, kazminska_genetic_2018, wu_genomic_2019,xanthopoulou_whole-genome_2019}; however, there has yet to be a 
 comprehensive survey of the genetic diversity in large diverse *Cucurbita* 
 germplasm panels, such as those maintained by the USDA within the Germplasm 
 Resources Information Network (GRIN) system.
