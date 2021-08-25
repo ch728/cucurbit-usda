@@ -55,9 +55,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/d8c0af41a3994f452f011dc713f5e5f55e0bc4dc/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/d8c0af41a3994f452f011dc713f5e5f55e0bc4dc/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/d8c0af41a3994f452f011dc713f5e5f55e0bc4dc/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/440bf110db4e7b3242f4752b7c29b97a61f7cd0e/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/440bf110db4e7b3242f4752b7c29b97a61f7cd0e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/440bf110db4e7b3242f4752b7c29b97a61f7cd0e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -79,9 +79,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/d8c0af41a3994f452f011dc713f5e5f55e0bc4dc/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/440bf110db4e7b3242f4752b7c29b97a61f7cd0e/))
 was automatically generated
-from [ch728/cucurbit-usda@d8c0af4](https://github.com/ch728/cucurbit-usda/tree/d8c0af41a3994f452f011dc713f5e5f55e0bc4dc)
+from [ch728/cucurbit-usda@440bf11](https://github.com/ch728/cucurbit-usda/tree/440bf110db4e7b3242f4752b7c29b97a61f7cd0e)
 on August 25, 2021.
 </em></small>
 
@@ -332,9 +332,6 @@ Genome-wide association was conducted for all traits using standard mixed-model 
 ### Development of a Core Collection
 
 A core set of accessions that covered over 99\% of total genetic diversity was identified in each of the panels. Roughly 10 to 20\% of the accessions were required to capture the genetic diversity in the panels (See Supplemental Figures \ref{core}). This amounted to 245 accessions in *C. pepo*, 154 in  *C. moschata*, and in 248 *C.maxima*. The core subset identified in *C. pepo* was augmented with accessions that represented key market classes or that had traits of interest to breeding programs. Additionally, key accessions were selected from *C. maxima*, *C. moschata* and some wild species. Together these genotypes were purified through two additional rounds of selfing and seed will serve as the basis for a *Cucurbita ssp.* core to be used by breeding programs and researchers for further studies.
-
-
-## Discussion
 
 
 ## References {.page_break_before}
