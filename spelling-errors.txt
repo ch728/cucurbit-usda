@@ -29,14 +29,14 @@ fraterna
 GBS
 GenoCore
 genomic
-genotype
+Genotype
 genotyped
 genotypes
-genotyping
-Germplasm
+Genotyping
+germplasm
 glm
 gsg
-GWAS
+gwas
 heritabilities
 heritability
 HiSeq
@@ -74,7 +74,7 @@ phenotyped
 phenotypes
 phenotypic
 phylo
-phylogenetic
+Phylogenetic
 PicoGreen
 plex
 PLINK
@@ -99,7 +99,6 @@ Syntenty
 Tek
 texana
 Unrooted
-variatey
 VCFtool’s
 VCFtools
 vining

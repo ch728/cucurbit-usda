@@ -51,7 +51,6 @@ content/02.introduction.md:39:Cucurbits
 content/02.introduction.md:41:phenotypic
 content/02.introduction.md:42:CucCap
 content/02.introduction.md:43:germplasm
-content/02.introduction.md:47:variatey
 content/02.introduction.md:53:Cucurbita
 content/02.introduction.md:54:Lagenaria
 content/02.introduction.md:56:aculture

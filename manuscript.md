@@ -60,9 +60,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/03803424fa2d858c7cd550c8107aa5c20b21156d/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/03803424fa2d858c7cd550c8107aa5c20b21156d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/03803424fa2d858c7cd550c8107aa5c20b21156d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/1540d3bf70cdfdad0cb022553286e5dcc9ad4f0d/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/1540d3bf70cdfdad0cb022553286e5dcc9ad4f0d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/1540d3bf70cdfdad0cb022553286e5dcc9ad4f0d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -84,9 +84,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/03803424fa2d858c7cd550c8107aa5c20b21156d/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/1540d3bf70cdfdad0cb022553286e5dcc9ad4f0d/))
 was automatically generated
-from [ch728/cucurbit-usda@0380342](https://github.com/ch728/cucurbit-usda/tree/03803424fa2d858c7cd550c8107aa5c20b21156d)
+from [ch728/cucurbit-usda@1540d3b](https://github.com/ch728/cucurbit-usda/tree/1540d3bf70cdfdad0cb022553286e5dcc9ad4f0d)
 on August 26, 2021.
 </em></small>
 
@@ -176,9 +176,9 @@ research. The genetic and phenotypic diversity present in the USDA watermelon an
 collections has already been explored as part of the CucCap project, partially
 through the sequencing of USDA germplasm collections and development of core collections for 
 whole-genome sequencing [@doi:10.1038/s41438-018-0080-8; @doi:10.1111/pbi.13136].
-The diverse specimens of squash have yet to be well characterized at the genetic level; 
+The diverse specimens of the USDA squash collections have yet to be well characterized at the genetic level; 
 although, an elaborate system has been established for classifying squash based
-on species and a variatey of other characteristics.
+on species and various other characteristics.
 	
 The classification system used in squash is complex. Squash from each species can be 
 classed as winter or summer squash depending on whether the fruit is consumed at an 
