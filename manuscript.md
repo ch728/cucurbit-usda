@@ -55,9 +55,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/b9c9ee5d9cf192d3e87f7aebffeeb41bd71f5ce8/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/b9c9ee5d9cf192d3e87f7aebffeeb41bd71f5ce8/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/b9c9ee5d9cf192d3e87f7aebffeeb41bd71f5ce8/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/abb8f5dac5d794a3e1ebc9b5aa5f75fa7ade391e/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/abb8f5dac5d794a3e1ebc9b5aa5f75fa7ade391e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/abb8f5dac5d794a3e1ebc9b5aa5f75fa7ade391e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -79,9 +79,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/b9c9ee5d9cf192d3e87f7aebffeeb41bd71f5ce8/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/abb8f5dac5d794a3e1ebc9b5aa5f75fa7ade391e/))
 was automatically generated
-from [ch728/cucurbit-usda@b9c9ee5](https://github.com/ch728/cucurbit-usda/tree/b9c9ee5d9cf192d3e87f7aebffeeb41bd71f5ce8)
+from [ch728/cucurbit-usda@abb8f5d](https://github.com/ch728/cucurbit-usda/tree/abb8f5dac5d794a3e1ebc9b5aa5f75fa7ade391e)
 on August 26, 2021.
 </em></small>
 
@@ -298,6 +298,8 @@ of traits measured on a quantitative scale were normally distributed. Marker-bas
 ![GWAS result for the Bush gene (*Bu*) in *C. pepo*](images/bush_gene_assoc.png){#fig:gwas}
 
 Genome-wide association was conducted for all traits using standard mixed-model analysis. No significant signals were detected in *C. moschata*. A weak signal was detected in *C. maxima* for fruit set on chromosome 12 and fruit ribbing on chromosome 17. Three phenotypes were significantly associated with SNPs in *C. pepo*: bush/vine plant architecture on chromosome 10, fruit flesh color on chromosome 5, and fruit width on chromosome 3. The bush/vine phenotype exhibited the strongest signal, and the Manhatten plot and p-value quantile-quantile plot is shown in Figure {@fig:gwas}.
+
+### Syntenty of *Bu* putative region in *C. pepo* and *C. maxima*
 
 ### Development of a Core Collection
 

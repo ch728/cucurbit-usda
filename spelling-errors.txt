@@ -15,7 +15,7 @@ Cucumis
 Cucurbit
 Cucurbita
 Cucurbitaceae
-cucurbits
+Cucurbits
 dataset
 Delicata
 Dickenson
@@ -30,7 +30,7 @@ Genotype
 genotyped
 genotypes
 genotyping
-germplasm
+Germplasm
 glm
 gsg
 gwas
@@ -95,7 +95,7 @@ subsp
 Syntenty
 Tek
 texana
-Unrooted
+unrooted
 VCFtool’s
 VCFtools
 vining
