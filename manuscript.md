@@ -60,9 +60,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/89b56c79bebdd971a124844c00d7bb321c629a42/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/89b56c79bebdd971a124844c00d7bb321c629a42/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/89b56c79bebdd971a124844c00d7bb321c629a42/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/6c753a11e236a90c190bd8e0aff4cec2580197ae/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/6c753a11e236a90c190bd8e0aff4cec2580197ae/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/6c753a11e236a90c190bd8e0aff4cec2580197ae/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -84,9 +84,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/89b56c79bebdd971a124844c00d7bb321c629a42/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/6c753a11e236a90c190bd8e0aff4cec2580197ae/))
 was automatically generated
-from [ch728/cucurbit-usda@89b56c7](https://github.com/ch728/cucurbit-usda/tree/89b56c79bebdd971a124844c00d7bb321c629a42)
+from [ch728/cucurbit-usda@6c753a1](https://github.com/ch728/cucurbit-usda/tree/6c753a11e236a90c190bd8e0aff4cec2580197ae)
 on August 26, 2021.
 </em></small>
 
@@ -494,7 +494,7 @@ The bush/vine phenotype exhibited the strongest signal, and the Manhatten plot a
 ### Development of a Core Collection
 
 A core set of accessions that covered over 99\% of total genetic diversity was identified in each of the panels. 
-Roughly 10 to 20\% of the accessions were required to capture the genetic diversity in the panels (See Supplemental Figures \ref{core}). 
+Roughly 10 to 20\% of the accessions were required to capture the genetic diversity in the panels (See Supplemental Figures Figure {@fig:core}). 
 This amounted to 245 accessions in *C. pepo*, 154 in  *C. moschata*, and in 248 *C.maxima*. 
 The core subset identified in *C. pepo* was augmented with accessions that represented key market classes or that had traits of interest to breeding programs.
 Additionally, key accessions were selected from *C. maxima*, *C. moschata* and some wild species. 

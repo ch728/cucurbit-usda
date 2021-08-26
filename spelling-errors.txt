@@ -16,7 +16,7 @@ Cucumis
 cucurbit
 Cucurbita
 Cucurbitaceae
-Cucurbits
+cucurbits
 dataset
 Delicata
 Dickenson
@@ -36,7 +36,7 @@ Genotyping
 germplasm
 glm
 gsg
-GWAS
+gwas
 heritabilities
 heritability
 HiSeq
@@ -45,7 +45,7 @@ indep
 Invitrogen
 jacko
 Japonica
-kobocha
+Kobocha
 Kuri
 Labate
 Lagenaria
@@ -75,7 +75,7 @@ phenotyped
 phenotypes
 phenotypic
 phylo
-Phylogenetic
+phylogenetic
 PicoGreen
 plex
 PLINK
@@ -87,7 +87,7 @@ resequenced
 sativa
 selfing
 sequecing
-SNP
+snp
 SNPhylo
 SNPs
 Sommer
@@ -99,7 +99,7 @@ subsp
 Syntenty
 Tek
 texana
-Unrooted
+unrooted
 VCFtool’s
 VCFtools
 vining
