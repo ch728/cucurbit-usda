@@ -60,9 +60,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/5aa62fe5525f2b9a4ac14111716852fc03f5b2ff/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/5aa62fe5525f2b9a4ac14111716852fc03f5b2ff/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/5aa62fe5525f2b9a4ac14111716852fc03f5b2ff/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/4bc1672450852cc7b2ceee6c8696da9f80dedd2f/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/4bc1672450852cc7b2ceee6c8696da9f80dedd2f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/4bc1672450852cc7b2ceee6c8696da9f80dedd2f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -84,9 +84,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/5aa62fe5525f2b9a4ac14111716852fc03f5b2ff/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/4bc1672450852cc7b2ceee6c8696da9f80dedd2f/))
 was automatically generated
-from [ch728/cucurbit-usda@5aa62fe](https://github.com/ch728/cucurbit-usda/tree/5aa62fe5525f2b9a4ac14111716852fc03f5b2ff)
+from [ch728/cucurbit-usda@4bc1672](https://github.com/ch728/cucurbit-usda/tree/4bc1672450852cc7b2ceee6c8696da9f80dedd2f)
 on August 26, 2021.
 </em></small>
 
@@ -426,7 +426,7 @@ Most traits had moderate to high heritabilities ($\geq$ 0.4).
 Regression of trait data on the $\mathbf{Q}$ matrix obtained from structure analysis was used to determine the amount of phenotypic variation explained by population structure. 
 In *C. pepo*, traits related to fruit morphology tended to have high correlations with population structure ($R_{pop}^2$). 
 Seed weight had the highest correlation with an $R_{pop}^2$ of 0.6. In *C. moschata*, maturity showed the highest correlation with population structure ($R_{pop}^2$ of 0.52). 
-None of the 16 traits in \textit{C. maxima} had a high correlation with population structure. 
+None of the 16 traits in *C. maxima* had a high correlation with population structure. 
 The only exception was plant growth habit.Traits related to pest resistance were measure in *C. maxima* and *C. pepo* and had among the lowest correlations with population structure.
 
  || Trait | Description | Pop Size | $h_{G}^2$ | $R_{pop}^2$ |
@@ -493,8 +493,8 @@ The bush/vine phenotype exhibited the strongest signal, and the Manhatten plot a
 
 ### Development of a Core Collection
 
-A core set of accessions that covered over 99\% of total genetic diversity was identified in each of the panels. 
-Roughly 10 to 20\% of the accessions were required to capture the genetic diversity in the panels (See Supplemental Figures Figure {@fig:core}). 
+A core set of accessions that covered over 99% of total genetic diversity was identified in each of the panels. 
+Roughly 10 to 20% of the accessions were required to capture the genetic diversity in the panels (See Supplemental Figures). 
 This amounted to 245 accessions in *C. pepo*, 154 in  *C. moschata*, and in 248 *C.maxima*. 
 The core subset identified in *C. pepo* was augmented with accessions that represented key market classes or that had traits of interest to breeding programs.
 Additionally, key accessions were selected from *C. maxima*, *C. moschata* and some wild species. 
