@@ -60,9 +60,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/6c753a11e236a90c190bd8e0aff4cec2580197ae/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/6c753a11e236a90c190bd8e0aff4cec2580197ae/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/6c753a11e236a90c190bd8e0aff4cec2580197ae/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/45fa90a290ea5442c02406b514ec4d7cd0fbd019/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/45fa90a290ea5442c02406b514ec4d7cd0fbd019/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/45fa90a290ea5442c02406b514ec4d7cd0fbd019/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -84,9 +84,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/6c753a11e236a90c190bd8e0aff4cec2580197ae/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/45fa90a290ea5442c02406b514ec4d7cd0fbd019/))
 was automatically generated
-from [ch728/cucurbit-usda@6c753a1](https://github.com/ch728/cucurbit-usda/tree/6c753a11e236a90c190bd8e0aff4cec2580197ae)
+from [ch728/cucurbit-usda@45fa90a](https://github.com/ch728/cucurbit-usda/tree/45fa90a290ea5442c02406b514ec4d7cd0fbd019)
 on August 26, 2021.
 </em></small>
 
@@ -270,7 +270,7 @@ ADMIXTURE [@doi:10.1186/1471-2105-12-246], which uses a model-based approach to 
 ADMIXTURE does not model linkage disequilibrium; thus, marker sets were further filtered to obtain SNPs in approximate linkage equilibrium using the "--indep-pairwise" option in PLINK [@doi:10.1086/519795] with $r^2$ set to 0.1, a window size of 50 SNPs, and a 10 SNP step size . 
 All samples labeled as cultivars were removed from the data prior to running ADMIXTURE. 
 Cross-validation was used to determine the best $k$ value for each species. Briefly, ADMIXTURE was run with different $k$ values (1-20) and the cross-validation error was reported for each $k$. 
-The $k$ value with minimal cross-validation error was chosen for each species (Supplemental Figures). 
+The $k$ value with minimal cross-validation error was chosen for each species (Supplemental Figures Figure {@fig:cv}. 
 Ancestral populations were then assigned to cultivars using the program's projection feature.
 
 Principal components analysis (PCA) was used as a model-free way of determining population structure. 
@@ -506,7 +506,7 @@ Together these genotypes were purified through two additional rounds of selfing 
 
 ## Supplemental  Figures
 
-![Cross-validation error plots used to pick the optimum K value for admixture analysis. The K value that minimizes cross-validation error, and thus chosen for the final analysis, is labeled with a red point.](images/error_plots.png) {#fig:cv}
+![Cross-validation error  plots used to pick the optimum K value for admixture analysis. The K value that minimizes cross-validation error, and thus chosen for the final analysis, is labeled with a red point.](images/error_plots.png) {#fig:cv}
 
 ![Results from running GenoCore in each of the panels. Panel A shows the PCA plots for each panel with accessions selected by GenoCore represented as black points. Panel B shows the proportion of total accessions needed to obtain a certain coverage of diversity.](images/core_plot.png) {#fig:core}
 

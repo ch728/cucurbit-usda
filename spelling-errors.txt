@@ -13,7 +13,7 @@ Citrullus
 Cocozelle
 CucCap
 Cucumis
-cucurbit
+Cucurbit
 Cucurbita
 Cucurbitaceae
 cucurbits
@@ -28,7 +28,7 @@ filetered
 fraterna
 GBS
 GenoCore
-Genomic
+genomic
 genotype
 genotyped
 genotypes
@@ -73,9 +73,9 @@ PCA
 pepo
 phenotyped
 phenotypes
-phenotypic
+Phenotypic
 phylo
-phylogenetic
+Phylogenetic
 PicoGreen
 plex
 PLINK
