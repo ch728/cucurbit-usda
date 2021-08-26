@@ -32,11 +32,11 @@ genomic
 genotype
 genotyped
 genotypes
-genotyping
-Germplasm
+Genotyping
+germplasm
 glm
 gsg
-GWAS
+gwas
 heritabilities
 heritability
 HiSeq
@@ -75,7 +75,7 @@ phenotyped
 phenotypes
 Phenotypic
 phylo
-phylogenetic
+Phylogenetic
 PicoGreen
 plex
 PLINK
@@ -87,7 +87,7 @@ resequenced
 sativa
 selfing
 sequecing
-SNP
+snp
 SNPhylo
 SNPs
 Sommer
