@@ -55,9 +55,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/abb8f5dac5d794a3e1ebc9b5aa5f75fa7ade391e/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/abb8f5dac5d794a3e1ebc9b5aa5f75fa7ade391e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/abb8f5dac5d794a3e1ebc9b5aa5f75fa7ade391e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/6218d184c7467a97950e61b270568d3385abccae/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/6218d184c7467a97950e61b270568d3385abccae/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/6218d184c7467a97950e61b270568d3385abccae/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -79,9 +79,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/abb8f5dac5d794a3e1ebc9b5aa5f75fa7ade391e/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/6218d184c7467a97950e61b270568d3385abccae/))
 was automatically generated
-from [ch728/cucurbit-usda@abb8f5d](https://github.com/ch728/cucurbit-usda/tree/abb8f5dac5d794a3e1ebc9b5aa5f75fa7ade391e)
+from [ch728/cucurbit-usda@6218d18](https://github.com/ch728/cucurbit-usda/tree/6218d184c7467a97950e61b270568d3385abccae)
 on August 26, 2021.
 </em></small>
 
