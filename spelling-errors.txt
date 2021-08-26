@@ -12,7 +12,7 @@ Citrullus
 Cocozelle
 CucCap
 Cucumis
-cucurbit
+Cucurbit
 Cucurbita
 Cucurbitaceae
 cucurbits
@@ -29,11 +29,11 @@ Genomic
 genotype
 genotyped
 genotypes
-Genotyping
-Germplasm
+genotyping
+germplasm
 glm
 gsg
-GWAS
+gwas
 heritabilities
 heritability
 HiSeq
@@ -95,7 +95,7 @@ subsp
 Syntenty
 Tek
 texana
-unrooted
+Unrooted
 VCFtool’s
 VCFtools
 vining
