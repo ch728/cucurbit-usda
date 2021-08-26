@@ -60,9 +60,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/d5cc3d4e9a982618b95afb08eea0cec37a0db418/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/d5cc3d4e9a982618b95afb08eea0cec37a0db418/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/d5cc3d4e9a982618b95afb08eea0cec37a0db418/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/a81a9e5fb1ba87558cd4b7bf7255743d9bf4b9e0/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/a81a9e5fb1ba87558cd4b7bf7255743d9bf4b9e0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/a81a9e5fb1ba87558cd4b7bf7255743d9bf4b9e0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -84,9 +84,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/d5cc3d4e9a982618b95afb08eea0cec37a0db418/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/a81a9e5fb1ba87558cd4b7bf7255743d9bf4b9e0/))
 was automatically generated
-from [ch728/cucurbit-usda@d5cc3d4](https://github.com/ch728/cucurbit-usda/tree/d5cc3d4e9a982618b95afb08eea0cec37a0db418)
+from [ch728/cucurbit-usda@a81a9e5](https://github.com/ch728/cucurbit-usda/tree/a81a9e5fb1ba87558cd4b7bf7255743d9bf4b9e0)
 on August 26, 2021.
 </em></small>
 
@@ -504,7 +504,7 @@ Together these genotypes were purified through two additional rounds of selfing 
 ## Discussion
 
 
-## Supplemental
+## Supplemental  Figures
 
 
 ## References {.page_break_before}

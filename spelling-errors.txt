@@ -16,7 +16,7 @@ Cucumis
 Cucurbit
 Cucurbita
 Cucurbitaceae
-cucurbits
+Cucurbits
 dataset
 Delicata
 Dickenson
@@ -28,12 +28,12 @@ filetered
 fraterna
 GBS
 GenoCore
-genomic
+Genomic
 genotype
 genotyped
 genotypes
-Genotyping
-germplasm
+genotyping
+Germplasm
 glm
 gsg
 gwas
@@ -73,7 +73,7 @@ PCA
 pepo
 phenotyped
 phenotypes
-Phenotypic
+phenotypic
 phylo
 Phylogenetic
 PicoGreen
