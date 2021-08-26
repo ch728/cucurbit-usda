@@ -60,9 +60,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/1540d3bf70cdfdad0cb022553286e5dcc9ad4f0d/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/1540d3bf70cdfdad0cb022553286e5dcc9ad4f0d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/1540d3bf70cdfdad0cb022553286e5dcc9ad4f0d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/b17d55bac4808669f286152b7e9e47e02b03d3a5/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/b17d55bac4808669f286152b7e9e47e02b03d3a5/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/b17d55bac4808669f286152b7e9e47e02b03d3a5/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -84,9 +84,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/1540d3bf70cdfdad0cb022553286e5dcc9ad4f0d/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/b17d55bac4808669f286152b7e9e47e02b03d3a5/))
 was automatically generated
-from [ch728/cucurbit-usda@1540d3b](https://github.com/ch728/cucurbit-usda/tree/1540d3bf70cdfdad0cb022553286e5dcc9ad4f0d)
+from [ch728/cucurbit-usda@b17d55b](https://github.com/ch728/cucurbit-usda/tree/b17d55bac4808669f286152b7e9e47e02b03d3a5)
 on August 26, 2021.
 </em></small>
 
@@ -281,8 +281,8 @@ Each *Cucurbita ssp.* collection was genotyped using the Cornell Genotype by Seq
 ![Geographical distribution of the USDA Cucurbita ssp. collection. The size of the pie chart is scaled according to the number of accessions and sector areas correspond to the proportion of the three species.](images/pi_map.png){#fig:world} 
 
 |Chrom. | *C. pepo* |  |*C. moschata* | | *C. maxima*| |
-| |Raw | Filtered| Raw | Filtered| Raw | Filtered |
 |----------|----------|----------|----------|----------|----------|----------|
+| |Raw | Filtered| Raw | Filtered| Raw | Filtered |
 |0 |16901|5656|3748|1236|1501|419|
 |1 |9245|4155|4575|2627|4185|300|
 |2 |6160|2921|4092|2535|2101|169|

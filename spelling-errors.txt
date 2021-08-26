@@ -36,7 +36,7 @@ Genotyping
 germplasm
 glm
 gsg
-gwas
+GWAS
 heritabilities
 heritability
 HiSeq
@@ -86,7 +86,7 @@ resequenced
 sativa
 selfing
 sequecing
-snp
+SNP
 SNPhylo
 SNPs
 Sommer
