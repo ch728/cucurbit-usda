@@ -16,7 +16,7 @@ Cucumis
 Cucurbit
 Cucurbita
 Cucurbitaceae
-cucurbits
+Cucurbits
 dataset
 Delicata
 Dickenson
@@ -99,7 +99,7 @@ subsp
 Syntenty
 Tek
 texana
-Unrooted
+unrooted
 VCFtool’s
 VCFtools
 vining

@@ -60,9 +60,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/4a5aa0ef51a3576a464044d969293c4bfa0ab176/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/4a5aa0ef51a3576a464044d969293c4bfa0ab176/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/4a5aa0ef51a3576a464044d969293c4bfa0ab176/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/f90edf5393fb37d2b3ccc7c9e9d19e4882882598/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/f90edf5393fb37d2b3ccc7c9e9d19e4882882598/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/f90edf5393fb37d2b3ccc7c9e9d19e4882882598/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -84,9 +84,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/4a5aa0ef51a3576a464044d969293c4bfa0ab176/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/f90edf5393fb37d2b3ccc7c9e9d19e4882882598/))
 was automatically generated
-from [ch728/cucurbit-usda@4a5aa0e](https://github.com/ch728/cucurbit-usda/tree/4a5aa0ef51a3576a464044d969293c4bfa0ab176)
+from [ch728/cucurbit-usda@f90edf5](https://github.com/ch728/cucurbit-usda/tree/f90edf5393fb37d2b3ccc7c9e9d19e4882882598)
 on August 26, 2021.
 </em></small>
 
@@ -373,7 +373,7 @@ Fruit traits included fruit width, length, surface color and texture, and flesh 
 Agronomic data included plant vigor and vining habit, and several phenotypes related to maturity. 
 Pest-related traits included susceptibility to cucumber beetle and squash bug in *C. pepo* and watermelon mosaic virus (WMV)  and powdery mildew (PM) in *C. maxima*. 
 
-Around half of the traits were quantitative/ordinal and half were categorical and coded as binary traits (see Table {@tbl:params}). 
+Around half of the traits were quantitative/ordinal and half were categorical and coded as binary traits, see Table {@tbl:params}. 
 The majority of traits measured on a quantitative scale were normally distributed. 
 Marker-based narrow-sense heritability ($h_{G}^2$) was calculated for each trait. 
 Values for $h_{G}^2$ ranged from 0.12 to close to 1. 
@@ -432,7 +432,7 @@ The only exception was plant growth habit.Traits related to pest resistance were
  ||Plant Type|Plant type as vining or not vining|251| 0.74 | 1.19 |
  ||Days to Pollen |Number of days from field transplanting to date of first pollination|236| 0.52 | 0.15|
 
-Table: Summary of trait data used for association analysis. A brief description is given for each trait followed by the number of entries with records, the genomic heritability ($h_{G}^{2}$), and the R-square value from multiple linear regression of population structure on phenotype ($R_{pop}^{2}$). Trait names followed by a number (e.g. Fruit Color1) are traits derived from alternative coding of multi-class categorical traits.{#tbl:params}
+Table: Summary of trait data used for association analysis. A brief description is given for each trait followed by the number of entries with records, the genomic heritability ($h_{G}^{2}$), and the R-square value from multiple linear regression of population structure on phenotype ($R_{pop}^{2}$). Trait names followed by a number (e.g. Fruit Color1) are traits derived from alternative coding of multi-class categorical traits. {#tbl:params}
 
 ### Genome-wide Association
 
