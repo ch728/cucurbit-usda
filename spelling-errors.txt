@@ -15,7 +15,7 @@ Cucumis
 Cucurbit
 Cucurbita
 Cucurbitaceae
-Cucurbits
+cucurbits
 dataset
 Delicata
 Dickenson
@@ -25,12 +25,12 @@ Fei
 fraterna
 GBS
 GenoCore
-Genomic
+genomic
 Genotype
 genotyped
 genotypes
 genotyping
-Germplasm
+germplasm
 glm
 gsg
 gwas
@@ -71,7 +71,7 @@ phenotyped
 phenotypes
 phenotypic
 phylo
-phylogenetic
+Phylogenetic
 PicoGreen
 plex
 PLINK
@@ -95,7 +95,8 @@ subsp
 Syntenty
 Tek
 texana
-Unrooted
+unrooted
+variatey
 VCFtool’s
 VCFtools
 vining

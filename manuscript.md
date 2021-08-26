@@ -55,9 +55,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/50b5d19638a2d7daf5c594804b5418261b6fe109/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/50b5d19638a2d7daf5c594804b5418261b6fe109/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/50b5d19638a2d7daf5c594804b5418261b6fe109/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/7dc3adab83e45e7580bce38586a0f3e24e7e072a/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/7dc3adab83e45e7580bce38586a0f3e24e7e072a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/7dc3adab83e45e7580bce38586a0f3e24e7e072a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -79,9 +79,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/50b5d19638a2d7daf5c594804b5418261b6fe109/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/7dc3adab83e45e7580bce38586a0f3e24e7e072a/))
 was automatically generated
-from [ch728/cucurbit-usda@50b5d19](https://github.com/ch728/cucurbit-usda/tree/50b5d19638a2d7daf5c594804b5418261b6fe109)
+from [ch728/cucurbit-usda@7dc3ada](https://github.com/ch728/cucurbit-usda/tree/7dc3adab83e45e7580bce38586a0f3e24e7e072a)
 on August 26, 2021.
 </em></small>
 
@@ -148,21 +148,27 @@ elucidate the genetics of fruit quality, growth habit, disease resistance, and
 to increase the efficiency of cucurbit improvement 
 [@doi:10.1186/s12864-016-3439-y; @doi:10.1038/s41598-017-13216-3; 
 @doi:10.1007/s11032-018-0869-z; @doi:10.3835/plantgenome2018.10.0082; 
-@doi:10.1038/s41438-019-0176-9, @doi:10.1534/g3.120.401215]; however, there has yet to be a 
+@doi:10.1038/s41438-019-0176-9; @doi:10.1534/g3.120.401215]; however, there has yet to be a 
 comprehensive survey of the genetic diversity in large diverse *Cucurbita* 
 germplasm panels, such as those maintained by the USDA within the Germplasm 
 Resources Information Network (GRIN) system.
 
 Germplasm collections play a vital role in maintaining and preserving 
 genetic variation. These collections can be mined by breeders for valuable 
-alleles and can by geneticists for mapping studies. Many s. The collections of 
-The Cucurbit Coordinated Agricultural Project (CucCap project) has been established 
+alleles and can also be used by geneticists and biologists 
+for mapping studies [@doi:10.1016/j.molp.2020.08.011]. Like many other orphan and
+specialty crops,there has been little effort put into developing community genetic
+resources for squash and other cucurbits.
+The Cucurbit Coordinated Agricultural Project (CucCap project) was established 
 to help close the knowledge gap in Cucurbits. This collaborative project aims to 
 provide genomics resources and tools that can aid in both applied breeding and basic 
 research. The genetic and phenotypic diversity present in the USDA watermelon and cucumber 
 collections has already been explored as part of the CucCap project, partially
 through the sequencing of USDA germplasm collections and development of core collections for 
 whole-genome sequencing [@doi:10.1038/s41438-018-0080-8; @doi:10.1111/pbi.13136].
+The diverse specimens of squash have yet to be well characterized at the genetic level; 
+although, an elaborate system has been established for classifying squash based
+on species and a variatey of other characteristics.
 	
 The classification system used in squash is complex. Squash from each species can be 
 classed as winter or summer squash depending on whether the fruit is consumed at an 
