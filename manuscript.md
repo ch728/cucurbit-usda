@@ -9,7 +9,7 @@ keywords:
 - Cucurbita moschata
 - Cucurbita maxima
 lang: en-US
-date-meta: '2021-08-25'
+date-meta: '2021-08-26'
 author-meta:
 - Christopher Owen Hernandez
 - Joanne Labate
@@ -25,8 +25,8 @@ header-includes: |-
   <meta name="citation_title" content="Characterization of the USDA Cucurbita pepo, Cucurbita moschata, and Cucurbita maxima Collections" />
   <meta property="og:title" content="Characterization of the USDA Cucurbita pepo, Cucurbita moschata, and Cucurbita maxima Collections" />
   <meta property="twitter:title" content="Characterization of the USDA Cucurbita pepo, Cucurbita moschata, and Cucurbita maxima Collections" />
-  <meta name="dc.date" content="2021-08-25" />
-  <meta name="citation_publication_date" content="2021-08-25" />
+  <meta name="dc.date" content="2021-08-26" />
+  <meta name="citation_publication_date" content="2021-08-26" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -55,9 +55,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/ddc02f7f5ecad5579610b8529c04908d4a3efb6a/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/ddc02f7f5ecad5579610b8529c04908d4a3efb6a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/ddc02f7f5ecad5579610b8529c04908d4a3efb6a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/b516dd13b37e9ae8305b06dcb975fab6e3030a69/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/b516dd13b37e9ae8305b06dcb975fab6e3030a69/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/b516dd13b37e9ae8305b06dcb975fab6e3030a69/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -79,10 +79,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/ddc02f7f5ecad5579610b8529c04908d4a3efb6a/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/b516dd13b37e9ae8305b06dcb975fab6e3030a69/))
 was automatically generated
-from [ch728/cucurbit-usda@ddc02f7](https://github.com/ch728/cucurbit-usda/tree/ddc02f7f5ecad5579610b8529c04908d4a3efb6a)
-on August 25, 2021.
+from [ch728/cucurbit-usda@b516dd1](https://github.com/ch728/cucurbit-usda/tree/b516dd13b37e9ae8305b06dcb975fab6e3030a69)
+on August 26, 2021.
 </em></small>
 
 ## Authors
@@ -148,7 +148,7 @@ elucidate the genetics of fruit quality, growth habit, disease resistance, and
 to increase the efficiency of cucurbit improvement 
 [@doi:10.1186/s12864-016-3439-y; @doi:10.1038/s41598-017-13216-3; 
 @doi:10.1007/s11032-018-0869-z; @doi:10.3835/plantgenome2018.10.0082; 
-@doi:10.1038/s41438-019-0176-9]; however, there has yet to be a 
+@doi:10.1038/s41438-019-0176-9, @doi:10.1534/g3.120.401215]; however, there has yet to be a 
 comprehensive survey of the genetic diversity in large diverse *Cucurbita* 
 germplasm panels, such as those maintained by the USDA within the Germplasm 
 Resources Information Network (GRIN) system.
