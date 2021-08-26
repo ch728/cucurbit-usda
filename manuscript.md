@@ -12,6 +12,7 @@ lang: en-US
 date-meta: '2021-08-26'
 author-meta:
 - Christopher Owen Hernandez
+- Jack Fabrizio
 - Joanne Labate
 - Zhangjun Fei
 - Michael Mazourek
@@ -37,6 +38,10 @@ header-includes: |-
   <meta name="citation_author_institution" content="Department of Plant Breeding and Genetics, Cornell University, Ithaca, NY" />
   <meta name="citation_author_orcid" content="0000-0002-1668-7121" />
   <meta name="twitter:creator" content="@None" />
+  <meta name="citation_author" content="Jack Fabrizio" />
+  <meta name="citation_author_institution" content="Department of Plant Breeding and Genetics, Cornell University, Ithaca, NY" />
+  <meta name="citation_author_orcid" content="None" />
+  <meta name="twitter:creator" content="@None" />
   <meta name="citation_author" content="Joanne Labate" />
   <meta name="citation_author_institution" content="USDA, Geneva, NY" />
   <meta name="citation_author_orcid" content="None" />
@@ -55,9 +60,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/7dc3adab83e45e7580bce38586a0f3e24e7e072a/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/7dc3adab83e45e7580bce38586a0f3e24e7e072a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/7dc3adab83e45e7580bce38586a0f3e24e7e072a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/ef68566d73471bae1c7922ef96806c786353e3f0/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/ef68566d73471bae1c7922ef96806c786353e3f0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/ef68566d73471bae1c7922ef96806c786353e3f0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -79,9 +84,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/7dc3adab83e45e7580bce38586a0f3e24e7e072a/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/ef68566d73471bae1c7922ef96806c786353e3f0/))
 was automatically generated
-from [ch728/cucurbit-usda@7dc3ada](https://github.com/ch728/cucurbit-usda/tree/7dc3adab83e45e7580bce38586a0f3e24e7e072a)
+from [ch728/cucurbit-usda@ef68566](https://github.com/ch728/cucurbit-usda/tree/ef68566d73471bae1c7922ef96806c786353e3f0)
 on August 26, 2021.
 </em></small>
 
@@ -92,6 +97,11 @@ on August 26, 2021.
 + **Christopher Owen Hernandez**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
     [0000-0002-1668-7121](https://orcid.org/0000-0002-1668-7121)<br>
+  <small>
+     Department of Plant Breeding and Genetics, Cornell University, Ithaca, NY
+  </small>
+
++ **Jack Fabrizio**<br><br>
   <small>
      Department of Plant Breeding and Genetics, Cornell University, Ithaca, NY
   </small>
