@@ -55,9 +55,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/b516dd13b37e9ae8305b06dcb975fab6e3030a69/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/b516dd13b37e9ae8305b06dcb975fab6e3030a69/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/b516dd13b37e9ae8305b06dcb975fab6e3030a69/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/b9c9ee5d9cf192d3e87f7aebffeeb41bd71f5ce8/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/b9c9ee5d9cf192d3e87f7aebffeeb41bd71f5ce8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/b9c9ee5d9cf192d3e87f7aebffeeb41bd71f5ce8/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -79,9 +79,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/b516dd13b37e9ae8305b06dcb975fab6e3030a69/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/b9c9ee5d9cf192d3e87f7aebffeeb41bd71f5ce8/))
 was automatically generated
-from [ch728/cucurbit-usda@b516dd1](https://github.com/ch728/cucurbit-usda/tree/b516dd13b37e9ae8305b06dcb975fab6e3030a69)
+from [ch728/cucurbit-usda@b9c9ee5](https://github.com/ch728/cucurbit-usda/tree/b9c9ee5d9cf192d3e87f7aebffeeb41bd71f5ce8)
 on August 26, 2021.
 </em></small>
 
@@ -247,6 +247,9 @@ Genomic heritability [@doi:10.1371/journal.pgen.1005048] ($h_{g}^2$)  was calcul
 
 ### GWAS
 Data were imputed prior to association analysis. LinkImpute [@doi:10.1534/g3.115.021667], as implemented by the TASSEL [@doi:10.1093/bioinformatics/btm308]  "LDKNNiImputatioHetV2Plugin" plugin was used for imputation with default settings. Any data still missing after this process were mean imputed. The GENESIS [@doi: 10.1093/bioinformatics/btz567] R package, which can model both binary and continuous traits, was used for association. All models included the first two PCs of the marker matrix as fixed effects and modeled genotype effect ($u$) as a random effect distributed according to the kinship ($\mathbf{K}$) matrix ($u \sim N(0, \sigma_{u}^2\mathbf{K})$). Binary traits were modeled using the logistic regression feature in GENESIS. 
+
+### Syntenty of *Bu* putative region in *C. pepo* and *C. maxima*
+
 
 ### Creation of a Core Collection
 
