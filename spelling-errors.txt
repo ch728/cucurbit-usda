@@ -8,6 +8,7 @@ Boyce
 broadlycultivated
 BWA
 Calabaza
+Chrom
 Citrullus
 Cocozelle
 CucCap
@@ -23,14 +24,15 @@ DS
 dsDNA
 Fabrizio
 Fei
+filetered
 fraterna
 GBS
 GenoCore
-Genomic
-Genotype
+genomic
+genotype
 genotyped
 genotypes
-Genotyping
+genotyping
 Germplasm
 glm
 gsg
@@ -72,7 +74,7 @@ phenotyped
 phenotypes
 phenotypic
 phylo
-Phylogenetic
+phylogenetic
 PicoGreen
 plex
 PLINK
@@ -84,7 +86,7 @@ resequenced
 sativa
 selfing
 sequecing
-SNP
+snp
 SNPhylo
 SNPs
 Sommer
