@@ -60,9 +60,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/b17d55bac4808669f286152b7e9e47e02b03d3a5/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/b17d55bac4808669f286152b7e9e47e02b03d3a5/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/b17d55bac4808669f286152b7e9e47e02b03d3a5/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/2f2398d24e4369e6fcd72ff0ca81d882a092ebc0/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/2f2398d24e4369e6fcd72ff0ca81d882a092ebc0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/2f2398d24e4369e6fcd72ff0ca81d882a092ebc0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -84,9 +84,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/b17d55bac4808669f286152b7e9e47e02b03d3a5/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/2f2398d24e4369e6fcd72ff0ca81d882a092ebc0/))
 was automatically generated
-from [ch728/cucurbit-usda@b17d55b](https://github.com/ch728/cucurbit-usda/tree/b17d55bac4808669f286152b7e9e47e02b03d3a5)
+from [ch728/cucurbit-usda@2f2398d](https://github.com/ch728/cucurbit-usda/tree/2f2398d24e4369e6fcd72ff0ca81d882a092ebc0)
 on August 26, 2021.
 </em></small>
 
@@ -312,18 +312,23 @@ Table: Distribution and number of raw and filetered SNPs per chromosome for each
 
 ![Population structure results aligned vertically by species. (A) Admixture plots: each stacked barplot represents an accession colored by proportion of inferred ancestral population. Groups based on hierarchical clustering are delimited by vertical bars and labeled with numbers along the bottom. (B) Plots of the first two principle components (PC) of accessions colored by region, variation explained by PCs is labeled on each axis.](images/pop_structure.png){#fig:struc}
 
-\begin{table}
-	\begin{center}
-		\input{tables/struct_info.tex}
-	\end{center}
-	\caption{Commonalities among accessions in each group, most groupings are dictated by geography.}
-	\label{struc_info}
-\end{table}
+
+|Group|Species|||
+|----|----|----|----|
+||*C. pepo*|*C. moschata*|*C. maxima*|
+|1|Europe/Asia, mostly for Turkey|South American/Latin American|Mixed origin; kobocha/turban types|
+|2|Europe, mostly from Macedonia|South American/Latin American|European, mostly from Macedonia|
+|3|North America, wild and landrace *ovifera*|African|Asia |Pacific/Middle East|
+|4|Mixed origin|India|South American|
+|5|South America, mostly from Mexico|Mixed origin; elongated fruit type|African|
+
+Table: Commonalities among accessions in each group, most groupings are dictated by geography. {#tbl:struc_info}
 
 ![Ancestry coefficients projected on cultivars from each species. Results are shown grouped by market/varietal class.](images/cult_str.png){#fig:cult}
 
 
-Filtered SNPs were used for population structure analysis. Available geographical, phenotypic, and other metadata were retrieved from GRIN and were used to help interpret structure results. Results from model-based admixture analysis are shown in Figure {@fig:struc} panel A. These data support five ancestral groups (K=5) in each of the species. Population structure was driven mostly by geography, except in *C. pepo* where the presence of different subspecies was responsible for some of the structure. Commonalities among structure groups are described in Table \ref{struc_info}. The first two principal components (PCs) derived from principal components analysis (PCA) of the marker data are shown in Figure {@fig:struc} panel B. As with the model-based analysis, PCA  showed geography as a main driver of population structure with accessions being derived from Africa, the Arab States, Asia, Europe, North America, and South/Latin America. PC1 in *C. pepo* separates *C. pepo* subsp.*ovifera*, which have a North American Origin, from subsp. *pepo*. 
+Filtered SNPs were used for population structure analysis. Available geographical, phenotypic, and other metadata were retrieved from GRIN and were used to help interpret structure results. Results from model-based admixture analysis are shown in Figure {@fig:struc} panel A. These data support five ancestral groups (K=5) in each of the species. Population structure was driven mostly by geography, except in *C. pepo* where the presence of different subspecies was responsible for some of the structure. Commonalities among structure groups are described in Table {@tbl:struc_info}. The first two principal components (PCs) derived from principal components analysis (PCA) of the marker data are shown in Figure {@fig:struc} panel B. As with the model-based analysis, PCA  showed geography as a main driver of population structure with accessions being derived from Africa, the Arab States, Asia, Europe, North America, and South/Latin America. PC1 in *C. pepo* separates *C. pepo* subsp.*ovifera*, which have a North American Origin, from subsp. *pepo*. 
+
 
 ![Unrooted maximum likelihood tree of *C. pepo* subspecies inferred using wild and cultivated germplasm in the *C. pepo* collection.](images/pepo_phylo.png){#fig:phylo}
 

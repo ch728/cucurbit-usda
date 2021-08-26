@@ -29,14 +29,14 @@ fraterna
 GBS
 GenoCore
 genomic
-Genotype
+genotype
 genotyped
 genotypes
 Genotyping
-germplasm
+Germplasm
 glm
 gsg
-GWAS
+gwas
 heritabilities
 heritability
 HiSeq
@@ -86,7 +86,7 @@ resequenced
 sativa
 selfing
 sequecing
-SNP
+snp
 SNPhylo
 SNPs
 Sommer
@@ -98,7 +98,7 @@ subsp
 Syntenty
 Tek
 texana
-Unrooted
+unrooted
 VCFtool’s
 VCFtools
 vining
