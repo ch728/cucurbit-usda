@@ -80,9 +80,9 @@
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/b516dd13b37e9ae8305b06dcb975fab6e3030a69/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/b516dd13b37e9ae8305b06dcb975fab6e3030a69/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/b516dd13b37e9ae8305b06dcb975fab6e3030a69/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/b9c9ee5d9cf192d3e87f7aebffeeb41bd71f5ce8/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/b9c9ee5d9cf192d3e87f7aebffeeb41bd71f5ce8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/b9c9ee5d9cf192d3e87f7aebffeeb41bd71f5ce8/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -96,9 +96,9 @@
 </header>
 <p><small><em>
 This manuscript
-(<a href="https://ch728.github.io/cucurbit-usda/v/b516dd13b37e9ae8305b06dcb975fab6e3030a69/">permalink</a>)
+(<a href="https://ch728.github.io/cucurbit-usda/v/b9c9ee5d9cf192d3e87f7aebffeeb41bd71f5ce8/">permalink</a>)
 was automatically generated
-from <a href="https://github.com/ch728/cucurbit-usda/tree/b516dd13b37e9ae8305b06dcb975fab6e3030a69">ch728/cucurbit-usda@b516dd1</a>
+from <a href="https://github.com/ch728/cucurbit-usda/tree/b9c9ee5d9cf192d3e87f7aebffeeb41bd71f5ce8">ch728/cucurbit-usda@b9c9ee5</a>
 on August 26, 2021.
 </em></small></p>
 <h2 id="authors">Authors</h2>
@@ -232,6 +232,7 @@ using historical and contemporary phenotypes, and develop a core panel for re-se
 <p>Genomic heritability <span class="citation" data-cites="obxjDYob">[<a href="#ref-obxjDYob" role="doc-biblioref">27</a>]</span> (<span class="math inline">\(h_{g}^2\)</span>) was calculated for all phenotypes. The parameter <span class="math inline">\(h_{g}^2\)</span> was calculated for continuous traits using the formula <span class="math inline">\(h_{g}^2 = \frac{\sigma_{g}^2}{\sigma_{g}^2 + \sigma_{e}^2}\)</span>, where <span class="math inline">\(\sigma_{g}^2\)</span> and <span class="math inline">\(\sigma_{e}^2\)</span> are genetic and error variances estimated from a whole-genome regression of phenotype on marker data using ASReml-R . Multi-class categorical traits were converted to one or several different binary traits depending on the number of entries in each category. For binary traits, a Logit model was fit for the binary response and the heritability was estimated as <span class="math inline">\(h_{g}^2 = \frac{\sigma_{g}^2}{\sigma_{g}^2 + \frac{\pi^2}{3}}\)</span> <span class="citation" data-cites="15ChEFKjS">[<a href="#ref-15ChEFKjS" role="doc-biblioref">28</a>]</span>. In addition to heritability, the amount of phenotypic variance explained by population structure (<span class="math inline">\(R_{pop}^2\)</span>) was calculated from a multiple linear regression of phenotype on sturcture inferred by ADMIXTURE. The R function lm was used to regress continuous phenotypes on the <span class="math inline">\(\mathbf{Q}\)</span> matrix obtained from ADMIXTURE. The R glm function was used with “family=binomial” to regress binary traits on population structure. As there is no <span class="math inline">\(R^2\)</span> defined for logistic models, McFadden’s psuedo <span class="math inline">\(R^2\)</span> was used to assess the correlation between binary traits and population structure <span class="citation" data-cites="1B5fUw44w">[<a href="#ref-1B5fUw44w" role="doc-biblioref">29</a>]</span>.</p>
 <h3 id="gwas">GWAS</h3>
 <p>Data were imputed prior to association analysis. LinkImpute <span class="citation" data-cites="bh0NyElc">[<a href="#ref-bh0NyElc" role="doc-biblioref">30</a>]</span>, as implemented by the TASSEL <span class="citation" data-cites="6BHN02He">[<a href="#ref-6BHN02He" role="doc-biblioref">31</a>]</span> “LDKNNiImputatioHetV2Plugin” plugin was used for imputation with default settings. Any data still missing after this process were mean imputed. The GENESIS <span class="citation" data-cites="doi">[<a href="#ref-doi" role="doc-biblioref"><strong>doi?</strong></a> 10.1093/bioinformatics/btz567]</span> R package, which can model both binary and continuous traits, was used for association. All models included the first two PCs of the marker matrix as fixed effects and modeled genotype effect (<span class="math inline">\(u\)</span>) as a random effect distributed according to the kinship (<span class="math inline">\(\mathbf{K}\)</span>) matrix (<span class="math inline">\(u \sim N(0, \sigma_{u}^2\mathbf{K})\)</span>). Binary traits were modeled using the logistic regression feature in GENESIS.</p>
+<h3 id="syntenty-of-bu-putative-region-in-c.-pepo-and-c.-maxima">Syntenty of <em>Bu</em> putative region in <em>C. pepo</em> and <em>C. maxima</em></h3>
 <h3 id="creation-of-a-core-collection">Creation of a Core Collection</h3>
 <p>Subsets representative of each panel’s genetic diversity were identified through running GenoCore <span class="citation" data-cites="1BZpw3PUi">[<a href="#ref-1BZpw3PUi" role="doc-biblioref">32</a>]</span> on each of the filtered SNP sets. A subset of the <em>C. pepo</em> panel and key genotypes from the other two species were combined to form a core collection for the cucurbit community. Key genotypes were chosen to represent important market classes and for variation based on variation in traits. These genotypes will be further purified through two additional rounds of selfing and then resequenced using skim-sequecing to produce whole-genome data.</p>
 <h2 id="results">Results</h2>
