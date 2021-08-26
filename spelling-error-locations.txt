@@ -310,3 +310,6 @@ content/04.results.md:182:Cucurbita
 content/04.results.md:182:genotypes
 content/04.results.md:182:selfing
 content/04.results.md:182:ssp
+content/06.supplemental.md:5:GenoCore
+content/06.supplemental.md:5:GenoCore
+content/06.supplemental.md:5:PCA

@@ -13,10 +13,10 @@ Citrullus
 Cocozelle
 CucCap
 Cucumis
-Cucurbit
+cucurbit
 Cucurbita
 Cucurbitaceae
-cucurbits
+Cucurbits
 dataset
 Delicata
 Dickenson
@@ -28,12 +28,12 @@ filetered
 fraterna
 GBS
 GenoCore
-genomic
-Genotype
+Genomic
+genotype
 genotyped
 genotypes
 Genotyping
-Germplasm
+germplasm
 glm
 gsg
 GWAS
@@ -45,7 +45,7 @@ indep
 Invitrogen
 jacko
 Japonica
-Kobocha
+kobocha
 Kuri
 Labate
 Lagenaria
