@@ -15,7 +15,7 @@ Cucumis
 Cucurbit
 Cucurbita
 Cucurbitaceae
-cucurbits
+Cucurbits
 dataset
 Delicata
 Dickenson
@@ -26,11 +26,11 @@ fraterna
 GBS
 GenoCore
 Genomic
-genotype
+Genotype
 genotyped
 genotypes
 genotyping
-germplasm
+Germplasm
 glm
 gsg
 gwas
