@@ -16,7 +16,7 @@ Cucumis
 Cucurbit
 Cucurbita
 Cucurbitaceae
-Cucurbits
+cucurbits
 dataset
 Delicata
 Dickenson
@@ -28,15 +28,15 @@ filetered
 fraterna
 GBS
 GenoCore
-Genomic
-genotype
+genomic
+Genotype
 genotyped
 genotypes
-genotyping
+Genotyping
 Germplasm
 glm
 gsg
-gwas
+GWAS
 heritabilities
 heritability
 HiSeq
@@ -87,7 +87,7 @@ resequenced
 sativa
 selfing
 sequecing
-snp
+SNP
 SNPhylo
 SNPs
 Sommer
@@ -99,7 +99,7 @@ subsp
 Syntenty
 Tek
 texana
-unrooted
+Unrooted
 VCFtool’s
 VCFtools
 vining
