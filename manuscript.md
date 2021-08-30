@@ -9,7 +9,7 @@ keywords:
 - Cucurbita moschata
 - Cucurbita maxima
 lang: en-US
-date-meta: '2021-08-26'
+date-meta: '2021-08-30'
 author-meta:
 - Christopher Owen Hernandez
 - Jack Fabrizio
@@ -26,8 +26,8 @@ header-includes: |-
   <meta name="citation_title" content="Characterization of the USDA Cucurbita pepo, Cucurbita moschata, and Cucurbita maxima Collections" />
   <meta property="og:title" content="Characterization of the USDA Cucurbita pepo, Cucurbita moschata, and Cucurbita maxima Collections" />
   <meta property="twitter:title" content="Characterization of the USDA Cucurbita pepo, Cucurbita moschata, and Cucurbita maxima Collections" />
-  <meta name="dc.date" content="2021-08-26" />
-  <meta name="citation_publication_date" content="2021-08-26" />
+  <meta name="dc.date" content="2021-08-30" />
+  <meta name="citation_publication_date" content="2021-08-30" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -60,9 +60,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/4bc1672450852cc7b2ceee6c8696da9f80dedd2f/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/4bc1672450852cc7b2ceee6c8696da9f80dedd2f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/4bc1672450852cc7b2ceee6c8696da9f80dedd2f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/30ccdecdf8803669b24f082cf43ef558d641f74d/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/30ccdecdf8803669b24f082cf43ef558d641f74d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/30ccdecdf8803669b24f082cf43ef558d641f74d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -84,10 +84,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/4bc1672450852cc7b2ceee6c8696da9f80dedd2f/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/30ccdecdf8803669b24f082cf43ef558d641f74d/))
 was automatically generated
-from [ch728/cucurbit-usda@4bc1672](https://github.com/ch728/cucurbit-usda/tree/4bc1672450852cc7b2ceee6c8696da9f80dedd2f)
-on August 26, 2021.
+from [ch728/cucurbit-usda@30ccdec](https://github.com/ch728/cucurbit-usda/tree/30ccdecdf8803669b24f082cf43ef558d641f74d)
+on August 30, 2021.
 </em></small>
 
 ## Authors
@@ -502,6 +502,86 @@ Together these genotypes were purified through two additional rounds of selfing 
 
 
 ## Discussion
+
+*Cucurbita pepo*, *Cucurbita moschata*, and *Cucurbita maxima*, 
+exhibit a wide range of phenotypic diversity.
+This deversity was evident in the GRIN phenotypic records for these species.
+We have demonstrated that there is a wide range of genetic deveresity through
+genotyping-by-sequencing and genetic analysis of available specimens from 
+the germplasm collections. Thousands to tens of thousands of whole-genome markers
+where obtained for each species. Clustering of samples and admixture analysis
+produced results that align closely with known secondary centers of origin in all species. 
+This was especially clear in our analysis of the *Cucurbita pepo* collection.
+*Cucurbita pepo* has its origin in the new world, with a secondary center of
+diversification in Europe. This pattern was conspicuous in the our PCA analysis.  
+Phylogenetic anlaysis of *Cucurbita pepo* using the whole-genome
+markers also supported the known relationships between the various subspecies in *pepo*. 
+Together with the mapping of a putative bush gene (*Bu*) that appears to be syntenic 
+with the bush gene mapped in *C. maxima*, we have demonstrated that these data 
+constitute a new, high quality genetic resource for the Cucurbit community. 
+These markers and our analysis of available germplasm
+have a number of uses for breeding and can also be used to guide future experments
+aimed at biological insight.
+
+From a breeding perspective, these data can be used to develop germplasm
+specific marker panels for use in breeding applications, as has been done in
+other crops {@doi:10.1186/s12284-019-0311-0}.
+Possible breeding applications would  include marker assisted selection, 
+marker assisted backcrossing, and purity assessment of seedstock using a low density panel; 
+whereas, a medium density panel could be developed for routine genomic selection.  Our clustering
+of samples based on maker data suggest geography is a key driver for overall population 
+structure. When projecting ancestry proportions onto cultivars of known market classes, the ancestry 
+proportions were relatively similar within market class grouping. Alghough there is genetic diversity 
+within each species, this diversity is constrained within market classes. This suggests that
+crosses between these market classes would greatly increase the amount of genetic diversity 
+to be leveraged in breeding efforts. Crossing between market classes would come at 
+the cost of bringing in undesirable characteristics with regards to achieving a specific 
+morpho-type associated market class. This cost could be mitgated through the use of
+markers to recover morpho-type expediciously during pre-breeding.
+
+Subsets of the germplasm available and markers
+can also be used to for developement of custom  populations, in the
+case of where rare is in the panel, or  . Adoption could also enable 
+different breeding strategies in Cucurbits.
+
+
+
+Unlike many other outcrossing monoicous crops such as, maize and onion, cultivars from Cucurbita, 
+similar to sunflower, do not suffer from debilatating inbreeding depression resulting in a 
+severe reduction in vigor and fertility (Whitaker and Davis, 1962). 
+With little inbreeding depression, it would stand that little better-parent heterosis could 
+be achieved considering the dominance theory of heterosis. 
+There  were initial papers that suggested that inbreeding in Cucurbita may not simply reduce 
+yeild as inbred varieties have the capacity to compete with commercial check cultivars;
+however, better-parent heterosis has been observed in a Cucurbita pepo and C
+ucurbita maxima (Firpo et. al., 1998). 
+Although better-parent heterosis has been observed, inbred cultivars remain competitive 
+with there hybrid counter-parts. 
+It has been suggested that the oddity of Cucurbita not suffering high levels of 
+inbreeding depression is the result of an archaic population bottleneck. 
+The population bottleneck would effectively lead to greater levels of population 
+homogeneity through many variants in the initial population being lost and the 
+low-frequency alleles post-bottleneck having a greater probability of becoming lost. 
+
+It is commonplace for breeders in many crops to breed within market-classes, 
+that is, make crosses between cultivars that are destined for similar culinary uses. 
+Leveraging elite varieties as parents is foundational in creating superior cultivars; 
+however, a delicate balance must be achieved between maintaining elite level genetics 
+and genetic diversity. With more breeding programs beginning to adopt genomic 
+selection/prediction, the rate of genetic gain has increased by virtue of a reduced 
+time interval between selections. The introduction of diversity into elite germplasm 
+pools is critical for long term gain as the diversity of the breeding populations become
+exhausted after many generations of selection. Genomic selection ultimately allows for 
+faster integration of diverse breeding material into elite germplasm while continueing 
+to purge deleterious alleles found in said diversity. Although challenging, inter-specific 
+crosses have been leveraged in squash to transfer major disease resistance loci to great effect; 
+however, potentially powerful quantitave loci lag behind in cross species integration. 
+A potential key in successful integration is correct evaluation of genetic relationship as 
+the accessibility of advantagious diversity may rely on the genetic proximity of parental lines. 
+
+
+
+
 
 
 ## Supplemental  Figures
