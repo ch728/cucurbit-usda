@@ -19,7 +19,7 @@ Cocozelle
 convered
 CucCap
 Cucumis
-Cucurbit
+cucurbit
 Cucurbita
 Cucurbitaceae
 cucurbits
@@ -40,14 +40,14 @@ GBS
 geno
 GenoCore
 Genomic
-genotype
+Genotype
 genotyped
 genotypes
 genotyping
-Germplasm
+germplasm
 glm
 gsg
-GWAS
+gwas
 heritabilities
 heritability
 heterosis
@@ -58,7 +58,7 @@ indep
 Invitrogen
 jacko
 Japonica
-Kobocha
+kobocha
 Kuri
 Labate
 Lagenaria
@@ -109,7 +109,7 @@ sativa
 seedstock
 selfing
 sequecing
-SNP
+snp
 SNPhylo
 SNPs
 Sommer
@@ -123,8 +123,7 @@ Syntenty
 Tek
 texana
 ucurbita
-Ultimetely
-Unrooted
+unrooted
 VCFtool’s
 VCFtools
 vining
