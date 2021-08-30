@@ -18,7 +18,7 @@ Cocozelle
 convered
 CucCap
 Cucumis
-cucurbit
+Cucurbit
 Cucurbita
 Cucurbitaceae
 cucurbits
@@ -37,14 +37,14 @@ fraterna
 GBS
 GenoCore
 Genomic
-Genotype
+genotype
 genotyped
 genotypes
 genotyping
 germplasm
 glm
 gsg
-gwas
+GWAS
 heritabilities
 heritability
 heterosis
