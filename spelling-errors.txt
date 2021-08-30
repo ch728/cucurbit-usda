@@ -1,5 +1,4 @@
 aculture
-Alghough
 allopolyploidization
 amplicon
 anlaysis
@@ -19,7 +18,7 @@ Cocozelle
 convered
 CucCap
 Cucumis
-cucurbit
+Cucurbit
 Cucurbita
 Cucurbitaceae
 cucurbits
@@ -34,7 +33,6 @@ experments
 Fabrizio
 Fei
 filetered
-Firpo
 fraterna
 GBS
 geno
@@ -43,7 +41,7 @@ Genomic
 Genotype
 genotyped
 genotypes
-genotyping
+Genotyping
 germplasm
 glm
 gsg
@@ -55,10 +53,11 @@ HiSeq
 idependently
 Illumina
 indep
+interspecific
 Invitrogen
 jacko
 Japonica
-kobocha
+Kobocha
 Kuri
 Labate
 Lagenaria
@@ -69,6 +68,7 @@ LDKNNiImputatioHetV
 LinkImpute
 lm
 Logit
+lttle
 MAF
 Manhatten
 Mazourek
@@ -94,7 +94,7 @@ phenotypic
 phenotyping
 phentyping
 phylo
-Phylogenetic
+phylogenetic
 Phytophthora
 PicoGreen
 plex
@@ -109,10 +109,11 @@ sativa
 seedstock
 selfing
 sequecing
-snp
+SNP
 SNPhylo
 SNPs
 Sommer
+sructure
 ssp
 Straightneck
 struc
@@ -123,11 +124,10 @@ Syntenty
 Tek
 texana
 ucurbita
-unrooted
+Unrooted
 VCFtool’s
 VCFtools
 vining
 WMV
-yeild
 Zhangjun
 Zuchinni
