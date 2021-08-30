@@ -60,9 +60,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/30ccdecdf8803669b24f082cf43ef558d641f74d/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/30ccdecdf8803669b24f082cf43ef558d641f74d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/30ccdecdf8803669b24f082cf43ef558d641f74d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/cf0d741b1c67525c04644c06b4e30a67cbc4facc/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/cf0d741b1c67525c04644c06b4e30a67cbc4facc/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/cf0d741b1c67525c04644c06b4e30a67cbc4facc/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -84,9 +84,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/30ccdecdf8803669b24f082cf43ef558d641f74d/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/cf0d741b1c67525c04644c06b4e30a67cbc4facc/))
 was automatically generated
-from [ch728/cucurbit-usda@30ccdec](https://github.com/ch728/cucurbit-usda/tree/30ccdecdf8803669b24f082cf43ef558d641f74d)
+from [ch728/cucurbit-usda@cf0d741](https://github.com/ch728/cucurbit-usda/tree/cf0d741b1c67525c04644c06b4e30a67cbc4facc)
 on August 30, 2021.
 </em></small>
 
@@ -523,10 +523,10 @@ These markers and our analysis of available germplasm
 have a number of uses for breeding and can also be used to guide future experments
 aimed at biological insight.
 
-From a breeding perspective, these data can be used to develop germplasm
+These data could be used to develop germplasm
 specific marker panels for use in breeding applications, as has been done in
 other crops {@doi:10.1186/s12284-019-0311-0}.
-Possible breeding applications would  include marker assisted selection, 
+Possible breeding applications would include marker assisted selection, 
 marker assisted backcrossing, and purity assessment of seedstock using a low density panel; 
 whereas, a medium density panel could be developed for routine genomic selection.  Our clustering
 of samples based on maker data suggest geography is a key driver for overall population 
@@ -537,14 +537,41 @@ crosses between these market classes would greatly increase the amount of geneti
 to be leveraged in breeding efforts. Crossing between market classes would come at 
 the cost of bringing in undesirable characteristics with regards to achieving a specific 
 morpho-type associated market class. This cost could be mitgated through the use of
-markers to recover morpho-type expediciously during pre-breeding.
+markers to recover morpho-type expediciously during pre-breeding. Ultimetely, the 
+judicious infusion of diversity into a breeding program is necessary for 
+sustaining long-term gain.
 
-Subsets of the germplasm available and markers
-can also be used to for developement of custom  populations, in the
-case of where rare is in the panel, or  . Adoption could also enable 
-different breeding strategies in Cucurbits.
+Genomic selection (GS) was proposed over twenty years ago {@doi:10.1093/genetics/157.4.1819}, 
+and has since become a standard breeding technique. 
+Yet, to our knowledge, GS is not used to any
+appreciable degree by any of the public-sector breeding programs working with 
+cucurbits. Studies specifically looking at GS in squash have demonstrated, as with 
+every other crop, that GS is a viable breeding method; although
+the specific implementation may vary for each program and must take into 
+account the nature of the trait being predicted {@doi:doi.org/10.1534/g3.120.401215 ; 
+@doi:doi.org/10.3390/agronomy10060847 ; @doi:10.3835/plantgenome2018.10.0082}. Since
+cucurbit crops are more seed-limited than space-limited, a predict-part-test-part or sparse
+testing strategy is an obvious starting point {@doi.org/10.3389/fpls.2021.658978}. Selective
+phenotyping of resource-intensive quality traits based on marker data to enable prediction
+is also low-hanging fruit. Our work lowers the barrier to entry for GS in squash, 
+as it provides a set of markers that can be filtered idependently by interested breeding programs, 
+rapidly convered into an amplicon-based assay, and tested in target germplasm. This set
+can then be used for routine genotyping, which is a necessary first step towards implementing
+GS {@doi:10.3389/fpls.2020.00353}.
 
-
+Outside of breeding, these data can be used for association studies. In the case where
+traits are common in the panel, the panel can be phenotyped for a trait of interest and
+combined with marker data and insight provided by our study. 
+We demonstrated this approach in our association analysis of the bush
+gene. In the case of a rare phenotype, such as a resistance gene, subsets of the germplasm 
+and markers should be used to develop custom populations. Plant 
+introductions (PI) are frequently used as source parent in mapping studies and for germplasm 
+improvement, as was the case for mapping Phytophthora resistance and developing resistant
+breeding lines (@doi:10.1007/s00122-020-03747-1; @doi:10.21273/HORTTECH04636-20). In cases,
+were higher density genotyping may be necessary or the PIs are not well charaterized for a
+trait of interest, the data generated in this study can be used to prioritize accessions for
+re-sequencing and phentyping. Our geno-core analysis, provides a subset of several hundred
+accessions that would likely be informative for re-sequencing efforts.
 
 Unlike many other outcrossing monoicous crops such as, maize and onion, cultivars from Cucurbita, 
 similar to sunflower, do not suffer from debilatating inbreeding depression resulting in a 
@@ -563,21 +590,6 @@ The population bottleneck would effectively lead to greater levels of population
 homogeneity through many variants in the initial population being lost and the 
 low-frequency alleles post-bottleneck having a greater probability of becoming lost. 
 
-It is commonplace for breeders in many crops to breed within market-classes, 
-that is, make crosses between cultivars that are destined for similar culinary uses. 
-Leveraging elite varieties as parents is foundational in creating superior cultivars; 
-however, a delicate balance must be achieved between maintaining elite level genetics 
-and genetic diversity. With more breeding programs beginning to adopt genomic 
-selection/prediction, the rate of genetic gain has increased by virtue of a reduced 
-time interval between selections. The introduction of diversity into elite germplasm 
-pools is critical for long term gain as the diversity of the breeding populations become
-exhausted after many generations of selection. Genomic selection ultimately allows for 
-faster integration of diverse breeding material into elite germplasm while continueing 
-to purge deleterious alleles found in said diversity. Although challenging, inter-specific 
-crosses have been leveraged in squash to transfer major disease resistance loci to great effect; 
-however, potentially powerful quantitave loci lag behind in cross species integration. 
-A potential key in successful integration is correct evaluation of genetic relationship as 
-the accessibility of advantagious diversity may rely on the genetic proximity of parental lines. 
 
 
 
