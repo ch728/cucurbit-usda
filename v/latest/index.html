@@ -85,9 +85,9 @@
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/823b675c87e9c108abbdd6e5a86790064120bd97/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/823b675c87e9c108abbdd6e5a86790064120bd97/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/823b675c87e9c108abbdd6e5a86790064120bd97/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/2fd7b3f0fd21c6b68f77ca74c50cc8ff34c05ea3/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/2fd7b3f0fd21c6b68f77ca74c50cc8ff34c05ea3/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/2fd7b3f0fd21c6b68f77ca74c50cc8ff34c05ea3/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -101,9 +101,9 @@
 </header>
 <p><small><em>
 This manuscript
-(<a href="https://ch728.github.io/cucurbit-usda/v/823b675c87e9c108abbdd6e5a86790064120bd97/">permalink</a>)
+(<a href="https://ch728.github.io/cucurbit-usda/v/2fd7b3f0fd21c6b68f77ca74c50cc8ff34c05ea3/">permalink</a>)
 was automatically generated
-from <a href="https://github.com/ch728/cucurbit-usda/tree/823b675c87e9c108abbdd6e5a86790064120bd97">ch728/cucurbit-usda@823b675</a>
+from <a href="https://github.com/ch728/cucurbit-usda/tree/2fd7b3f0fd21c6b68f77ca74c50cc8ff34c05ea3">ch728/cucurbit-usda@2fd7b3f</a>
 on August 30, 2021.
 </em></small></p>
 <h2 id="authors">Authors</h2>
@@ -286,12 +286,12 @@ As there is no <span class="math inline">\(R^2\)</span> defined for logistic mod
 <p>Data were imputed prior to association analysis.
 LinkImpute <span class="citation" data-cites="bh0NyElc">[<a href="#ref-bh0NyElc" role="doc-biblioref">31</a>]</span>, as implemented by the TASSEL <span class="citation" data-cites="6BHN02He">[<a href="#ref-6BHN02He" role="doc-biblioref">32</a>]</span> “LDKNNiImputatioHetV2Plugin” plugin was used for imputation with default settings.
 Any data still missing after this process were mean imputed.
-The GENESIS <span class="citation" data-cites="doi">[<a href="#ref-doi" role="doc-biblioref"><strong>doi?</strong></a> 10.1093/bioinformatics/btz567]</span> R package, which can model both binary and continuous traits, was used for association.
+The GENESIS <span class="citation" data-cites="15kdHXrSp">[<a href="#ref-15kdHXrSp" role="doc-biblioref">33</a>]</span> R package, which can model both binary and continuous traits, was used for association.
 All models included the first two PCs of the marker matrix as fixed effects and modeled genotype effect (<span class="math inline">\(u\)</span>) as a random effect distributed according to the kinship (<span class="math inline">\(\mathbf{K}\)</span>) matrix (<span class="math inline">\(u \sim N(0, \sigma_{u}^2\mathbf{K})\)</span>).
 Binary traits were modeled using the logistic regression feature in GENESIS.</p>
 <h3 id="syntenty-of-bu-putative-region-in-c.-pepo-and-c.-maxima">Syntenty of <em>Bu</em> putative region in <em>C. pepo</em> and <em>C. maxima</em></h3>
 <h3 id="creation-of-a-core-collection">Creation of a Core Collection</h3>
-<p>Subsets representative of each panel’s genetic diversity were identified through running GenoCore <span class="citation" data-cites="1BZpw3PUi">[<a href="#ref-1BZpw3PUi" role="doc-biblioref">33</a>]</span> on each of the filtered SNP sets.
+<p>Subsets representative of each panel’s genetic diversity were identified through running GenoCore <span class="citation" data-cites="1BZpw3PUi">[<a href="#ref-1BZpw3PUi" role="doc-biblioref">34</a>]</span> on each of the filtered SNP sets.
 A subset of the <em>C. pepo</em> panel and key genotypes from the other two species were combined to form a core collection for the cucurbit community.
 Key genotypes were chosen to represent important market classes and for variation based on variation in traits.
 These genotypes will be further purified through two additional rounds of selfing and then resequenced using skim-sequecing to produce whole-genome data.</p>
@@ -303,7 +303,7 @@ Figure <a href="#fig:world">1</a> shows the regional distribution of accessions 
 <em>C. maxima</em> and <em>C. moschata</em> constitute the majority of accessions collected from Central and South America, whereas <em>C. pepo</em> accessions are more prevalent in North America and Europe.
 <em>C. pepo</em> had the highest number of raw SNPs (108,279) followed by <em>C. moschata</em> (85,345) and <em>C. maxima</em> (56,598).
 After filtering, <em>C. pepo</em> and <em>C. moschata</em> had a similar number of SNPs, around 40,000, whereas <em>C. maxima</em> had an order of magnitude fewer filtered SNPs (4787).
-This discrepancy may be an artifact of using Pst1, a rarer base-cutter previously optimized for use in <em>C. maxima</em> <span class="citation" data-cites="hjX723Qb">[<a href="#ref-hjX723Qb" role="doc-biblioref">34</a> ]</span>, rather than ApeK1 which was used for <em>C.pepo</em> and <em>C. moschata</em>.
+This discrepancy may be an artifact of using Pst1, a rarer base-cutter previously optimized for use in <em>C. maxima</em> <span class="citation" data-cites="hjX723Qb">[<a href="#ref-hjX723Qb" role="doc-biblioref">35</a> ]</span>, rather than ApeK1 which was used for <em>C.pepo</em> and <em>C. moschata</em>.
 The number and distribution of SNPs across each chromosomes is shown in Table <a href="#tbl:snp_info">1</a>.</p>
 <div id="fig:world" class="fignos">
 <figure>
@@ -1075,7 +1075,7 @@ have a number of uses for breeding and future experments
 aimed at biological insight.</p>
 <p>Our data provides many genome-wise markers which could be used to
 develop marker panels for use in breeding applications, as has been done in
-other crops <span class="citation" data-cites="w9iJFFjP">[<a href="#ref-w9iJFFjP" role="doc-biblioref">35</a>]</span>.
+other crops <span class="citation" data-cites="w9iJFFjP">[<a href="#ref-w9iJFFjP" role="doc-biblioref">36</a>]</span>.
 Possible breeding applications would include marker assisted selection,
 marker assisted backcrossing, and purity assessment of seedstock using a low density panel;
 whereas, a medium density panel could be developed for routine genomic selection. Our clustering
@@ -1090,14 +1090,14 @@ morpho-type associated market class. This cost could be mitgated through the use
 markers to recover morpho-type expediciously during pre-breeding. Ultimately, the
 judicious infusion of diversity into a breeding program is necessary for
 sustaining long-term gain.</p>
-<p>Genomic selection (GS) was proposed over twenty years ago <span class="citation" data-cites="zuq8ri4R">[<a href="#ref-zuq8ri4R" role="doc-biblioref">36</a>]</span>,
+<p>Genomic selection (GS) was proposed over twenty years ago <span class="citation" data-cites="zuq8ri4R">[<a href="#ref-zuq8ri4R" role="doc-biblioref">37</a>]</span>,
 and has since become a standard breeding technique.
 Yet, to our knowledge, GS is not used to any
 appreciable degree by applied breeding programs working with
 cucurbits. Studies specifically looking at GS in squash have demonstrated, as with
 every other crop, that GS is a viable breeding method; although
 the specific implementation may vary for each program and must take into
-account the nature of the trait being predicted <span class="citation" data-cites="AmPX0wxj 1Bk2DOimZ cccKQqlH">[<a href="#ref-cccKQqlH" role="doc-biblioref">9</a>,<a href="#ref-AmPX0wxj" role="doc-biblioref">11</a>,<a href="#ref-1Bk2DOimZ" role="doc-biblioref">37</a>]</span>. Since
+account the nature of the trait being predicted <span class="citation" data-cites="AmPX0wxj 1Bk2DOimZ cccKQqlH">[<a href="#ref-cccKQqlH" role="doc-biblioref">9</a>,<a href="#ref-AmPX0wxj" role="doc-biblioref">11</a>,<a href="#ref-1Bk2DOimZ" role="doc-biblioref">38</a>]</span>. Since
 cucurbit crops are more space-limited than seed-limited, a predict-part-test-part or sparse
 testing strategy is potentially an even more efficient strategy in cucurbits
 than it has been shown to be in grain crops <span class="citation" data-cites="doi">[<a href="#ref-doi" role="doc-biblioref"><strong>doi?</strong></a> 10.3389/fpls.2021.658978]</span>.
@@ -1106,7 +1106,7 @@ is also low-hanging fruit. Our work lowers the barrier to entry for GS in squash
 as it provides a set of markers that can be filtered idependently by interested breeding programs,
 rapidly convered into an amplicon-based assay, and tested in target germplasm. This set
 can then be used for routine genotyping, which is a necessary first step towards implementing
-GS <span class="citation" data-cites="6QvaEUvI">[<a href="#ref-6QvaEUvI" role="doc-biblioref">38</a>]</span>.</p>
+GS <span class="citation" data-cites="6QvaEUvI">[<a href="#ref-6QvaEUvI" role="doc-biblioref">39</a>]</span>.</p>
 <p>At the interface of breeding and biology lies the phenomena of heterosis in squash.
 Although there is some evidence of heterosis in squash, the basis of this
 heterosis is not well understood. Unlike many other outcrossing monoicous crops such
@@ -1120,7 +1120,7 @@ however, better-parent heterosis has been observed in a <em>C. pepo</em> and <em
 Further, interspecific-heterosis has been observed at the gene-expression
 level in <em>C moschata</em> x <em>C. maxima</em> hybrids <span class="citation" data-cites="42uqqDAI">[<a href="#ref-42uqqDAI" role="doc-biblioref">4</a>]</span>.
 Anecdotally, interspecific crosses have led to the production of commercially
-successful cultivars <span class="citation" data-cites="1djkZ3cX">[<a href="#ref-1djkZ3cX" role="doc-biblioref">39</a>]</span>. The genetic groups
+successful cultivars <span class="citation" data-cites="1djkZ3cX">[<a href="#ref-1djkZ3cX" role="doc-biblioref">40</a>]</span>. The genetic groups
 identified in this study could help direct the development of heterotic groups
 and the study of heterosis in squash. Although, there is little evidence
 that crossing between genetically differentiated groups leads to heterosis,
@@ -1135,11 +1135,11 @@ gene. In the case of a rare phenotype, such as a resistance gene, subsets of the
 and markers should be used to develop custom populations. Plant
 introductions (PI) are frequently used as source parents in mapping studies and for germplasm
 improvement, as was the case for mapping Phytophthora resistance and developing resistant
-breeding lines <span class="citation" data-cites="19dH3oEl 1Fqob4Pjw">[<a href="#ref-19dH3oEl" role="doc-biblioref">40</a>,<a href="#ref-1Fqob4Pjw" role="doc-biblioref">41</a>]</span>. Further, if
+breeding lines <span class="citation" data-cites="19dH3oEl 1Fqob4Pjw">[<a href="#ref-19dH3oEl" role="doc-biblioref">41</a>,<a href="#ref-1Fqob4Pjw" role="doc-biblioref">42</a>]</span>. Further, if
 a trait segregates closely with population sructure, as was the case for seed size in
 <em>C. pepo</em> and maturity in <em>C. moschata</em>, this would indicate that populations should be formed
 by crossing between the groups identified to remove the confounding effects of population
-structure <span class="citation" data-cites="mlGzjIQ0">[<a href="#ref-mlGzjIQ0" role="doc-biblioref">42</a>]</span>. When
+structure <span class="citation" data-cites="mlGzjIQ0">[<a href="#ref-mlGzjIQ0" role="doc-biblioref">43</a>]</span>. When
 higher density genotyping may be necessary or the PIs are not well charaterized for a
 trait of interest, the data generated in this study can be used to prioritize accessions for
 re-sequencing and phentyping. Our GenoCore analysis provides a subset of several hundred
@@ -1250,35 +1250,38 @@ accessions that would likely be informative for re-sequencing efforts.</p>
 <div id="ref-6BHN02He" class="csl-entry" role="doc-biblioentry">
 <div class="csl-left-margin">32. </div><div class="csl-right-inline"><strong>TASSEL: software for association mapping of complex traits in diverse samples</strong> <div class="csl-block">PJ Bradbury, Z Zhang, DE Kroon, TM Casstevens, Y Ramdoss, ES Buckler</div> <em>Bioinformatics</em> (2007-06-22) <a href="https://doi.org/fdj9qg">https://doi.org/fdj9qg</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1093/bioinformatics/btm308">10.1093/bioinformatics/btm308</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/17586829">17586829</a></div></div>
 </div>
+<div id="ref-15kdHXrSp" class="csl-entry" role="doc-biblioentry">
+<div class="csl-left-margin">33. </div><div class="csl-right-inline"><strong>Genetic association testing using the GENESIS R/Bioconductor package</strong> <div class="csl-block">Stephanie M Gogarten, Tamar Sofer, Han Chen, Chaoyu Yu, Jennifer A Brody, Timothy A Thornton, Kenneth M Rice, Matthew P Conomos</div> <em>Bioinformatics</em> (2019-12-15) <a href="https://doi.org/gmnd4d">https://doi.org/gmnd4d</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1093/bioinformatics/btz567">10.1093/bioinformatics/btz567</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/31329242">31329242</a> · PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7904076">PMC7904076</a></div></div>
+</div>
 <div id="ref-1BZpw3PUi" class="csl-entry" role="doc-biblioentry">
-<div class="csl-left-margin">33. </div><div class="csl-right-inline"><strong>GenoCore: A simple and fast algorithm for core subset selection from large genotype datasets</strong> <div class="csl-block">Seongmun Jeong, Jae-Yoon Kim, Soon-Chun Jeong, Sung-Taeg Kang, Jung-Kyung Moon, Namshin Kim</div> <em>PLOS ONE</em> (2017-07-20) <a href="https://doi.org/gbn84s">https://doi.org/gbn84s</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1371/journal.pone.0181420">10.1371/journal.pone.0181420</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/28727806">28727806</a> · PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5519076">PMC5519076</a></div></div>
+<div class="csl-left-margin">34. </div><div class="csl-right-inline"><strong>GenoCore: A simple and fast algorithm for core subset selection from large genotype datasets</strong> <div class="csl-block">Seongmun Jeong, Jae-Yoon Kim, Soon-Chun Jeong, Sung-Taeg Kang, Jung-Kyung Moon, Namshin Kim</div> <em>PLOS ONE</em> (2017-07-20) <a href="https://doi.org/gbn84s">https://doi.org/gbn84s</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1371/journal.pone.0181420">10.1371/journal.pone.0181420</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/28727806">28727806</a> · PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5519076">PMC5519076</a></div></div>
 </div>
 <div id="ref-hjX723Qb" class="csl-entry" role="doc-biblioentry">
-<div class="csl-left-margin">34. </div><div class="csl-right-inline"><strong>A high-density genetic map for anchoring genome sequences and identifying QTLs associated with dwarf vine in pumpkin (Cucurbita maxima Duch.)</strong> <div class="csl-block">Guoyu Zhang, Yi Ren, Honghe Sun, Shaogui Guo, Fan Zhang, Jie Zhang, Haiying Zhang, Zhangcai Jia, Zhangjun Fei, Yong Xu, Haizhen Li</div> <em>BMC Genomics</em> (2015-12-24) <a href="https://doi.org/gb3hqt">https://doi.org/gb3hqt</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1186/s12864-015-2312-8">10.1186/s12864-015-2312-8</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/26704908">26704908</a> · PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4690373">PMC4690373</a></div></div>
+<div class="csl-left-margin">35. </div><div class="csl-right-inline"><strong>A high-density genetic map for anchoring genome sequences and identifying QTLs associated with dwarf vine in pumpkin (Cucurbita maxima Duch.)</strong> <div class="csl-block">Guoyu Zhang, Yi Ren, Honghe Sun, Shaogui Guo, Fan Zhang, Jie Zhang, Haiying Zhang, Zhangcai Jia, Zhangjun Fei, Yong Xu, Haizhen Li</div> <em>BMC Genomics</em> (2015-12-24) <a href="https://doi.org/gb3hqt">https://doi.org/gb3hqt</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1186/s12864-015-2312-8">10.1186/s12864-015-2312-8</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/26704908">26704908</a> · PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4690373">PMC4690373</a></div></div>
 </div>
 <div id="ref-w9iJFFjP" class="csl-entry" role="doc-biblioentry">
-<div class="csl-left-margin">35. </div><div class="csl-right-inline"><strong>1k-RiCA (1K-Rice Custom Amplicon) a novel genotyping amplicon-based SNP assay for genetics and breeding applications in rice</strong> <div class="csl-block">Juan David Arbelaez, Maria Stefanie Dwiyanti, Erwin Tandayu, Krizzel Llantada, Annalhea Jarana, John Carlos Ignacio, John Damien Platten, Joshua Cobb, Jessica Elaine Rutkoski, Michael J Thomson, Tobias Kretzschmar</div> <em>Rice</em> (2019-07-26) <a href="https://doi.org/c8vh">https://doi.org/c8vh</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1186/s12284-019-0311-0">10.1186/s12284-019-0311-0</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/31350673">31350673</a> · PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6660535">PMC6660535</a></div></div>
+<div class="csl-left-margin">36. </div><div class="csl-right-inline"><strong>1k-RiCA (1K-Rice Custom Amplicon) a novel genotyping amplicon-based SNP assay for genetics and breeding applications in rice</strong> <div class="csl-block">Juan David Arbelaez, Maria Stefanie Dwiyanti, Erwin Tandayu, Krizzel Llantada, Annalhea Jarana, John Carlos Ignacio, John Damien Platten, Joshua Cobb, Jessica Elaine Rutkoski, Michael J Thomson, Tobias Kretzschmar</div> <em>Rice</em> (2019-07-26) <a href="https://doi.org/c8vh">https://doi.org/c8vh</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1186/s12284-019-0311-0">10.1186/s12284-019-0311-0</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/31350673">31350673</a> · PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6660535">PMC6660535</a></div></div>
 </div>
 <div id="ref-zuq8ri4R" class="csl-entry" role="doc-biblioentry">
-<div class="csl-left-margin">36. </div><div class="csl-right-inline"><strong>Prediction of Total Genetic Value Using Genome-Wide Dense Marker Maps</strong> <div class="csl-block">THE Meuwissen, BJ Hayes, ME Goddard</div> <em>Genetics</em> (2001-04-01) <a href="https://doi.org/gknztd">https://doi.org/gknztd</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1093/genetics/157.4.1819">10.1093/genetics/157.4.1819</a></div></div>
+<div class="csl-left-margin">37. </div><div class="csl-right-inline"><strong>Prediction of Total Genetic Value Using Genome-Wide Dense Marker Maps</strong> <div class="csl-block">THE Meuwissen, BJ Hayes, ME Goddard</div> <em>Genetics</em> (2001-04-01) <a href="https://doi.org/gknztd">https://doi.org/gknztd</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1093/genetics/157.4.1819">10.1093/genetics/157.4.1819</a></div></div>
 </div>
 <div id="ref-1Bk2DOimZ" class="csl-entry" role="doc-biblioentry">
-<div class="csl-left-margin">37. </div><div class="csl-right-inline"><strong>Evaluation of Selection Methods for Resistance to a Specialist Insect Pest of Squash (Cucurbita pepo)</strong> <div class="csl-block">Lauren J Brzozowski, Michael Mazourek</div> <em>Agronomy</em> (2020-06-14) <a href="https://doi.org/gmndwq">https://doi.org/gmndwq</a> <div class="csl-block">DOI: <a href="https://doi.org/doi.org/10.3390/agronomy10060847">doi.org/10.3390/agronomy10060847</a></div></div>
+<div class="csl-left-margin">38. </div><div class="csl-right-inline"><strong>Evaluation of Selection Methods for Resistance to a Specialist Insect Pest of Squash (Cucurbita pepo)</strong> <div class="csl-block">Lauren J Brzozowski, Michael Mazourek</div> <em>Agronomy</em> (2020-06-14) <a href="https://doi.org/gmndwq">https://doi.org/gmndwq</a> <div class="csl-block">DOI: <a href="https://doi.org/doi.org/10.3390/agronomy10060847">doi.org/10.3390/agronomy10060847</a></div></div>
 </div>
 <div id="ref-6QvaEUvI" class="csl-entry" role="doc-biblioentry">
-<div class="csl-left-margin">38. </div><div class="csl-right-inline"><strong>Strategies for Effective Use of Genomic Information in Crop Breeding Programs Serving Africa and South Asia</strong> <div class="csl-block">Nicholas Santantonio, Sikiru Adeniyi Atanda, Yoseph Beyene, Rajeev K Varshney, Michael Olsen, Elizabeth Jones, Manish Roorkiwal, Manje Gowda, Chellapilla Bharadwaj, Pooran M Gaur, … Kelly R Robbins</div> <em>Frontiers in Plant Science</em> (2020-03-27) <a href="https://doi.org/gmfpfj">https://doi.org/gmfpfj</a> <div class="csl-block">DOI: <a href="https://doi.org/10.3389/fpls.2020.00353">10.3389/fpls.2020.00353</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/32292411">32292411</a> · PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7119190">PMC7119190</a></div></div>
+<div class="csl-left-margin">39. </div><div class="csl-right-inline"><strong>Strategies for Effective Use of Genomic Information in Crop Breeding Programs Serving Africa and South Asia</strong> <div class="csl-block">Nicholas Santantonio, Sikiru Adeniyi Atanda, Yoseph Beyene, Rajeev K Varshney, Michael Olsen, Elizabeth Jones, Manish Roorkiwal, Manje Gowda, Chellapilla Bharadwaj, Pooran M Gaur, … Kelly R Robbins</div> <em>Frontiers in Plant Science</em> (2020-03-27) <a href="https://doi.org/gmfpfj">https://doi.org/gmfpfj</a> <div class="csl-block">DOI: <a href="https://doi.org/10.3389/fpls.2020.00353">10.3389/fpls.2020.00353</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/32292411">32292411</a> · PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7119190">PMC7119190</a></div></div>
 </div>
 <div id="ref-1djkZ3cX" class="csl-entry" role="doc-biblioentry">
-<div class="csl-left-margin">39. </div><div class="csl-right-inline"><strong>A Suite of High-quality Butternut Squash</strong> <div class="csl-block">Rachel L Hultengren, Lindsay Wyatt, Michael Mazourek</div> <em>HortScience</em> (2016-11) <a href="https://doi.org/gmndzt">https://doi.org/gmndzt</a> <div class="csl-block">DOI: <a href="https://doi.org/10.21273/hortsci10987-16">10.21273/hortsci10987-16</a></div></div>
+<div class="csl-left-margin">40. </div><div class="csl-right-inline"><strong>A Suite of High-quality Butternut Squash</strong> <div class="csl-block">Rachel L Hultengren, Lindsay Wyatt, Michael Mazourek</div> <em>HortScience</em> (2016-11) <a href="https://doi.org/gmndzt">https://doi.org/gmndzt</a> <div class="csl-block">DOI: <a href="https://doi.org/10.21273/hortsci10987-16">10.21273/hortsci10987-16</a></div></div>
 </div>
 <div id="ref-19dH3oEl" class="csl-entry" role="doc-biblioentry">
-<div class="csl-left-margin">40. </div><div class="csl-right-inline"><strong>A combined BSA-Seq and linkage mapping approach identifies genomic regions associated with Phytophthora root and crown rot resistance in squash</strong> <div class="csl-block">Gregory Vogel, Kyle E LaPlant, Michael Mazourek, Michael A Gore, Christine D Smart</div> <em>Theoretical and Applied Genetics</em> (2021-01-03) <a href="https://doi.org/gmndwj">https://doi.org/gmndwj</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1007/s00122-020-03747-1">10.1007/s00122-020-03747-1</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/33388885">33388885</a></div></div>
+<div class="csl-left-margin">41. </div><div class="csl-right-inline"><strong>A combined BSA-Seq and linkage mapping approach identifies genomic regions associated with Phytophthora root and crown rot resistance in squash</strong> <div class="csl-block">Gregory Vogel, Kyle E LaPlant, Michael Mazourek, Michael A Gore, Christine D Smart</div> <em>Theoretical and Applied Genetics</em> (2021-01-03) <a href="https://doi.org/gmndwj">https://doi.org/gmndwj</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1007/s00122-020-03747-1">10.1007/s00122-020-03747-1</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/33388885">33388885</a></div></div>
 </div>
 <div id="ref-1Fqob4Pjw" class="csl-entry" role="doc-biblioentry">
-<div class="csl-left-margin">41. </div><div class="csl-right-inline"><strong>Performance and Resistance to Phytophthora Crown and Root Rot in Squash Lines</strong> <div class="csl-block">Kyle E LaPlant, Gregory Vogel, Ella Reeves, Christine D Smart, Michael Mazourek</div> <em>HortTechnology</em> (2020-10) <a href="https://doi.org/gmndwp">https://doi.org/gmndwp</a> <div class="csl-block">DOI: <a href="https://doi.org/10.21273/horttech04636-20">10.21273/horttech04636-20</a></div></div>
+<div class="csl-left-margin">42. </div><div class="csl-right-inline"><strong>Performance and Resistance to Phytophthora Crown and Root Rot in Squash Lines</strong> <div class="csl-block">Kyle E LaPlant, Gregory Vogel, Ella Reeves, Christine D Smart, Michael Mazourek</div> <em>HortTechnology</em> (2020-10) <a href="https://doi.org/gmndwp">https://doi.org/gmndwp</a> <div class="csl-block">DOI: <a href="https://doi.org/10.21273/horttech04636-20">10.21273/horttech04636-20</a></div></div>
 </div>
 <div id="ref-mlGzjIQ0" class="csl-entry" role="doc-biblioentry">
-<div class="csl-left-margin">42. </div><div class="csl-right-inline"><strong>Divergence of defensive cucurbitacins in independent domestication events leads to differences in specialist herbivore preference</strong> <div class="csl-block">Lauren J Brzozowski, Michael A Gore, Anurag A Agrawal, Michael Mazourek</div> <em>Plant, Cell &amp; Environment</em> (2020-09-12) <a href="https://doi.org/gmcbhx">https://doi.org/gmcbhx</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1111/pce.13844">10.1111/pce.13844</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/32666553">32666553</a></div></div>
+<div class="csl-left-margin">43. </div><div class="csl-right-inline"><strong>Divergence of defensive cucurbitacins in independent domestication events leads to differences in specialist herbivore preference</strong> <div class="csl-block">Lauren J Brzozowski, Michael A Gore, Anurag A Agrawal, Michael Mazourek</div> <em>Plant, Cell &amp; Environment</em> (2020-09-12) <a href="https://doi.org/gmcbhx">https://doi.org/gmcbhx</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1111/pce.13844">10.1111/pce.13844</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/32666553">32666553</a></div></div>
 </div>
 </div>
 <!-- default theme -->
