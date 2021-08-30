@@ -60,9 +60,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/d0caacf9faac0c8f31496ff17105bc9062ec7758/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/d0caacf9faac0c8f31496ff17105bc9062ec7758/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/d0caacf9faac0c8f31496ff17105bc9062ec7758/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/823b675c87e9c108abbdd6e5a86790064120bd97/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/823b675c87e9c108abbdd6e5a86790064120bd97/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/823b675c87e9c108abbdd6e5a86790064120bd97/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -84,9 +84,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/d0caacf9faac0c8f31496ff17105bc9062ec7758/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/823b675c87e9c108abbdd6e5a86790064120bd97/))
 was automatically generated
-from [ch728/cucurbit-usda@d0caacf](https://github.com/ch728/cucurbit-usda/tree/d0caacf9faac0c8f31496ff17105bc9062ec7758)
+from [ch728/cucurbit-usda@823b675](https://github.com/ch728/cucurbit-usda/tree/823b675c87e9c108abbdd6e5a86790064120bd97)
 on August 30, 2021.
 </em></small>
 
@@ -523,13 +523,13 @@ These markers and our analysis of available germplasm
 have a number of uses for breeding and future experments
 aimed at biological insight.
 
-our data provides many genome-wise markers which could be used to 
+Our data provides many genome-wise markers which could be used to 
 develop marker panels for use in breeding applications, as has been done in
 other crops [@doi:10.1186/s12284-019-0311-0].
 Possible breeding applications would include marker assisted selection, 
 marker assisted backcrossing, and purity assessment of seedstock using a low density panel; 
 whereas, a medium density panel could be developed for routine genomic selection.  Our clustering
-of samples based on maker data suggest geography is a key driver for overall population 
+of samples based on marker data suggest geography is a key driver for overall population 
 structure. When projecting ancestry proportions onto cultivars of known market classes, the ancestry 
 proportions were relatively similar within market class grouping. Although there is genetic diversity 
 within each species, this diversity is constrained within market classes. This suggests that
@@ -548,9 +548,9 @@ appreciable degree by applied breeding programs working with
 cucurbits. Studies specifically looking at GS in squash have demonstrated, as with 
 every other crop, that GS is a viable breeding method; although
 the specific implementation may vary for each program and must take into 
-account the nature of the trait being predicted [@doi:doi.org/10.1534/g3.120.401215; 
+account the nature of the trait being predicted [@doi:10.1534/g3.120.401215; 
 @doi:doi.org/10.3390/agronomy10060847; @doi:10.3835/plantgenome2018.10.0082]. Since
-cucurbit crops are more seed-limited than space-limited, a predict-part-test-part or sparse
+cucurbit crops are more space-limited than seed-limited, a predict-part-test-part or sparse
 testing strategy is potentially an even more efficient strategy in cucurbits 
 than it has been shown to be in grain crops [@doi: 10.3389/fpls.2021.658978]. 
 Selective phenotyping of resource-intensive quality traits based on marker data to enable prediction
@@ -565,7 +565,7 @@ Although there is some evidence of heterosis in squash, the basis of this
 heterosis is not well understood. Unlike many other outcrossing monoicous crops such 
 as, maize and onion, cultivars from Cucurbita, 
 similar to sunflower, do not suffer from debilatating inbreeding. 
-With little inbreeding depression, it would stand that lttle better-parent heterosis 
+With little inbreeding depression, it would stand that little better-parent heterosis 
 would be expected under the dominance theory of heterosis. 
 Initial papers suggested that inbreeding in Cucurbita may not simply reduce 
 yield as inbred varieties have the capacity to compete with commercial check cultivars;
@@ -596,7 +596,7 @@ by crossing between the groups identified to remove the confounding effects of p
 structure [@doi:10.1111/pce.13844]. When
 higher density genotyping may be necessary or the PIs are not well charaterized for a
 trait of interest, the data generated in this study can be used to prioritize accessions for
-re-sequencing and phentyping. Our geno-core analysis provides a subset of several hundred
+re-sequencing and phentyping. Our GenoCore analysis provides a subset of several hundred
 accessions that would likely be informative for re-sequencing efforts.
 
 

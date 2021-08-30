@@ -35,17 +35,16 @@ Fei
 filetered
 fraterna
 GBS
-geno
 GenoCore
-genomic
-genotype
+Genomic
+Genotype
 genotyped
 genotypes
 genotyping
 germplasm
 glm
 gsg
-gwas
+GWAS
 heritabilities
 heritability
 heterosis
@@ -58,7 +57,7 @@ interspecific
 Invitrogen
 jacko
 Japonica
-kobocha
+Kobocha
 Kuri
 Labate
 Lagenaria
@@ -69,7 +68,6 @@ LDKNNiImputatioHetV
 LinkImpute
 lm
 Logit
-lttle
 MAF
 Manhatten
 Mazourek
@@ -95,7 +93,7 @@ phenotypic
 phenotyping
 phentyping
 phylo
-phylogenetic
+Phylogenetic
 Phytophthora
 PicoGreen
 plex
@@ -111,7 +109,7 @@ sativa
 seedstock
 selfing
 sequecing
-SNP
+snp
 SNPhylo
 SNPs
 Sommer

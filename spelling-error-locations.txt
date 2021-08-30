@@ -359,7 +359,6 @@ content/05.discussion.md:62:outcrossing
 content/05.discussion.md:63:Cucurbita
 content/05.discussion.md:64:debilatating
 content/05.discussion.md:65:heterosis
-content/05.discussion.md:65:lttle
 content/05.discussion.md:66:heterosis
 content/05.discussion.md:67:Cucurbita
 content/05.discussion.md:69:heterosis
@@ -383,7 +382,7 @@ content/05.discussion.md:91:moschata
 content/05.discussion.md:91:pepo
 content/05.discussion.md:94:charaterized
 content/05.discussion.md:94:genotyping
-content/05.discussion.md:96:geno
+content/05.discussion.md:96:GenoCore
 content/05.discussion.md:96:phentyping
 content/06.supplemental.md:5:GenoCore
 content/06.supplemental.md:5:GenoCore
