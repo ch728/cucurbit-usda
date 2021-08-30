@@ -36,7 +36,7 @@ filetered
 fraterna
 GBS
 GenoCore
-genomic
+Genomic
 Genotype
 genotyped
 genotypes
@@ -57,7 +57,7 @@ interspecific
 Invitrogen
 jacko
 Japonica
-Kobocha
+kobocha
 Kuri
 Labate
 Lagenaria
@@ -123,7 +123,7 @@ syntenic
 Syntenty
 Tek
 texana
-unrooted
+Unrooted
 VCFtool’s
 VCFtools
 vining
