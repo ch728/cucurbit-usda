@@ -26,8 +26,6 @@ cucurbits
 dataset
 debilatating
 Delicata
-deveresity
-deversity
 Dickenson
 DS
 dsDNA
@@ -46,10 +44,10 @@ genotype
 genotyped
 genotypes
 genotyping
-germplasm
+Germplasm
 glm
 gsg
-gwas
+GWAS
 heritabilities
 heritability
 heterosis
@@ -126,7 +124,7 @@ Tek
 texana
 ucurbita
 Ultimetely
-unrooted
+Unrooted
 VCFtool’s
 VCFtools
 vining

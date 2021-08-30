@@ -60,9 +60,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/cf0d741b1c67525c04644c06b4e30a67cbc4facc/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/cf0d741b1c67525c04644c06b4e30a67cbc4facc/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/cf0d741b1c67525c04644c06b4e30a67cbc4facc/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/8bbf374b368a06bd8894f825026f3bd492327e8b/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/8bbf374b368a06bd8894f825026f3bd492327e8b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/8bbf374b368a06bd8894f825026f3bd492327e8b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -84,9 +84,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/cf0d741b1c67525c04644c06b4e30a67cbc4facc/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/8bbf374b368a06bd8894f825026f3bd492327e8b/))
 was automatically generated
-from [ch728/cucurbit-usda@cf0d741](https://github.com/ch728/cucurbit-usda/tree/cf0d741b1c67525c04644c06b4e30a67cbc4facc)
+from [ch728/cucurbit-usda@8bbf374](https://github.com/ch728/cucurbit-usda/tree/8bbf374b368a06bd8894f825026f3bd492327e8b)
 on August 30, 2021.
 </em></small>
 
@@ -505,8 +505,8 @@ Together these genotypes were purified through two additional rounds of selfing 
 
 *Cucurbita pepo*, *Cucurbita moschata*, and *Cucurbita maxima*, 
 exhibit a wide range of phenotypic diversity.
-This deversity was evident in the GRIN phenotypic records for these species.
-We have demonstrated that there is a wide range of genetic deveresity through
+This diversity was evident in the GRIN phenotypic records for these species.
+We have demonstrated that there is a wide range of genetic diversity through
 genotyping-by-sequencing and genetic analysis of available specimens from 
 the germplasm collections. Thousands to tens of thousands of whole-genome markers
 where obtained for each species. Clustering of samples and admixture analysis

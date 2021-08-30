@@ -316,9 +316,7 @@ content/05.discussion.md:3:Cucurbita
 content/05.discussion.md:3:moschata
 content/05.discussion.md:3:pepo
 content/05.discussion.md:4:phenotypic
-content/05.discussion.md:5:deversity
 content/05.discussion.md:5:phenotypic
-content/05.discussion.md:6:deveresity
 content/05.discussion.md:7:genotyping
 content/05.discussion.md:8:germplasm
 content/05.discussion.md:11:Cucurbita
