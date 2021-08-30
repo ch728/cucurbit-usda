@@ -60,9 +60,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/c6f3e0b6a28cba768cb9dfae80a209ffabdaa2cb/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/c6f3e0b6a28cba768cb9dfae80a209ffabdaa2cb/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/c6f3e0b6a28cba768cb9dfae80a209ffabdaa2cb/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/0ce2922c8e1ba5e3b4dde5d04413202aa9651005/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/0ce2922c8e1ba5e3b4dde5d04413202aa9651005/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/0ce2922c8e1ba5e3b4dde5d04413202aa9651005/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -84,9 +84,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/c6f3e0b6a28cba768cb9dfae80a209ffabdaa2cb/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/0ce2922c8e1ba5e3b4dde5d04413202aa9651005/))
 was automatically generated
-from [ch728/cucurbit-usda@c6f3e0b](https://github.com/ch728/cucurbit-usda/tree/c6f3e0b6a28cba768cb9dfae80a209ffabdaa2cb)
+from [ch728/cucurbit-usda@0ce2922](https://github.com/ch728/cucurbit-usda/tree/0ce2922c8e1ba5e3b4dde5d04413202aa9651005)
 on August 30, 2021.
 </em></small>
 
@@ -506,7 +506,7 @@ Together these genotypes were purified through two additional rounds of selfing 
 *Cucurbita pepo*, *Cucurbita moschata*, and *Cucurbita maxima*, 
 exhibit a wide range of phenotypic diversity.
 This diversity was evident in the GRIN phenotypic records for these species.
-We have demonstrated that there is a wide range of genetic diversity through
+We have demonstrated that there is also a wide range of genetic diversity through
 genotyping-by-sequencing and genetic analysis of available specimens from 
 the germplasm collections. Thousands to tens of thousands of whole-genome markers
 where discovered for each species. Clustering of samples and admixture analysis
@@ -544,15 +544,16 @@ sustaining long-term gain.
 Genomic selection (GS) was proposed over twenty years ago [@doi:10.1093/genetics/157.4.1819], 
 and has since become a standard breeding technique. 
 Yet, to our knowledge, GS is not used to any
-appreciable degree by any of the public-sector breeding programs working with 
+appreciable degree by applied breeding programs working with 
 cucurbits. Studies specifically looking at GS in squash have demonstrated, as with 
 every other crop, that GS is a viable breeding method; although
 the specific implementation may vary for each program and must take into 
 account the nature of the trait being predicted [@doi:doi.org/10.1534/g3.120.401215; 
 @doi:doi.org/10.3390/agronomy10060847; @doi:10.3835/plantgenome2018.10.0082]. Since
 cucurbit crops are more seed-limited than space-limited, a predict-part-test-part or sparse
-testing strategy is an obvious starting point [@doi: 10.3389/fpls.2021.658978]. Selective
-phenotyping of resource-intensive quality traits based on marker data to enable prediction
+testing strategy is potentially an even more efficient strategy in cucurbits 
+than it has been shown to be in grain crops [@doi: 10.3389/fpls.2021.658978]. 
+Selective phenotyping of resource-intensive quality traits based on marker data to enable prediction
 is also low-hanging fruit. Our work lowers the barrier to entry for GS in squash, 
 as it provides a set of markers that can be filtered idependently by interested breeding programs, 
 rapidly convered into an amplicon-based assay, and tested in target germplasm. This set
@@ -565,12 +566,20 @@ heterosis is not well understood. Unlike many other outcrossing monoicous crops 
 as, maize and onion, cultivars from Cucurbita, 
 similar to sunflower, do not suffer from debilatating inbreeding. 
 With little inbreeding depression, it would stand that lttle better-parent heterosis 
-could be achieved considering the dominance theory of heterosis. 
+would be expected under the dominance theory of heterosis. 
 Initial papers suggested that inbreeding in Cucurbita may not simply reduce 
 yield as inbred varieties have the capacity to compete with commercial check cultivars;
-however, better-parent heterosis has been observed in a Cucurbita pepo and C
-ucurbita maxima. Further, interspecific-heterosis has been observed at the gene-expression
-level in *C moschata x C. maxima* hybrids [@doi:10.1016/j.molp.2017.09.003].
+however, better-parent heterosis has been observed in a *C. pepo* and *C. maxima*. 
+Further, interspecific-heterosis has been observed at the gene-expression
+level in *C moschata* x *C. maxima* hybrids [@doi:10.1016/j.molp.2017.09.003]. 
+Anecdotally, interspecific crosses have led to the production of commercially
+successful cultivars [@doi:10.21273/HORTSCI10987-16]. The genetic groups
+identified in this study could help direct the development of heterotic groups 
+and the study of heterosis in squash. Although, there is little evidence
+that crossing between genetically differentiated groups leads to heterosis,
+these groupings can nonetheless be used to guide the initial formation of heterotic 
+groups. Reciprical recurrent selection will likely be necessary to develop true
+heterotic groups.
 
 Our data provides a useful starting point for association studies. In the case where
 traits are common in the panel, the panel can be phenotyped for a trait of interest and
