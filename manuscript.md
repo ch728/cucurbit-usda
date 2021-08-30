@@ -60,9 +60,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/823b675c87e9c108abbdd6e5a86790064120bd97/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/823b675c87e9c108abbdd6e5a86790064120bd97/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/823b675c87e9c108abbdd6e5a86790064120bd97/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/2fd7b3f0fd21c6b68f77ca74c50cc8ff34c05ea3/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/2fd7b3f0fd21c6b68f77ca74c50cc8ff34c05ea3/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/2fd7b3f0fd21c6b68f77ca74c50cc8ff34c05ea3/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -84,9 +84,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/823b675c87e9c108abbdd6e5a86790064120bd97/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/2fd7b3f0fd21c6b68f77ca74c50cc8ff34c05ea3/))
 was automatically generated
-from [ch728/cucurbit-usda@823b675](https://github.com/ch728/cucurbit-usda/tree/823b675c87e9c108abbdd6e5a86790064120bd97)
+from [ch728/cucurbit-usda@2fd7b3f](https://github.com/ch728/cucurbit-usda/tree/2fd7b3f0fd21c6b68f77ca74c50cc8ff34c05ea3)
 on August 30, 2021.
 </em></small>
 
@@ -302,7 +302,7 @@ As there is no $R^2$ defined for logistic models, McFadden’s psuedo $R^2$ was 
 Data were imputed prior to association analysis. 
 LinkImpute [@doi:10.1534/g3.115.021667], as implemented by the TASSEL [@doi:10.1093/bioinformatics/btm308]  "LDKNNiImputatioHetV2Plugin" plugin was used for imputation with default settings. 
 Any data still missing after this process were mean imputed. 
-The GENESIS [@doi: 10.1093/bioinformatics/btz567] R package, which can model both binary and continuous traits, was used for association. 
+The GENESIS [@doi:10.1093/bioinformatics/btz567] R package, which can model both binary and continuous traits, was used for association. 
 All models included the first two PCs of the marker matrix as fixed effects and modeled genotype effect ($u$) as a random effect distributed according to the kinship ($\mathbf{K}$) matrix ($u \sim N(0, \sigma_{u}^2\mathbf{K})$). 
 Binary traits were modeled using the logistic regression feature in GENESIS. 
 

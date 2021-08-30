@@ -18,7 +18,7 @@ Cocozelle
 convered
 CucCap
 Cucumis
-Cucurbit
+cucurbit
 Cucurbita
 Cucurbitaceae
 cucurbits
@@ -36,7 +36,7 @@ filetered
 fraterna
 GBS
 GenoCore
-Genomic
+genomic
 Genotype
 genotyped
 genotypes
@@ -44,7 +44,7 @@ genotyping
 germplasm
 glm
 gsg
-GWAS
+gwas
 heritabilities
 heritability
 heterosis
@@ -93,7 +93,7 @@ phenotypic
 phenotyping
 phentyping
 phylo
-Phylogenetic
+phylogenetic
 Phytophthora
 PicoGreen
 plex
@@ -123,7 +123,7 @@ syntenic
 Syntenty
 Tek
 texana
-Unrooted
+unrooted
 VCFtool’s
 VCFtools
 vining
