@@ -21,7 +21,7 @@ Cucumis
 Cucurbit
 Cucurbita
 Cucurbitaceae
-Cucurbits
+cucurbits
 dataset
 debilatating
 Delicata
@@ -37,7 +37,7 @@ fraterna
 GBS
 geno
 GenoCore
-genomic
+Genomic
 genotype
 genotyped
 genotypes
@@ -58,7 +58,7 @@ interspecific
 Invitrogen
 jacko
 Japonica
-Kobocha
+kobocha
 Kuri
 Labate
 Lagenaria
@@ -111,7 +111,7 @@ sativa
 seedstock
 selfing
 sequecing
-snp
+SNP
 SNPhylo
 SNPs
 Sommer
@@ -125,7 +125,7 @@ syntenic
 Syntenty
 Tek
 texana
-Unrooted
+unrooted
 VCFtool’s
 VCFtools
 vining
