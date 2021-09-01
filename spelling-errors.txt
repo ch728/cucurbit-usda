@@ -43,11 +43,11 @@ Genomic
 Genotype
 genotyped
 genotypes
-Genotyping
-Germplasm
+genotyping
+germplasm
 glm
 gsg
-gwas
+GWAS
 heritabilities
 heritability
 heterosis
@@ -60,7 +60,7 @@ interspecific
 Invitrogen
 jacko
 Japonica
-kobocha
+Kobocha
 Kuri
 Labate
 Lagenaria
@@ -129,7 +129,7 @@ sturcture
 subsp
 syntenic
 Syntenty
-Synteny
+synteny
 Tek
 texana
 unrooted
@@ -137,6 +137,5 @@ VCFtool’s
 VCFtools
 vining
 WMV
-Zhang
 Zhangjun
 Zuchinni
