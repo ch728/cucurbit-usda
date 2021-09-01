@@ -15,8 +15,10 @@ charaterized
 Chrom
 Citrullus
 Cma
+CmaCh
 Cocozelle
 convered
+Cp
 CucCap
 Cucumis
 Cucurbit
@@ -37,12 +39,12 @@ filetered
 fraterna
 GBS
 GenoCore
-genomic
-genotype
+Genomic
+Genotype
 genotyped
 genotypes
 Genotyping
-germplasm
+Germplasm
 glm
 gsg
 gwas
@@ -85,6 +87,7 @@ moscahta
 moschata
 Norcross
 ortholog
+orthologous
 outcrossing
 ovifera
 params
@@ -114,7 +117,7 @@ sativa
 seedstock
 selfing
 sequecing
-SNP
+snp
 SNPhylo
 SNPs
 Sommer
@@ -134,5 +137,6 @@ VCFtool’s
 VCFtools
 vining
 WMV
+Zhang
 Zhangjun
 Zuchinni

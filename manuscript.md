@@ -60,9 +60,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/3976b3cd8b2cbef4db84239237aa8891a3ccfd87/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/3976b3cd8b2cbef4db84239237aa8891a3ccfd87/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/3976b3cd8b2cbef4db84239237aa8891a3ccfd87/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/36bbc54f3382f34f021dc954c3a0caa9c8b951b4/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/36bbc54f3382f34f021dc954c3a0caa9c8b951b4/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/36bbc54f3382f34f021dc954c3a0caa9c8b951b4/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -84,9 +84,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/3976b3cd8b2cbef4db84239237aa8891a3ccfd87/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/36bbc54f3382f34f021dc954c3a0caa9c8b951b4/))
 was automatically generated
-from [ch728/cucurbit-usda@3976b3c](https://github.com/ch728/cucurbit-usda/tree/3976b3cd8b2cbef4db84239237aa8891a3ccfd87)
+from [ch728/cucurbit-usda@36bbc54](https://github.com/ch728/cucurbit-usda/tree/36bbc54f3382f34f021dc954c3a0caa9c8b951b4)
 on September 1, 2021.
 </em></small>
 
@@ -492,6 +492,7 @@ Three phenotypes were significantly associated with SNPs in *C. pepo*: bush/vine
 The bush/vine phenotype exhibited the strongest signal, and the Manhatten plot and p-value quantile-quantile plot is shown in Figure {@fig:gwas}.
 
 ### Syntenty of *Bu* putative region in *C. pepo* and *C. maxima*
+A candidate gene for dwarfism found in the species *C. maxima* was named Cma_004516 (Zhang et. al. 2015) and corresponds to the gene ID CmaCh03G013600 in the Cucurbit Genomics Database. The gene Cp4.1LG10g05740 on chromosome 10 in *C. pepo* was found to be orthologous to  CmaCh03G013600 and coincides with the region significantly associated with the bush/vine plant architecture phenotype identified by GWAS in the *C. pepo* collection.
 
 ### Development of a Core Collection
 
