@@ -14,6 +14,7 @@ Calabaza
 charaterized
 Chrom
 Citrullus
+Cma
 Cocozelle
 convered
 CucCap
@@ -41,7 +42,7 @@ genotype
 genotyped
 genotypes
 Genotyping
-Germplasm
+germplasm
 glm
 gsg
 gwas
@@ -57,7 +58,7 @@ interspecific
 Invitrogen
 jacko
 Japonica
-Kobocha
+kobocha
 Kuri
 Labate
 Lagenaria
@@ -70,6 +71,7 @@ lm
 Logit
 MAF
 Manhatten
+maxima’s
 Mazourek
 melo
 missingness
@@ -82,18 +84,20 @@ morphotype
 moscahta
 moschata
 Norcross
+ortholog
 outcrossing
 ovifera
 params
 PCA
 pepo
+pepo’s
 phenotyped
 phenotypes
 phenotypic
 phenotyping
 phentyping
 phylo
-Phylogenetic
+phylogenetic
 Phytophthora
 PicoGreen
 plex
@@ -101,6 +105,7 @@ PLINK
 pre
 princomp
 psuedo
+QPCR
 Quant
 quantile
 Reciprical
@@ -109,7 +114,7 @@ sativa
 seedstock
 selfing
 sequecing
-snp
+SNP
 SNPhylo
 SNPs
 Sommer
@@ -121,6 +126,7 @@ sturcture
 subsp
 syntenic
 Syntenty
+Synteny
 Tek
 texana
 unrooted

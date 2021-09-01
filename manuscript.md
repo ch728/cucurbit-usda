@@ -9,7 +9,7 @@ keywords:
 - Cucurbita moschata
 - Cucurbita maxima
 lang: en-US
-date-meta: '2021-08-31'
+date-meta: '2021-09-01'
 author-meta:
 - Christopher Owen Hernandez
 - Jack Fabrizio
@@ -26,8 +26,8 @@ header-includes: |-
   <meta name="citation_title" content="Characterization of the USDA Cucurbita pepo, Cucurbita moschata, and Cucurbita maxima Collections" />
   <meta property="og:title" content="Characterization of the USDA Cucurbita pepo, Cucurbita moschata, and Cucurbita maxima Collections" />
   <meta property="twitter:title" content="Characterization of the USDA Cucurbita pepo, Cucurbita moschata, and Cucurbita maxima Collections" />
-  <meta name="dc.date" content="2021-08-31" />
-  <meta name="citation_publication_date" content="2021-08-31" />
+  <meta name="dc.date" content="2021-09-01" />
+  <meta name="citation_publication_date" content="2021-09-01" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -60,9 +60,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/622490a24d0953b503eafbbf92651401028f0a45/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/622490a24d0953b503eafbbf92651401028f0a45/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/622490a24d0953b503eafbbf92651401028f0a45/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/3976b3cd8b2cbef4db84239237aa8891a3ccfd87/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/3976b3cd8b2cbef4db84239237aa8891a3ccfd87/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/3976b3cd8b2cbef4db84239237aa8891a3ccfd87/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -84,10 +84,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/622490a24d0953b503eafbbf92651401028f0a45/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/3976b3cd8b2cbef4db84239237aa8891a3ccfd87/))
 was automatically generated
-from [ch728/cucurbit-usda@622490a](https://github.com/ch728/cucurbit-usda/tree/622490a24d0953b503eafbbf92651401028f0a45)
-on August 31, 2021.
+from [ch728/cucurbit-usda@3976b3c](https://github.com/ch728/cucurbit-usda/tree/3976b3cd8b2cbef4db84239237aa8891a3ccfd87)
+on September 1, 2021.
 </em></small>
 
 ## Authors
@@ -309,7 +309,7 @@ All models included the first two PCs of the marker matrix as fixed effects and 
 Binary traits were modeled using the logistic regression feature in GENESIS. 
 
 ### Syntenty of *Bu* putative region in *C. pepo* and *C. maxima*
-
+All tools used in the analysis can be found on the Cucurbit Genomics website (http://cucurbitgenomics.org/). A candidate gene for dwarfism in  *C. maxima* was elucidated by a previous study {@doi:10.1186/s12864-015-2312-8} and was named  Cma_004516. The Cucurbit Genomics Database gene ID of  Cma_004516 was identified by using the BLAST tool to align primer sequences used for RT-QPCR in the previous study against the *C. maxima* reference genome. The synteny analysis was done by using the Synteny Viewer tool and evaluating *C. maxima’s* chromosome 3 with C. pepo’s chromosome 10 and searching for an ortholog to the candidate gene. The physical position of the *C. pepo* ortholog was identified by searching the gene using the Search tool.
 
 ### Creation of a Core Collection
 

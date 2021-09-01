@@ -176,6 +176,17 @@ content/03.materials_and_methods.md:56:LinkImpute
 content/03.materials_and_methods.md:59:genotype
 content/03.materials_and_methods.md:62:pepo
 content/03.materials_and_methods.md:62:Syntenty
+content/03.materials_and_methods.md:63:Cucurbit
+content/03.materials_and_methods.md:63:Cucurbit
+content/03.materials_and_methods.md:63:maxima’s
+content/03.materials_and_methods.md:63:ortholog
+content/03.materials_and_methods.md:63:ortholog
+content/03.materials_and_methods.md:63:pepo
+content/03.materials_and_methods.md:63:pepo
+content/03.materials_and_methods.md:63:pepo’s
+content/03.materials_and_methods.md:63:QPCR
+content/03.materials_and_methods.md:63:synteny
+content/03.materials_and_methods.md:63:Synteny
 content/03.materials_and_methods.md:67:GenoCore
 content/03.materials_and_methods.md:67:SNP
 content/03.materials_and_methods.md:68:cucurbit
