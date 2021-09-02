@@ -39,15 +39,15 @@ filetered
 fraterna
 GBS
 GenoCore
-Genomic
+genomic
 Genotype
 genotyped
 genotypes
-Genotyping
-Germplasm
+genotyping
+germplasm
 glm
 gsg
-gwas
+GWAS
 heritabilities
 heritability
 heterosis
@@ -60,7 +60,7 @@ interspecific
 Invitrogen
 jacko
 Japonica
-Kobocha
+kobocha
 Kuri
 Labate
 Lagenaria
@@ -96,7 +96,7 @@ pepo
 pepo’s
 phenotyped
 phenotypes
-Phenotypic
+phenotypic
 phenotyping
 phentyping
 phylo
@@ -117,7 +117,7 @@ sativa
 seedstock
 selfing
 sequecing
-snp
+SNP
 SNPhylo
 SNPs
 Sommer
@@ -129,7 +129,7 @@ sturcture
 subsp
 syntenic
 Syntenty
-synteny
+Synteny
 Tek
 texana
 Unrooted

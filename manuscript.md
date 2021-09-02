@@ -60,9 +60,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/9cf8d865c31ce89f63b603ab4dd50ad7bcdf9ad6/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/9cf8d865c31ce89f63b603ab4dd50ad7bcdf9ad6/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/9cf8d865c31ce89f63b603ab4dd50ad7bcdf9ad6/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/03ce9ca15cb0376c324f94d499e1a82f9b4e471f/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/03ce9ca15cb0376c324f94d499e1a82f9b4e471f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/03ce9ca15cb0376c324f94d499e1a82f9b4e471f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -84,9 +84,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/9cf8d865c31ce89f63b603ab4dd50ad7bcdf9ad6/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/03ce9ca15cb0376c324f94d499e1a82f9b4e471f/))
 was automatically generated
-from [ch728/cucurbit-usda@9cf8d86](https://github.com/ch728/cucurbit-usda/tree/9cf8d865c31ce89f63b603ab4dd50ad7bcdf9ad6)
+from [ch728/cucurbit-usda@03ce9ca](https://github.com/ch728/cucurbit-usda/tree/03ce9ca15cb0376c324f94d499e1a82f9b4e471f)
 on September 2, 2021.
 </em></small>
 
@@ -607,7 +607,7 @@ accessions that would likely be informative for re-sequencing efforts.
 
 ## Supplemental  Figures
 
-![Cross-validation error  plots used to pick the optimum K value for admixture analysis. The K value that minimizes cross-validation error, and thus chosen for the final analysis, is labeled with a red point.](images/error_plots.png) {#fig:cv}
+![Cross-validation error  plots used to pick the optimum K value for admixture analysis. The K value that minimizes cross-validation error, and thus chosen for the final analysis, is labeled with a red point.](images/error_plots.png){#fig:cv}
 
 ![Results from running GenoCore in each of the panels. Panel A shows the PCA plots for each panel with accessions selected by GenoCore represented as black points. Panel B shows the proportion of total accessions needed to obtain a certain coverage of diversity.](images/core_plot.png) 
 
