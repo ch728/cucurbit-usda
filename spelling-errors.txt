@@ -43,11 +43,11 @@ Genomic
 Genotype
 genotyped
 genotypes
-genotyping
-germplasm
+Genotyping
+Germplasm
 glm
 gsg
-GWAS
+gwas
 heritabilities
 heritability
 heterosis
@@ -96,11 +96,11 @@ pepo
 pepo’s
 phenotyped
 phenotypes
-phenotypic
+Phenotypic
 phenotyping
 phentyping
 phylo
-phylogenetic
+Phylogenetic
 Phytophthora
 PicoGreen
 plex
@@ -132,7 +132,7 @@ Syntenty
 synteny
 Tek
 texana
-unrooted
+Unrooted
 VCFtool’s
 VCFtools
 vining
