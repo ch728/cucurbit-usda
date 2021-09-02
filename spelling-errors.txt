@@ -40,7 +40,7 @@ fraterna
 GBS
 GenoCore
 genomic
-Genotype
+genotype
 genotyped
 genotypes
 genotyping
@@ -100,7 +100,7 @@ phenotypic
 phenotyping
 phentyping
 phylo
-Phylogenetic
+phylogenetic
 Phytophthora
 PicoGreen
 plex
@@ -129,7 +129,7 @@ sturcture
 subsp
 syntenic
 Syntenty
-Synteny
+synteny
 Tek
 texana
 Unrooted
