@@ -60,9 +60,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/82d4ad61b6f3525bee71b07ffc526c675bb23f99/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/82d4ad61b6f3525bee71b07ffc526c675bb23f99/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/82d4ad61b6f3525bee71b07ffc526c675bb23f99/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/27176d9a7b229b3d647953f345fa926d55cd1e50/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/27176d9a7b229b3d647953f345fa926d55cd1e50/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/27176d9a7b229b3d647953f345fa926d55cd1e50/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -84,9 +84,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/82d4ad61b6f3525bee71b07ffc526c675bb23f99/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/27176d9a7b229b3d647953f345fa926d55cd1e50/))
 was automatically generated
-from [ch728/cucurbit-usda@82d4ad6](https://github.com/ch728/cucurbit-usda/tree/82d4ad61b6f3525bee71b07ffc526c675bb23f99)
+from [ch728/cucurbit-usda@27176d9](https://github.com/ch728/cucurbit-usda/tree/27176d9a7b229b3d647953f345fa926d55cd1e50)
 on November 24, 2021.
 </em></small>
 
@@ -387,9 +387,6 @@ The first two principal components (PCs) derived from principal components analy
 As with the model-based analysis, PCA  showed geography as a main driver of population structure with accessions being derived from Africa, the Arab States, Asia, Europe, North America, and South/Latin America. 
 PC1 in *C. pepo* separates *C. pepo* subsp.*ovifera*, which have a North American Origin, from subsp. *pepo*. 
 
-
-![Unrooted maximum likelihood tree of *C. pepo* subspecies inferred using wild and cultivated germplasm in the *C. pepo* collection.](images/pepo_phylo.png){#fig:phylo}
-
 Ancestry proportions from admixture analysis were projected onto cultivars/market types identified in the accessions, which were excluded from the initial analysis used to infer ancestral groups. 
 Cultivars were grouped according to known market class within species to help identify patterns in ancestry among and between market classes. 
 Key market types identified in accessions from *C. pepo* including Acorn, Scallop, Crook, Pumpkin (jacko' lantern), Zuchinni, Marrow, Gem, and Spaghetti; Neck, Cheese, Japonica, and Calabaza in *C. moschata*; and Buttercup, Kobocha, Kuri, Hubbard, and Mammoth (show squash) in *C. maxima*. 
@@ -400,10 +397,6 @@ For example, Acorn, Scallop and Crook market classes are all from subsp. *ovifer
 In contrast, market classes within *pepo* had a small percentage of ancestry from wild *ovifera* and more ancestry in common with European and Asian accessions.
 With *C. moschata*, Neck and Cheese type market classes showed very similar ancestry patterns, whereas the Japonica and Calabaza types were more distinct. 
 Relative to the *C. pepo* and *C. moschata*, the *C. maxima* cultivars were less distinct from one another.
-
-Unlike *C. moschata* and *C. maxima*, several different subspecies were present in the *C. pepo* collection, including some wild specimens.
-A group of 82 accessions with 11,065 high-quality SNPs was used for constructing an unrooted phylogenetic tree. 
-The tree is shown in Figure {@fig:phylo} and recapitulates the relationships among *pepo* subspecies shown in previous work [@doi:10.1016/j.ympev.2017.03.002].
 
 ### Analysis of Phenotypic Data
 

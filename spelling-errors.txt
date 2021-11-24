@@ -21,7 +21,7 @@ convered
 Cp
 CucCap
 Cucumis
-cucurbit
+Cucurbit
 Cucurbita
 Cucurbitaceae
 cucurbits
@@ -44,10 +44,10 @@ genotype
 genotyped
 genotypes
 genotyping
-Germplasm
+germplasm
 glm
 gsg
-gwas
+GWAS
 heritabilities
 heritability
 heterosis
@@ -96,10 +96,9 @@ pepo
 pepo’s
 phenotyped
 phenotypes
-Phenotypic
+phenotypic
 phenotyping
 phentyping
-phylo
 Phylogenetic
 Phytophthora
 PicoGreen
@@ -128,10 +127,9 @@ sturcture
 subsp
 syntenic
 Syntenty
-Synteny
+synteny
 Tek
 texana
-unrooted
 VCFtool’s
 VCFtools
 vining
