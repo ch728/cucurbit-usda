@@ -9,7 +9,7 @@ keywords:
 - Cucurbita moschata
 - Cucurbita maxima
 lang: en-US
-date-meta: '2021-09-02'
+date-meta: '2021-11-24'
 author-meta:
 - Christopher Owen Hernandez
 - Jack Fabrizio
@@ -26,8 +26,8 @@ header-includes: |-
   <meta name="citation_title" content="Characterization of the USDA Cucurbita pepo, Cucurbita moschata, and Cucurbita maxima Collections" />
   <meta property="og:title" content="Characterization of the USDA Cucurbita pepo, Cucurbita moschata, and Cucurbita maxima Collections" />
   <meta property="twitter:title" content="Characterization of the USDA Cucurbita pepo, Cucurbita moschata, and Cucurbita maxima Collections" />
-  <meta name="dc.date" content="2021-09-02" />
-  <meta name="citation_publication_date" content="2021-09-02" />
+  <meta name="dc.date" content="2021-11-24" />
+  <meta name="citation_publication_date" content="2021-11-24" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -60,9 +60,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/38dde383203b10a271d1e47ea5273075d3e1fe33/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/38dde383203b10a271d1e47ea5273075d3e1fe33/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/38dde383203b10a271d1e47ea5273075d3e1fe33/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/82d4ad61b6f3525bee71b07ffc526c675bb23f99/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/82d4ad61b6f3525bee71b07ffc526c675bb23f99/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/82d4ad61b6f3525bee71b07ffc526c675bb23f99/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -84,10 +84,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/38dde383203b10a271d1e47ea5273075d3e1fe33/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/82d4ad61b6f3525bee71b07ffc526c675bb23f99/))
 was automatically generated
-from [ch728/cucurbit-usda@38dde38](https://github.com/ch728/cucurbit-usda/tree/38dde383203b10a271d1e47ea5273075d3e1fe33)
-on September 2, 2021.
+from [ch728/cucurbit-usda@82d4ad6](https://github.com/ch728/cucurbit-usda/tree/82d4ad61b6f3525bee71b07ffc526c675bb23f99)
+on November 24, 2021.
 </em></small>
 
 ## Authors
@@ -279,10 +279,6 @@ Principal components analysis (PCA) was used as a model-free way of determining 
 The original filtered marker data, not the LD-pruned data used for ADMIXTURE, were converted to a dosage matrix using VCFtool's "--012" argument. 
 A kinship matrix $\mathbf{K}$ was created using the dosage matrix as input to the "A.mat()" function in Sommer [@doi:10.1371/journal.pone.0156744]. 
 PCA was conducted using the R function "princomp()" with $\mathbf{K}$ supplied as the covariance matrix.
-
-Phylogenetic analysis was conducted in a subset of the *C. pepo* panel with clearly labeled subspecies information or where enough information to unambiguously assign the accession to a subspecies was present. 
-The SNPhylo [@doi:10.1186/1471-2164-15-162] pipeline was used to infer an unrooted tree using the maximum likelihood method. 
-Default settings were used, except the minimum coverage parameter was decreased to 3 instead of 5 to account for the lower average coverage of GBS data.
 
 ### Analysis of Phenotypic Data
 Historical data were obtained from the USDA Germplasm Resources Information Network (GRIN; http://www.ars-grin.gov) for *C. maxima*, *C. pepo*, and *C. moschata*.
