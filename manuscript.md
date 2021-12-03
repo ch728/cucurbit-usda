@@ -9,7 +9,7 @@ keywords:
 - Cucurbita moschata
 - Cucurbita maxima
 lang: en-US
-date-meta: '2021-11-24'
+date-meta: '2021-12-03'
 author-meta:
 - Christopher Owen Hernandez
 - Jack Fabrizio
@@ -26,8 +26,8 @@ header-includes: |-
   <meta name="citation_title" content="Characterization of the USDA Cucurbita pepo, Cucurbita moschata, and Cucurbita maxima Collections" />
   <meta property="og:title" content="Characterization of the USDA Cucurbita pepo, Cucurbita moschata, and Cucurbita maxima Collections" />
   <meta property="twitter:title" content="Characterization of the USDA Cucurbita pepo, Cucurbita moschata, and Cucurbita maxima Collections" />
-  <meta name="dc.date" content="2021-11-24" />
-  <meta name="citation_publication_date" content="2021-11-24" />
+  <meta name="dc.date" content="2021-12-03" />
+  <meta name="citation_publication_date" content="2021-12-03" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -60,9 +60,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/27176d9a7b229b3d647953f345fa926d55cd1e50/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/27176d9a7b229b3d647953f345fa926d55cd1e50/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/27176d9a7b229b3d647953f345fa926d55cd1e50/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/057016082c31c9caf540bb995d564da5573898f7/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/057016082c31c9caf540bb995d564da5573898f7/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/057016082c31c9caf540bb995d564da5573898f7/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -84,10 +84,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/27176d9a7b229b3d647953f345fa926d55cd1e50/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/057016082c31c9caf540bb995d564da5573898f7/))
 was automatically generated
-from [ch728/cucurbit-usda@27176d9](https://github.com/ch728/cucurbit-usda/tree/27176d9a7b229b3d647953f345fa926d55cd1e50)
-on November 24, 2021.
+from [ch728/cucurbit-usda@0570160](https://github.com/ch728/cucurbit-usda/tree/057016082c31c9caf540bb995d564da5573898f7)
+on December 3, 2021.
 </em></small>
 
 ## Authors
@@ -95,14 +95,14 @@ on November 24, 2021.
 
 
 + **Christopher Owen Hernandez**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [0000-0002-1668-7121](https://orcid.org/0000-0002-1668-7121)<br>
   <small>
      Department of Plant Breeding and Genetics, Cornell University, Ithaca, NY
   </small>
 
 + **Jack Fabrizio**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [0000-0002-1552-6924](https://orcid.org/0000-0002-1552-6924)<br>
   <small>
      Department of Plant Breeding and Genetics, Cornell University, Ithaca, NY
@@ -114,14 +114,14 @@ on November 24, 2021.
   </small>
 
 + **Zhangjun Fei**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [0000-0001-9684-1450](https://orcid.org/0000-0001-9684-1450)<br>
   <small>
      Boyce Thompson Institute for Plant Research, Ithaca, NY
   </small>
 
 + **Michael Mazourek**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [0000-0002-2285-7692](https://orcid.org/0000-0002-2285-7692)<br>
   <small>
      Department of Plant Breeding and Genetics, Cornell University, Ithaca,NY

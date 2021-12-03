@@ -39,15 +39,15 @@ filetered
 fraterna
 GBS
 GenoCore
-Genomic
+genomic
 genotype
 genotyped
 genotypes
 genotyping
-germplasm
+Germplasm
 glm
 gsg
-GWAS
+gwas
 heritabilities
 heritability
 heterosis
@@ -60,7 +60,7 @@ interspecific
 Invitrogen
 jacko
 Japonica
-kobocha
+Kobocha
 Kuri
 Labate
 Lagenaria
@@ -96,7 +96,7 @@ pepo
 pepo’s
 phenotyped
 phenotypes
-phenotypic
+Phenotypic
 phenotyping
 phentyping
 Phylogenetic
