@@ -9,12 +9,16 @@ keywords:
 - Cucurbita moschata
 - Cucurbita maxima
 lang: en-US
-date-meta: '2021-12-03'
+date-meta: '2021-12-11'
 author-meta:
 - Christopher Owen Hernandez
-- Jack Fabrizio
 - Joanne Labate
+- Bob Jarret
+- Kathleen Reitsma
+- Jack Fabrizio
+- Kan Bao
 - Zhangjun Fei
+- Rebecca Grumet
 - Michael Mazourek
 header-includes: |-
   <!--
@@ -26,8 +30,8 @@ header-includes: |-
   <meta name="citation_title" content="Characterization of the USDA Cucurbita pepo, Cucurbita moschata, and Cucurbita maxima Collections" />
   <meta property="og:title" content="Characterization of the USDA Cucurbita pepo, Cucurbita moschata, and Cucurbita maxima Collections" />
   <meta property="twitter:title" content="Characterization of the USDA Cucurbita pepo, Cucurbita moschata, and Cucurbita maxima Collections" />
-  <meta name="dc.date" content="2021-12-03" />
-  <meta name="citation_publication_date" content="2021-12-03" />
+  <meta name="dc.date" content="2021-12-11" />
+  <meta name="citation_publication_date" content="2021-12-11" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -35,23 +39,40 @@ header-includes: |-
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
   <meta name="citation_author" content="Christopher Owen Hernandez" />
-  <meta name="citation_author_institution" content="Department of Plant Breeding and Genetics, Cornell University, Ithaca, NY" />
+  <meta name="citation_author_institution" content="Department of Plant Breeding and Genetics, Cornell University, Ithaca, NY, 14853 USA" />
+  <meta name="citation_author_institution" content="H. Rouse Caffey Rice Research Station, Louisiana State University, Rayne, LA, 70578 USA" />
   <meta name="citation_author_orcid" content="0000-0002-1668-7121" />
   <meta name="twitter:creator" content="@None" />
+  <meta name="citation_author" content="Joanne Labate" />
+  <meta name="citation_author_institution" content="Plant Genetic Resource Conservation Unit, United States Department of Agricultural Research Service, Geneva, NY, 14456 USA" />
+  <meta name="citation_author_orcid" content="None" />
+  <meta name="twitter:creator" content="@None" />
+  <meta name="citation_author" content="Bob Jarret" />
+  <meta name="citation_author_institution" content="Plant Genetic Resource Conservation Unit, United States Department of Agricultural Research Service, Griffin, GA, 30223 USA" />
+  <meta name="citation_author_orcid" content="None" />
+  <meta name="twitter:creator" content="@None" />
+  <meta name="citation_author" content="Kathleen Reitsma" />
+  <meta name="citation_author_institution" content="North Central Regional Plant Introduction Station, Iowa State University, Ames, IA, 50014 USA" />
+  <meta name="citation_author_orcid" content="None" />
+  <meta name="twitter:creator" content="@None" />
   <meta name="citation_author" content="Jack Fabrizio" />
-  <meta name="citation_author_institution" content="Department of Plant Breeding and Genetics, Cornell University, Ithaca, NY" />
+  <meta name="citation_author_institution" content="Department of Plant Breeding and Genetics, Cornell University, Ithaca, NY, 14853 USDA" />
   <meta name="citation_author_orcid" content="0000-0002-1552-6924" />
   <meta name="twitter:creator" content="@None" />
-  <meta name="citation_author" content="Joanne Labate" />
-  <meta name="citation_author_institution" content="USDA, Geneva, NY" />
+  <meta name="citation_author" content="Kan Bao" />
+  <meta name="citation_author_institution" content="Boyce Thompson Institute, Cornell University, Ithaca, NY, 14853 USA" />
   <meta name="citation_author_orcid" content="None" />
   <meta name="twitter:creator" content="@None" />
   <meta name="citation_author" content="Zhangjun Fei" />
-  <meta name="citation_author_institution" content="Boyce Thompson Institute for Plant Research, Ithaca, NY" />
+  <meta name="citation_author_institution" content="Boyce Thompson Institute, Cornell University, Ithaca, NY, 14853 USA" />
   <meta name="citation_author_orcid" content="0000-0001-9684-1450" />
   <meta name="twitter:creator" content="@None" />
+  <meta name="citation_author" content="Rebecca Grumet" />
+  <meta name="citation_author_institution" content="Department of Horticulture, Michigan State University, East Lansing, MI, 48824 USA" />
+  <meta name="citation_author_orcid" content="None" />
+  <meta name="twitter:creator" content="@None" />
   <meta name="citation_author" content="Michael Mazourek" />
-  <meta name="citation_author_institution" content="Department of Plant Breeding and Genetics, Cornell University, Ithaca,NY" />
+  <meta name="citation_author_institution" content="Department of Plant Breeding and Genetics, Cornell University, Ithaca, NY, 14853 USA" />
   <meta name="citation_author_orcid" content="0000-0002-2285-7692" />
   <meta name="twitter:creator" content="@None" />
   <link rel="canonical" href="https://ch728.github.io/cucurbit-usda/" />
@@ -60,9 +81,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ch728.github.io/cucurbit-usda/" />
   <meta name="citation_pdf_url" content="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ch728.github.io/cucurbit-usda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/057016082c31c9caf540bb995d564da5573898f7/" />
-  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/057016082c31c9caf540bb995d564da5573898f7/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/057016082c31c9caf540bb995d564da5573898f7/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ch728.github.io/cucurbit-usda/v/506f93d22b7264e1ea4a13a575558839a7c5a4b3/" />
+  <meta name="manubot_html_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/506f93d22b7264e1ea4a13a575558839a7c5a4b3/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ch728.github.io/cucurbit-usda/v/506f93d22b7264e1ea4a13a575558839a7c5a4b3/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -84,10 +105,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ch728.github.io/cucurbit-usda/v/057016082c31c9caf540bb995d564da5573898f7/))
+([permalink](https://ch728.github.io/cucurbit-usda/v/506f93d22b7264e1ea4a13a575558839a7c5a4b3/))
 was automatically generated
-from [ch728/cucurbit-usda@0570160](https://github.com/ch728/cucurbit-usda/tree/057016082c31c9caf540bb995d564da5573898f7)
-on December 3, 2021.
+from [ch728/cucurbit-usda@506f93d](https://github.com/ch728/cucurbit-usda/tree/506f93d22b7264e1ea4a13a575558839a7c5a4b3)
+on December 11, 2021.
 </em></small>
 
 ## Authors
@@ -98,33 +119,53 @@ on December 3, 2021.
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [0000-0002-1668-7121](https://orcid.org/0000-0002-1668-7121)<br>
   <small>
-     Department of Plant Breeding and Genetics, Cornell University, Ithaca, NY
+     Department of Plant Breeding and Genetics, Cornell University, Ithaca, NY, 14853 USA; H. Rouse Caffey Rice Research Station, Louisiana State University, Rayne, LA, 70578 USA
+  </small>
+
++ **Joanne Labate**<br><br>
+  <small>
+     Plant Genetic Resource Conservation Unit, United States Department of Agricultural Research Service, Geneva, NY, 14456 USA
+  </small>
+
++ **Bob Jarret**<br><br>
+  <small>
+     Plant Genetic Resource Conservation Unit, United States Department of Agricultural Research Service, Griffin, GA, 30223 USA
+  </small>
+
++ **Kathleen Reitsma**<br><br>
+  <small>
+     North Central Regional Plant Introduction Station, Iowa State University, Ames, IA, 50014 USA
   </small>
 
 + **Jack Fabrizio**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [0000-0002-1552-6924](https://orcid.org/0000-0002-1552-6924)<br>
   <small>
-     Department of Plant Breeding and Genetics, Cornell University, Ithaca, NY
+     Department of Plant Breeding and Genetics, Cornell University, Ithaca, NY, 14853 USDA
   </small>
 
-+ **Joanne Labate**<br><br>
++ **Kan Bao**<br><br>
   <small>
-     USDA, Geneva, NY
+     Boyce Thompson Institute, Cornell University, Ithaca, NY, 14853 USA
   </small>
 
 + **Zhangjun Fei**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [0000-0001-9684-1450](https://orcid.org/0000-0001-9684-1450)<br>
   <small>
-     Boyce Thompson Institute for Plant Research, Ithaca, NY
+     Boyce Thompson Institute, Cornell University, Ithaca, NY, 14853 USA
+  </small>
+
++ **Rebecca Grumet**<br><br>
+  <small>
+     Department of Horticulture, Michigan State University, East Lansing, MI, 48824 USA
   </small>
 
 + **Michael Mazourek**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [0000-0002-2285-7692](https://orcid.org/0000-0002-2285-7692)<br>
   <small>
-     Department of Plant Breeding and Genetics, Cornell University, Ithaca,NY
+     Department of Plant Breeding and Genetics, Cornell University, Ithaca, NY, 14853 USA
   </small>
 
 
